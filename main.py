@@ -51,7 +51,6 @@ for each in Chinese_data[:]:
     print(translate)
     temp["Chinese_explain"] = translate
     #################################################Humour Composition
-    # for i in range(5):
     completion2 = client.chat.completions.create(
     model="gpt-4o",
     seed=40,
