@@ -1,4 +1,4 @@
-from prompt_copy import prompts, language_codes
+from prompt import prompts, language_codes
 import pandas as pd
 from openai import OpenAI
 import os
