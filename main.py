@@ -25,6 +25,7 @@ for each in Chinese_data[:]:
 
     completion = client.chat.completions.create(
     model="gpt-4o",
+    temperature=0.1,
     seed=40,
     messages=[
         {"role": "system", "content": "A joke can be thought of as being composed based on three components. Under a particular theory of joke information, those components are: \
@@ -42,6 +43,7 @@ for each in Chinese_data[:]:
     completion1 = client.chat.completions.create(
     model="gpt-4o",
     seed=40,
+    temperature=0.1,
     messages=[
         {"role": "system", "content": "Please translate the analysis from Englsih into Spanish:"},
         {"role": "user", "content": explain}
@@ -54,6 +56,7 @@ for each in Chinese_data[:]:
     completion2 = client.chat.completions.create(
     model="gpt-4o",
     seed=40,
+    temperature=0.1,
     messages=[
         {"role": "system", "content": "Please generate a Spanish joke based on the analysis (only output the joke): "},
         {"role": "user", "content": translate}
