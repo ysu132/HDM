@@ -21,8 +21,8 @@ gen_config = GenerationConfig(
                         eos_token_id=tokenizer.eos_token_id,
                         pad_token=tokenizer.pad_token_id,
             )
-s = f"Use a few words to describe the topics of the following input sentence.\n" + \
-                    f"Input: {it_src}\n" + "Topics:"
+s = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the following input sentence.\n" + \
+                    f"Input: {it_src}\n" + "Description:"
 
 tokenized = tokenizer(s, padding=True, return_tensors="pt")
 print(tokenized)
@@ -32,3 +32,15 @@ input_ids = input_ids[:, :-1] if input_ids[0, -1] == tokenizer.eos_token_id else
 attn_mask = attn_mask[:, :-1] if input_ids[0, -1] == tokenizer.eos_token_id else attn_mask
 
 generated_ids = model.generate(inputs=input_ids, attention_mask=attn_mask, generation_config=gen_config)
+print(generated_ids)
+original_text = tokenizer.decode(input_ids[0], skip_special_tokens=True)
+gen_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
+new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
+print(new_text, flush=True)
+# for original_input, gen_id in zip(input_ids, generated_ids):
+#     original_text = tokenizer.decode(original_input, skip_special_tokens=True)
+
+#     gen_text = tokenizer.decode(gen_id, skip_special_tokens=True)
+
+#     new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
+#     print(new_text, flush=True)
