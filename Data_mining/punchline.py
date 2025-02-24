@@ -6,7 +6,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 
 model_name_or_path = "wxjiao/alpaca-7b"
-it_src = "You can tune a guitar, but you can't tuna fish."
+it_src = "Always trust a glue salesman. They tend to stick to their word."
 
 model = AutoModelForCausalLM.from_pretrained(model_name_or_path, torch_dtype=torch.float16, device_map="auto")
 tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, use_fast=False)
@@ -21,7 +21,7 @@ gen_config = GenerationConfig(
                         eos_token_id=tokenizer.eos_token_id,
                         pad_token=tokenizer.pad_token_id,
             )
-s = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the following input sentence.\n" + \
+s = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence.\n" + \
                     f"Input: {it_src}\n" + "Description:"
 
 tokenized = tokenizer(s, padding=True, return_tensors="pt")

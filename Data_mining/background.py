@@ -6,7 +6,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 
 model_name_or_path = "wxjiao/alpaca-7b"
-it_src = "You can tune a guitar, but you can't tuna fish."
+it_src = "Always trust a glue salesman. They tend to stick to their word."
 
 model = AutoModelForCausalLM.from_pretrained(model_name_or_path, torch_dtype=torch.float16, device_map="auto")
 tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, use_fast=False)
