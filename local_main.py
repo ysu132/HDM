@@ -26,14 +26,14 @@ s = f"Translate the following input text into Chinese.\n" + \
                     f"Input text: {it_src}\n" + "Translation:"
 
 tokenized = tokenizer(s, padding=True, return_tensors="pt")
-print(tokenized)
 input_ids = tokenized.input_ids.cuda()
 attn_mask = tokenized.attention_mask.cuda()
+print(input_ids, attn_mask, flush=True)
 input_ids = input_ids[:, :-1] if input_ids[0, -1] == tokenizer.eos_token_id else input_ids
 attn_mask = attn_mask[:, :-1] if input_ids[0, -1] == tokenizer.eos_token_id else attn_mask
-
+print(input_ids, attn_mask, flush=True)
 generated_ids = model.generate(inputs=input_ids, attention_mask=attn_mask, generation_config=gen_config)
-print(generated_ids)
+
 original_text = tokenizer.decode(input_ids[0], skip_special_tokens=True)
 gen_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
 new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
