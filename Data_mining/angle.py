@@ -11,7 +11,7 @@ import json
 # model_name_or_path = "wxjiao/alpaca-7b"
 model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
 input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
-output_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/background.json'
+output_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/angle.json'
 
 with open(input_file, 'r', encoding='utf-8') as csvfile:
     filtered_joke = json.load(csvfile)
@@ -40,8 +40,8 @@ for i in tqdm(range(300)):
     #                     f"Input: {jokes[i]}\n" + "Description:"
     joke = filtered_joke[i]["Joke"]
     messages = [
-            {"role": "system", "content": "The topic is the news item that the joke is based on. Use a few words to describe the topics of the following input sentence."},
-            {"role": "user", "content": f"Input: {joke}\n" + "Topics:"}
+            {"role": "system", "content": "The angle is the particular direction that the joke takes. Please provide a brief description of the angle for the input sentence."},
+            {"role": "user", "content": f"Input: {joke}\n" + "Description:"}
         ]
     text = tokenizer.apply_chat_template(
             messages,
@@ -61,8 +61,15 @@ for i in tqdm(range(300)):
     gen_text = tokenizer.decode(generated_ids[0], skip_special_tokens=False)
     new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
     # print(new_text, flush=True)
-    temp = {"ID":i,"joke": joke, "topics": new_text}
+    temp = {"ID":i,"joke": joke, "angle": new_text}
     res.append(temp)
 # 将过滤后的数据写入JSON文件
 with open(output_file, 'w', encoding='utf-8') as jsonfile:
     json.dump(res, jsonfile, indent=4, ensure_ascii=False)
+# for original_input, gen_id in zip(input_ids, generated_ids):
+#     original_text = tokenizer.decode(original_input, skip_special_tokens=True)
+
+#     gen_text = tokenizer.decode(gen_id, skip_special_tokens=True)
+
+#     new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
+#     print(new_text, flush=True)
