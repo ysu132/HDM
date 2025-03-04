@@ -6,7 +6,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import json
 
-model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
+model_name_or_path = "wxjiao/alpaca-7b"
 input_topic_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/background.json'
 input_angle_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/angle.json'
 input_punchline_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/punchline.json'
