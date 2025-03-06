@@ -10,11 +10,26 @@ import json
 
 # model_name_or_path = "wxjiao/alpaca-7b"
 model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
-input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
-output_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/background.json'
+# input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
+input_file = '/data/home/ysu132/Github/DUAL/Dual-Reflect/output/baseline_dual_reflect_qwen_4lp.jsonl'
+output_file = '/data/home/ysu132/HTDM/qwen2.5/Data_mining/Mining_data/background.json'
 
-with open(input_file, 'r', encoding='utf-8') as csvfile:
-    filtered_joke = json.load(csvfile)
+# with open(input_file, 'r', encoding='utf-8') as csvfile:
+#     filtered_joke = json.load(csvfile)
+
+
+def read_jsonl(file_path):
+    data = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            try:
+                data.append(json.loads(line.strip()))
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON: {e}")
+    return data
+
+
+filtered_joke = read_jsonl(input_file)
     
 
 it_src = "What do you call a green cow in a field? Invisibull."
@@ -34,11 +49,11 @@ gen_config = GenerationConfig(
             )
 
 res = []
-for i in tqdm(range(300)):
+for i in tqdm(range(len(filtered_joke))):
 
     # s = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence.\n" + \
     #                     f"Input: {jokes[i]}\n" + "Description:"
-    joke = filtered_joke[i]["Joke"]
+    joke = filtered_joke[i]["src_text"]
     messages = [
             {"role": "system", "content": "The topic is the news item that the joke is based on. Use a few words to describe the topics of the following input sentence."},
             {"role": "user", "content": f"Input: {joke}\n" + "Topics:"}

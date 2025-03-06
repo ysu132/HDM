@@ -8,10 +8,10 @@ import csv
 import json
 
 
-model_name_or_path = "wxjiao/alpaca-7b"
+model_name_or_path = "lmsys/vicuna-7b-v1.5"
 # model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
 input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
-output_file = '/home/ysu132/HTDM/alpaca/Data_mining/Mining_data/background.json'
+output_file = '/data/home/ysu132/HTDM/vicuna/Data_mining/Mining_data/background.json'
 
 with open(input_file, 'r', encoding='utf-8') as csvfile:
     filtered_joke = json.load(csvfile)

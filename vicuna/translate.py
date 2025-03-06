@@ -7,10 +7,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import json
 
 model_name_or_path = "wxjiao/alpaca-7b"
-input_topic_file = '/home/ysu132/HTDM/alpaca/Data_mining/Mining_data/background.json'
-input_angle_file = '/home/ysu132/HTDM/alpaca/Data_mining/Mining_data/angle.json'
-input_punchline_file = '/home/ysu132/HTDM/alpaca/Data_mining/Mining_data/punchline.json'
-output_file = '/home/ysu132/HTDM/alpaca/humour.json'
+input_topic_file = '/data/home/ysu132/HTDM/vicuna/Data_mining/Mining_data/background.json'
+input_angle_file = '/data/home/ysu132/HTDM/vicuna/Data_mining/Mining_data/angle.json'
+input_punchline_file = '/data/home/ysu132/HTDM/vicuna/Data_mining/Mining_data/punchline.json'
+output_file = '/data/home/ysu132/HTDM/vicuna/humour1.json'
 with open(input_topic_file, 'r', encoding='utf-8') as csvtopic:
     filtered_topic = json.load(csvtopic)
 with open(input_angle_file, 'r', encoding='utf-8') as csvangle:
@@ -49,7 +49,7 @@ for i in tqdm(range(300)):
     angle = humour_array[i]["angle"]
     punchline = humour_array[i]["punchline"]
     joke = humour_array[i]["joke"]
-    messages = f"Given the following knowledge, translate the following joke into Chinese. \n Topic: {topic}\n"+ f"Angle: {angle}\n"+ f"Punchline: {punchline}\n"+ f"Joke: {joke}\n" + "Translation:"
+    messages = f"Given the following knowledge, translate the following joke from English into Chinese. \n Topic: {topic}\n"+ f"Angle: {angle}\n"+ f"Punchline: {punchline}\n"+ f"Joke: {joke}\n" + "Translation:"
     tokenized = tokenizer(messages, return_tensors="pt")
 
     input_ids = tokenized.input_ids.cuda()
@@ -60,11 +60,13 @@ for i in tqdm(range(300)):
     generated_ids = model.generate(inputs=input_ids, attention_mask=attn_mask, generation_config=gen_config)
     original_text = tokenizer.decode(input_ids[0], skip_special_tokens=False)
 
-    gen_text = tokenizer.decode(generated_ids[0], skip_special_tokens=False)
+    length = len(input_ids[0].tolist())
+    gen_text = tokenizer.decode(generated_ids[0][length:], skip_special_tokens=False)
     new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
     #print(new_text, flush=True)
     temp = {"ID":i,"joke": joke,"translation": new_text}
     res.append(temp)
+
     
 with open(output_file, 'w', encoding='utf-8') as jsonfile:
     json.dump(res, jsonfile, indent=4, ensure_ascii=False)

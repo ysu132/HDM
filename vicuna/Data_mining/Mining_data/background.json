@@ -2,1501 +2,1501 @@
     {
         "ID": 0,
         "joke": "[me narrating a documentary about narrators] \"I can't hear what they're saying cuz I'm talking\"",
-        "punchline": " The punchline is that the narrator is unable to hear themselves because they are speaking.</s>"
+        "topics": "Narrators, Hearing, Talking</s>"
     },
     {
         "ID": 1,
         "joke": "Telling my daughter garlic is good for you. Good immune system and keeps pests away.Ticks, mosquitos, vampires... men.",
-        "punchline": " The punchline is that garlic is good for you, not just for physical health, but also for warding off vampires, ticks, and mosquitos.</s>"
+        "topics": "garlic, immune system, pests, ticks, mosquitos, vampires, men.</s>"
     },
     {
         "ID": 2,
         "joke": "I've been going through a really rough period at work this week It's my own fault for swapping my tampax for sand paper.",
-        "punchline": " The punchline is that she swapped her tampax for sand paper, which is an absurd and humorous mistake to make.</s>"
+        "topics": "work, tampons, sandpaper, mistake</s>"
     },
     {
         "ID": 3,
         "joke": "If I could have dinner with anyone, dead or alive... ...I would choose alive. -B.J. Novak-",
-        "punchline": " B.J. Novak would choose to have dinner with people who are still alive, rather than those who are deceased.</s>"
+        "topics": "dinner, dead or alive, B.J. Novak.</s>"
     },
     {
         "ID": 4,
         "joke": "Did you hear about the guy who blew his entire lottery winnings on a limousine? He had nothing left to chauffeur it.",
-        "punchline": " The punchline is that the guy had nothing left to chauffeur the limousine, suggesting that he wasted his entire lottery winnings.</s>"
+        "topics": "lottery, limousine, chauffeur</s>"
     },
     {
         "ID": 5,
         "joke": "What do you do if a bird shits on your car? Don't ask her out again.",
-        "punchline": " The punchline is that the speaker is suggesting that the best way to handle the situation is to not ask the person out again.</s>"
+        "topics": "bird, shit, car, ask her out</s>"
     },
     {
         "ID": 6,
         "joke": "Telling my daugthers date that \"she has lice and its very contagious the closer you get to her.\" *Correct way to parent.",
-        "punchline": " The surprise at the end of the joke is that the daugthers date actually has lice and it is very contagious.</s>"
+        "topics": "Daughter, Date, Lice, Contagious.</s>"
     },
     {
         "ID": 7,
         "joke": "What's the difference between an illegal Mexican and an autonomous robot...? Nothing... they were both made to steal American jobs.",
-        "punchline": " The punchline is that both an illegal Mexican and an autonomous robot were made to steal American jobs, highlighting the absurdity of the situation.</s>"
+        "topics": "Illegal immigration, robots, American jobs.</s>"
     },
     {
         "ID": 8,
         "joke": "You ever notice that the most dangerous thing about marijuana is getting caught with it?",
-        "punchline": " The punchline is that getting caught with marijuana is far more dangerous than the use of the drug itself.</s>"
+        "topics": "marijuana, dangerous, getting caught</s>"
     },
     {
         "ID": 9,
         "joke": "My wife is in a bad mood. I think her boyfriend forgot their anniversary. Way to go, dude. Now we all suffer...",
-        "punchline": " The punchline is that the boyfriend forgot their anniversary, which has caused the wife to be in a bad mood and has resulted in everyone suffering.</s>"
+        "topics": "wife, boyfriend, anniversary, bad mood, suffering.</s>"
     },
     {
         "ID": 10,
         "joke": "My speech today will be like a mini-skirt. Long enough to cover the essentials but short enough to hold your attention!",
-        "punchline": " The punchline is that the speech is short and to the point, like a mini-skirt.</s>"
+        "topics": "speech, mini-skirt, attention</s>"
     },
     {
         "ID": 11,
         "joke": "Thanksgiving joke What does Miley Cyrus eat for Thanksgiving? Twerky! Just kidding... Drugs. She eats drugs. -Adam Zopf @adamzopf",
-        "punchline": " Miley Cyrus eats drugs for Thanksgiving.</s>"
+        "topics": "Miley Cyrus, Thanksgiving, drugs.</s>"
     },
     {
         "ID": 12,
         "joke": "Why do you never see elephants hiding in trees? 'Cause they are freaking good at it",
-        "punchline": " The punchline is that elephants are excellent at hiding and camouflaging themselves, making it difficult for predators to find them.</s>"
+        "topics": "elephants, hiding, trees, good at it</s>"
     },
     {
         "ID": 13,
         "joke": "\"That guy is such a douche-bag! Is he single? Maybe I can fix him!\"  women",
-        "punchline": " The punchline is that the woman is referring to herself in the third person, implying that she is the douche-bag and that she is looking for a way to fix herself.</s>"
+        "topics": "men, dating, relationships, women</s>"
     },
     {
         "ID": 14,
         "joke": "My son just got a tattoo of a heart, a spade, a club, and a diamond, all without my permission. I guess I'll deal with him later.",
-        "punchline": " The punchline is that the father is left shocked and upset by his son's decision.</s>"
+        "topics": "tattoo, heart, spade, club, diamond, parenting, discipline.</s>"
     },
     {
         "ID": 15,
         "joke": "What's the difference between a painting and Jesus. You only require one nail to put up the painting.",
-        "punchline": " The punchline is that Jesus requires two nails - one in his hands and one in his feet.</s>"
+        "topics": "Painting, Jesus, nail.</s>"
     },
     {
         "ID": 16,
         "joke": "Mom: \"Do you want this?\" Me: \"No.\" Mom: \"Ok I'll give it to your brother.\" Me: \"No I want it.\"",
-        "punchline": " The punchline is that the mother gives the item to the brother instead of the son, despite the son's initial refusal.</s>"
+        "topics": "Mom, brother, wanting something.</s>"
     },
     {
         "ID": 17,
         "joke": "I am looking forward to 6pm Thanksgiving Day when Walmart opens its doors for its annual sale of trampled human corpses.",
-        "punchline": " The punchline is that the sale is actually for discounted toys and electronics.</s>"
+        "topics": "Walmart, Thanksgiving, trampled human corpses.</s>"
     },
     {
         "ID": 18,
         "joke": "Yttrium-barium-copper oxide walks into a bar The bartender tells him, \"We don't serve superconductors here.\" He leaves without resistance.",
-        "punchline": " The surprise at the end of the joke is that the superconductor does not resist being told that it is not welcome, and simply leaves without any resistance.</s>"
+        "topics": "Yttrium-barium-copper oxide, superconductors, bartender, walks into a bar, resistance.</s>"
     },
     {
         "ID": 19,
         "joke": "Every night, I take all of the singles out of my wallet, spread them on the bed, and pretend I was pretty that day.",
-        "punchline": " The punchline is that the narrator is admitting to a silly, childish behavior that reveals their lack of self-confidence.</s>"
+        "topics": "money, bed, pretending</s>"
     },
     {
         "ID": 20,
         "joke": "Before I destroy a wasp's nest I like to capture a single wasp and tell it my entire diabolical plan.",
-        "punchline": " The punchline is that the wasp is so terrified that it immediately flees the scene without further incident.</s>"
+        "topics": "wasp, nest, diabolical plan, capture, tell.</s>"
     },
     {
         "ID": 21,
         "joke": "INTERVIEWER: Why do you want to work here? ME: *crumbs tumbling from my mouth* Oh, I don't. I was just walking by and saw you had donuts.",
-        "punchline": " The punchline is that the interviewee was just looking for an excuse to eat donuts.</s>"
+        "topics": "Donuts, job interview, humor.</s>"
     },
     {
         "ID": 22,
         "joke": "Coming on valentines day. Fifty shades of grey. There won't be a dry seat in the cinema.",
-        "punchline": " The punchline is that the movie will be very popular and there will be a lot of people attending.</s>"
+        "topics": "Fifty Shades of Grey, Valentine's Day, cinema, dry seat.</s>"
     },
     {
         "ID": 23,
         "joke": "Did you hear about the midget psychic who escaped from prison? He's a small medium at large.",
-        "punchline": " The punchline is that the midget psychic has escaped from prison, suggesting that he is a powerful force that cannot be contained.</s>"
+        "topics": "midget, psychic, prison, escape, small medium</s>"
     },
     {
         "ID": 24,
         "joke": "Someone didnt click the button in /r/thebutton Yeah... Thats a good joke , he impossible!",
-        "punchline": " The punchline is that the person didn't click the button, which is impossible.</s>"
+        "topics": "Reddit, The Button, Joke</s>"
     },
     {
         "ID": 25,
         "joke": "What's the difference between a car tyre, and 365 condoms? One's a Goodyear, an the other's a great year.",
-        "punchline": " The punchline is that the difference between a car tyre and 365 condoms is that one is a Goodyear and the other is a great year.</s>"
+        "topics": "car tyre, 365 condoms, Goodyear, great year.</s>"
     },
     {
         "ID": 26,
         "joke": "I've struggled for years to be above the influence... But I've never been able to get that high",
-        "punchline": " The punchline is that despite his efforts, the speaker has never been able to achieve the desired level of independence.</s>"
+        "topics": "Influence, Drugs, Alcohol, Addiction</s>"
     },
     {
         "ID": 27,
         "joke": "With Facebook, you can stay in touch with people you would otherwise never talk to, but that's only one of the many awful things about it",
-        "punchline": " The punchline is that staying in touch with people you would otherwise never talk to is one of the many awful things about Facebook.</s>"
+        "topics": "Facebook, communication, social media, negative aspects</s>"
     },
     {
         "ID": 28,
         "joke": "What's the difference between a blonde and a washer? When you dump your load in a washer, it doesn't follow you around for a week.",
-        "punchline": " The punchline is that blondes are notorious for following you around after you dump a load of laundry in the washing machine.</s>"
+        "topics": "blonde, washer, load, dump, follow, week.</s>"
     },
     {
         "ID": 29,
         "joke": "Have you ever heard of the movie \"Constipation\"? No? Most likely because it never came out.",
-        "punchline": " The punchline is that the movie \"Constipation\" never came out, making the joke ironic.</s>"
+        "topics": "movie, constipation, never came out.</s>"
     },
     {
         "ID": 30,
         "joke": "I saw a French rifle on eBay today It's never been fired but I heard it was dropped once.",
-        "punchline": " The punchline is that the rifle has a minor cosmetic blemish due to it being dropped.</s>"
+        "topics": "French rifle, eBay, never been fired, dropped</s>"
     },
     {
         "ID": 31,
         "joke": "Bill Clinton must be the luckiest man in the world. All of the sex he has, with Hillary, you know it's hate sex.",
-        "punchline": " Bill Clinton must be the luckiest man in the world, since all of the sex he has with Hillary is \"hate sex\".</s>"
+        "topics": "Bill Clinton, Hillary Clinton, sex, hate</s>"
     },
     {
         "ID": 32,
         "joke": "yeah girl.. shake that thing where poop comes out of. it really turns me on when your poop factory shakes faster than usual",
-        "punchline": " The punchline is that the speaker is turned on by the speaker's own metaphor of \"poop factory\".</s>"
+        "topics": "poop, shaking, factory</s>"
     },
     {
         "ID": 33,
         "joke": "\"I can't stand when people say they hate both of the presidential candidates.\" --Stephen Hawking",
-        "punchline": " Stephen Hawking is known for his dry wit and sarcasm, so his response to this statement is likely to be, \"Oh, I see you're a fan of the 'lesser of two evils' approach to voting.\"</s>"
+        "topics": "politics, candidates, presidential election</s>"
     },
     {
         "ID": 34,
         "joke": "I was drinking at the bar, so I took a bus home. That may not be a big deal to you, but I've never driven a bus before!",
-        "punchline": " The punchline is that the speaker has never driven a bus before.</s>"
+        "topics": "drinking, bar, bus, home, driving, bus</s>"
     },
     {
         "ID": 35,
         "joke": "Donald Trump will ban the sale of shredded cheese He wants to make America grate again",
-        "punchline": " The punchline is that Donald Trump wants to make America great again by banning the sale of shredded cheese.</s>"
+        "topics": "Donald Trump, shredded cheese, ban, sale, America, grate</s>"
     },
     {
         "ID": 36,
         "joke": "Things have really turned around for me since I re-named my penis and testicles \"JD Power and Associates\".",
-        "punchline": " The punchline is that the re-naming of the penis and testicles has given the speaker a newfound sense of confidence and success.</s>"
+        "topics": "penis, testicles, naming, re-naming, JD Power and Associates.</s>"
     },
     {
         "ID": 37,
         "joke": "My cat just walked by me carrying a toy mouse I don't remember buying her. Women be shoppin!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "punchline": " Women be shoppin'!</s>"
+        "topics": "cats, toys, shopping, women</s>"
     },
     {
         "ID": 38,
         "joke": "Sometimes you check the amount of subscribed people. When you do this, there are 4,111,093,0003.666 \"humorists\". 2/3rds of a person? Really?",
-        "punchline": " When you check the amount of subscribed people, there are 4,111,093,0003.666 \"humorists\". 2/3rds of a person? Really?</s>"
+        "topics": "subscribed people, humorists, amount, check, 4,111,093,0003.666</s>"
     },
     {
         "ID": 39,
         "joke": "I don't believe in Bigfoot; because he never believed in me. I'd scan the crowd at my ballet recitals, and always see that one empty seat.",
-        "punchline": " The punchline is that the Bigfoot never believed in the narrator, despite her attempts to find him at her ballet recitals. This implies that the narrator was seeking acceptance and approval from someone who was never going to give it to her.</s>"
+        "topics": "ballet, recital, crowd, empty seat, belief, bigfoot, never believed, joke.</s>"
     },
     {
         "ID": 40,
         "joke": "What did the porn actress say when she opened the door? Make sure to come upstairs.",
-        "punchline": " The punchline is that the porn actress is inviting the person to come upstairs, suggesting that there is something more to the interaction than just a simple door-to-door sales pitch.</s>"
+        "topics": "Porn actress, door, upstairs.</s>"
     },
     {
         "ID": 41,
         "joke": "I don't judge people based on color, race, religion, sexuality, or gender...I base it on whether or not they're an asshole.",
-        "punchline": " The punchline is that the speaker is implying that they do in fact judge people, but not on the stated criteria, but rather on their behavior.</s>"
+        "topics": "color, race, religion, sexuality, gender, asshole.</s>"
     },
     {
         "ID": 42,
         "joke": "Not to get too technical, but chemistry says alcohol IS a solution. So I win.",
-        "punchline": " The punchline is that the speaker is claiming victory over their opponent by using technicalities of chemistry.</s>"
+        "topics": "Chemistry, Alcohol, Solution.</s>"
     },
     {
         "ID": 43,
         "joke": "I often think if I'd taken a different path in life, I could be lying on a slightly more comfortable sofa right now.",
-        "punchline": " The punchline is that the speaker is reflecting on how different life choices can lead to different outcomes, and that the speaker could be in a better situation if they had made different choices.</s>"
+        "topics": "life, path, comfort, sofa</s>"
     },
     {
         "ID": 44,
         "joke": "What did the hillbilly say to his sister after she asked him to have sex with her? If you incest.",
-        "punchline": " The hillbilly replied, \"If you incest, I'll have to incest you back!\"</s>"
+        "topics": "hillbilly, sister, incest.</s>"
     },
     {
         "ID": 45,
         "joke": "\"You know what, we need a huge spoon to take care of this\" -Guy who invented shovels",
-        "punchline": " The punchline is that the guy who invented shovels realized that they needed a huge spoon to take care of the problem they were facing.</s>"
+        "topics": "spoon, shovels, inventor</s>"
     },
     {
         "ID": 46,
         "joke": "How to keep the flies off the bride at an Italian wedding Keep a bucket of shit next to her",
-        "punchline": " The punchline is that the bride is kept fly-free by having a bucket of shit nearby.</s>"
+        "topics": "Italian wedding, flies, shit</s>"
     },
     {
         "ID": 47,
         "joke": "7% of all hearing loss is a result of sitting in a restaurant next to a table full of women who just received dessert.",
-        "punchline": " The surprise at the end of the joke is that 7% of all hearing loss is caused by sitting in a restaurant next to a table full of women who just received dessert.</s>"
+        "topics": "hearing loss, restaurant, dessert, women.</s>"
     },
     {
         "ID": 48,
         "joke": "What do people from the 1930's and /r/news jokes have in common? They're both old.",
-        "punchline": " The punchline is that both the 1930's and the /r/news jokes are old.</s>"
+        "topics": "1930s, news, jokes, old.</s>"
     },
     {
         "ID": 49,
         "joke": "ME: I fell off a 50 ft tall ladder once GIRL: holy cow how did you survive ME: I fell off the bottom rung",
-        "punchline": " The punchline is that the person survived by falling off the bottom rung of the ladder.</s>"
+        "topics": "falling, survival, ladder, girlfriend</s>"
     },
     {
         "ID": 50,
         "joke": "What do you call a blind dinosaur? A do-think-he-saurus :) !! Lol What do you call a blind dinosaurs dog? A do-you-think-he-saurus-rex",
-        "punchline": " The punchline is a play on words, using \"do-think-he-saurus\" and \"do-you-think-he-saurus-rex\" to create a humorous effect.</s>"
+        "topics": "Blind dinosaurs, dogs, jokes.</s>"
     },
     {
         "ID": 51,
         "joke": "This may be not be a mainstream opinion, but I don't believe you should cut down a Christmas tree unless you intend on eating it.",
-        "punchline": " The punchline is that the person believes that cutting down a Christmas tree is a wasteful and unsustainable practice unless you intend to eat it.</s>"
+        "topics": "Christmas, tree, cutting down, eating.</s>"
     },
     {
         "ID": 52,
         "joke": "Jenna Jameson to Oprah, \"There's a little bit of Jenna Jameson in everyone.\" I'm pretty sure she got that backwards.",
-        "punchline": " Jenna Jameson is implying that everyone has a bit of her wild side, when in reality it is more likely that everyone has a bit of Oprah's wisdom and guidance.</s>"
+        "topics": "Jenna Jameson, Oprah, self-esteem, body image, celebrities, media, social media, internet, humor, jokes, pop culture, entertainment.</s>"
     },
     {
         "ID": 53,
         "joke": "I have a degree in men's studies. It's called \"world history\". #TRUMP 2016! YOU CAN'T STUMP THE TRUMP!",
-        "punchline": " The punchline is that the person has a degree in men's studies, which is a joke because the person is referring to their degree as \"world history\" - implying that their degree is not actually in world history, but is actually in a more specific and less prestigious field. The joke is that the person is not actually an expert in world history, but is instead an expert in a more narrow field related to men.</s>"
+        "topics": "Men's studies, world history, Trump 2016, joke.</s>"
     },
     {
         "ID": 54,
         "joke": "Why don't most fans like the first 39 episodes of DBZ? Its pretty gay, just Saiyan.",
-        "punchline": " The punchline is that the sentence is a play on words, as \"gay\" can also mean \"homosexual\" in some contexts.</s>"
+        "topics": "Dragon Ball Z, Saiyan, Fans, Gay, Pretty.</s>"
     },
     {
         "ID": 55,
         "joke": "This doctor once told me eating a bagel was like eating 5 slices of bread and I was like ok, cool, I like bread",
-        "punchline": " The punchline is that the doctor was wrong - eating a bagel is not like eating 5 slices of bread, it's actually like eating one giant slice of bread.</s>"
+        "topics": "doctor, eating, bagel, bread, slices</s>"
     },
     {
         "ID": 56,
         "joke": "What do you call a three-humped camel? Pregnant (Told to me by one of the kids at work)",
-        "punchline": " The punchline is that the three-humped camel is called a \"pregnant camel\" because it is the male camel that gets pregnant.</s>"
+        "topics": "Camel, Pregnancy</s>"
     },
     {
         "ID": 57,
         "joke": "What defies the law of gravity? Women. They heavier they are, the easier they are to pick up.",
-        "punchline": " The punchline is that women are heavier than men, but easier to pick up because of their lower center of gravity.</s>"
+        "topics": "Women, Gravity, Law of Gravity.</s>"
     },
     {
         "ID": 58,
         "joke": "Everything has to be related in a woman: if the mouth shuts, the legs open.",
-        "punchline": " The punchline is that the woman's mouth shuts and her legs open, suggesting that she is ready to take action.</s>"
+        "topics": "Woman, Mouth, Legs, Relationship.</s>"
     },
     {
         "ID": 59,
         "joke": "\"I'm so pissed I could punch a ba-\" \"A what?\" Big Baby from Toy Story 3 hovers over me, sawed-off shotgun in hand. \"A bagel. I HATE carbs.\"",
-        "punchline": " Big Baby from Toy Story 3 hovers over the protagonist, sawed-off shotgun in hand. The protagonist is surprised and speechless, indicating that the punchline is that the protagonist is scared of the giant baby.</s>"
+        "topics": "Toy Story 3, carbs, bagels.</s>"
     },
     {
         "ID": 60,
         "joke": "What's the difference Donald Trump and my Vagina? One's a Cunt and the other has nice hair.",
-        "punchline": " The punchline is that Donald Trump has nice hair, while a vagina is a cunt.</s>"
+        "topics": "Donald Trump, Vagina, Cunt, Hair.</s>"
     },
     {
         "ID": 61,
         "joke": "My doctor had to put me on a new medication that's supposed to help lower the amount of karate in my blood",
-        "punchline": " The punchline is that the medication is actually called \"Ki-Blocker\", which is supposed to help reduce the amount of karate in the blood.</s>"
+        "topics": "doctor, medication, karate, blood</s>"
     },
     {
         "ID": 62,
         "joke": "[uses the restroom] Wife: make sure to put the toilet seat down Me: okay Me: [to toilet seat] you're worthless and nobody likes you",
-        "punchline": " The punchline is that the toilet seat is insulted because nobody likes it.</s>"
+        "topics": "toilet seat, worthless, nobody likes you.</s>"
     },
     {
         "ID": 63,
         "joke": "Q: What's the difference between a blonde and a supermarket trolley? A: The supermarket trolley has a mind of its own.",
-        "punchline": " The punchline is that the supermarket trolley has a mind of its own, suggesting that it has more autonomy than a blonde.</s>"
+        "topics": "Blonde, Supermarket trolley, Mind</s>"
     },
     {
         "ID": 64,
         "joke": "You know... When someone says to you \"Jesus loves you.\" It's always comforting. Unless you are in a Mexican jail.",
-        "punchline": " In the Mexican jail, the phrase \"Jesus loves you\" is not comforting, as it may be seen as a taunt from the guards.</s>"
+        "topics": "Jesus, love, Mexican jail.</s>"
     },
     {
         "ID": 65,
         "joke": "When I hear \"This call is being monitored for quality assurance\" I think \"Cool, let's see how bad this person wants their job.\"",
-        "punchline": " The punchline is that the person being monitored probably doesn't want their job very badly if they're not taking the quality assurance aspect seriously.</s>"
+        "topics": "Quality assurance, job, call center</s>"
     },
     {
         "ID": 66,
         "joke": "You know what the definition of \"competitive\" is? Finishing first *and* third in a circlejerk.",
-        "punchline": " The punchline is that the speaker is implying that they are competitive by finishing first and third in a circlejerk, which is an ironic and humorous comparison.</s>"
+        "topics": "competition, finishing first, finishing third, circlejerk.</s>"
     },
     {
         "ID": 67,
         "joke": "How do you know if your wine was made in the 90's? It smells like teen spirit.",
-        "punchline": " The punchline is that the wine is likely to have a strong odor of teen spirit, indicating that it was likely made in the 90's.</s>"
+        "topics": "wine, 90's, teen spirit</s>"
     },
     {
         "ID": 68,
         "joke": "[car wreck] [hand reaches out] \"Take my hand. I'm Chad Kroeger from the popular band Nickelback.\" [I let the flames slowly bake me alive]",
-        "punchline": " Chad Kroeger from Nickelback reaches out his hand and says \"Take my hand\" as the protagonist lets the flames slowly bake him alive.</s>"
+        "topics": "car wreck, hand reaches out, Chad Kroeger, Nickelback, flames.</s>"
     },
     {
         "ID": 69,
         "joke": "Just waiting for Steve Harvey to come out and say it's actually Clinton any second now",
-        "punchline": " The punchline is that it was actually Donald Trump who won the election, not Clinton.</s>"
+        "topics": "Steve Harvey, Clinton, news</s>"
     },
     {
         "ID": 70,
         "joke": "Chicken Why did the chicken cross the road? Why? To go to the gay guys house Knock knock Who's there? The chicken",
-        "punchline": " The surprise at the end of the joke is that the chicken has crossed the road to go to the gay guys house.</s>"
+        "topics": "Chicken, road, gay guys house</s>"
     },
     {
         "ID": 71,
         "joke": "Teacher: Why do we put a hyphen in a bird-cage?  Pupil: For a parrot to perch on miss.",
-        "punchline": " The punchline is that the pupil's response of \"For a parrot to perch on miss\" is the surprise at the end of the joke, as the teacher was expecting a different answer.</s>"
+        "topics": "hyphen, bird-cage, parrot, perch, miss.</s>"
     },
     {
         "ID": 72,
         "joke": "I visited Amsterdam this summer, and decided to have sex with a prostitute. It was an overall positive experience. Sadly, it was an HIV positive experience.",
-        "punchline": " The punchline is that the experience was positive overall, but it was a negative experience due to the fact that it was with an HIV positive prostitute.</s>"
+        "topics": "Amsterdam, prostitute, HIV positive.</s>"
     },
     {
         "ID": 73,
         "joke": "Yup. If pasta & antipasta ever touch, they annihilate. For your safety, that's why restaurants never serve them together.",
-        "punchline": " The punchline is that restaurants never serve pasta and antipasta together, because if they do, they will \"annihilate\" each other.</s>"
+        "topics": "pasta, antipasta, restaurants, safety</s>"
     },
     {
         "ID": 74,
         "joke": "When my wife takes a nap, it's \"desperately needed rest.\" When I do, it's \"lazy chauvinist party-time.\"",
-        "punchline": " The punchline is that the two situations are reversed - when the wife takes a nap, it's \"desperately needed rest\" but when the husband takes a nap, it's \"lazy chauvinist party-time\".</s>"
+        "topics": "Wife, Nap, Rest, Chauvinist, Party-time.</s>"
     },
     {
         "ID": 75,
         "joke": "lookin for a quick and easy way to beef up that scrawny bod and really turn some heads at the beach? float dead in a lake",
-        "punchline": " The punchline is that the person is joking that they should just stay dead in a lake instead of trying to \"beef up\" their body.</s>"
+        "topics": "body, beach, head, lake</s>"
     },
     {
         "ID": 76,
         "joke": "TIL A ref can show a player the red card for a loud fart ... even if it isn't Messi.",
-        "punchline": " The punchline is that the referee can show a player the red card for a loud fart, regardless of who it is.</s>"
+        "topics": "soccer, referee, red card, fart, player, loud, Messi.</s>"
     },
     {
         "ID": 77,
         "joke": "What did the wise man say to the fat guy? You should probably go on a diet.",
-        "punchline": " The wise man suggests that the fat guy should lose weight.</s>"
+        "topics": "Fat, Diet, Wise man, Joke.</s>"
     },
     {
         "ID": 78,
         "joke": "Who is better? The 3rd wave feminist or the pencil? The pencil is better. It has a point.",
-        "punchline": " The pencil is better because it has a point, suggesting that it is sharper and more effective than the 3rd wave feminist, who is often seen as unclear and unfocused in their efforts.</s>"
+        "topics": "Feminism, Pencils, Humor, Satire</s>"
     },
     {
         "ID": 79,
         "joke": "Guys, I think I found the Cure to Aids! It requires having a Magic Johnson.",
-        "punchline": " The punchline is that the \"Cure\" to Aids is having a Magic Johnson, which is impossible since Magic Johnson does not have Aids.</s>"
+        "topics": "Aids, Magic Johnson.</s>"
     },
     {
         "ID": 80,
         "joke": "Why do you call a Mexican midget a paragraph? ...because he's too short to be called an essay.",
-        "punchline": " The punchline is that the Mexican midget is too short to be called an essay, implying that he is not intelligent enough to be called an essay.</s>"
+        "topics": "Mexican, midget, paragraph, essay.</s>"
     },
     {
         "ID": 81,
         "joke": "This morning I had a swollen testicle. \"I'd have simply preferred toast,\" I told my wife.",
-        "punchline": " My wife and I were having a conversation about my swollen testicle, and I jokingly said that I'd have preferred toast instead.</s>"
+        "topics": "testicle, toast.</s>"
     },
     {
         "ID": 82,
         "joke": "\"What's that?\" A divorce jar. Every time we fight you put a dollar in and I'm a little bit closer to freedom. *puts in dollar* \"WTH!?!\"",
-        "punchline": " The punchline is that the speaker is joking about using the money in the jar to fund their divorce.</s>"
+        "topics": "Divorce, Fighting, Money, Freedom.</s>"
     },
     {
         "ID": 83,
         "joke": "If you have a parrot and you don't teach it to say,\"Help, they've turned me into a parrot.\" you are wasting everybody's time.",
-        "punchline": " The punchline is that the person is wasting their time since the parrot isn't being taught to say the joke's punchline.</s>"
+        "topics": "Parrot, Saying, Help, Time</s>"
     },
     {
         "ID": 84,
         "joke": "My 8 y/o memorized my 12 character password that has upper and lowercase letters, numbers and symbols but can't remember to flush the toilet",
-        "punchline": " The punchline is that the 8 year old was able to memorize a complex password with upper and lowercase letters, numbers and symbols, but is unable to remember to flush the toilet.</s>"
+        "topics": "password, toilet, memory</s>"
     },
     {
         "ID": 85,
         "joke": "Me: waiter, do you have frog legs? Waiter: of course monsieur Me: good, hop over there and get me a beer",
-        "punchline": " The waiter responds by hopping away to get the beer.</s>"
+        "topics": "frog legs, beer, waiter, monsieur</s>"
     },
     {
         "ID": 86,
         "joke": "It's comforting to know that the US government works the same way as a college student when it comes to deadlines... They both wait until the last minute, then get an extension.",
-        "punchline": " The punchline is that the US government and college students both procrastinate and find ways to extend deadlines at the last minute.</s>"
+        "topics": "US government, college students, deadlines, extensions.</s>"
     },
     {
         "ID": 87,
         "joke": "What did the man with The World's Largest Penis say when he had to have his legs amputated \"Don't worry, I still have my third one.\"",
-        "punchline": " The man's sense of humor remained even in the face of a serious situation.</s>"
+        "topics": "legs, amputated, penis, third one.</s>"
     },
     {
         "ID": 88,
         "joke": "What's the worse thing to do to a blind person? Leave a plunger in the toilet",
-        "punchline": " The punchline is that the worst thing to do to a blind person is to leave a plunger in the toilet, as they wouldn't be able to see it and could potentially fall in.</s>"
+        "topics": "Blindness, Toilet, Plunger</s>"
     },
     {
         "ID": 89,
         "joke": "When I was interviewed for a job in the chemistry department, they asked me if I had lab experience. I said I was more of a cat person.",
-        "punchline": " The punchline is that the interviewer was looking for a dog person, not a cat person.</s>"
+        "topics": "job interview, chemistry department, lab experience, cat person.</s>"
     },
     {
         "ID": 90,
         "joke": "Two skeptics walk into a bar.. I'd tell you what happens next but noone knows",
-        "punchline": " The punchline is that the two skeptics end up believing in the impossible when they see a miracle happen right in front of them.</s>"
+        "topics": "skeptics, bar, next</s>"
     },
     {
         "ID": 91,
         "joke": "Everytime you pull the trigger a bullet loses its job...HAHAHAHA! Because it gets FIRED. HAHAHA! *I'm in tears*",
-        "punchline": " The punchline is that the bullet gets fired, suggesting that it has lost its job.</s>"
+        "topics": "Gun control, job market, humor</s>"
     },
     {
         "ID": 92,
         "joke": "It would be great to be born on Earth and die on Mars. Preferably not on the point of impact.",
-        "punchline": " The punchline is that it would be great to be born on Earth and die on Mars, but preferably not on the point of impact.</s>"
+        "topics": "space travel, Mars, death</s>"
     },
     {
         "ID": 93,
         "joke": "Descartes walks into the bar. The bartender asks him, \"will you have your usual tonight?\" Rene replies \"I think not\" and he disappears.",
-        "punchline": " The punchline is that Descartes has performed a philosophical thought experiment and vanishes, suggesting that he may not exist after all.</s>"
+        "topics": "Descartes, bartender, usual, Rene, disappears.</s>"
     },
     {
         "ID": 94,
         "joke": "Anyone want to hear my Human Centipede joke? Nah, I won't tell you it. It sucks ass.",
-        "punchline": " The punchline of the joke is that it sucks ass.</s>"
+        "topics": "Human Centipede, joke, sucks ass.</s>"
     },
     {
         "ID": 95,
         "joke": "My dog can predict when an earthquake is going to happen. But television doorbell versus actual doorbell baffles him every time.",
-        "punchline": " The punchline is that the dog is confused every time the television doorbell rings, since it is not the actual doorbell he is used to.</s>"
+        "topics": "dog, earthquake, television, doorbell, baffles</s>"
     },
     {
         "ID": 96,
         "joke": "My favorite knock knock joke. I need someone to start it ... Someone start the knock knock joke ...",
-        "punchline": " The punchline of the joke is \"Knock knock! Who's there?\" followed by the surprise response of \"Boo\" from the child.</s>"
+        "topics": "Knock knock joke, someone, start.</s>"
     },
     {
         "ID": 97,
         "joke": "My Parents asked me what i wanted for christmas... I said i want something to wear and something to play with. So they got me a pair of pants with the pockets cut out.",
-        "punchline": " The punchline is that the parents got their child a pair of pants with the pockets cut out, suggesting that they did not understand what the child wanted.</s>"
+        "topics": "Christmas, pants, pockets, play, wear.</s>"
     },
     {
         "ID": 98,
         "joke": "With 10K characters, I can finally get into great detail about how I'm not allowed at the company family picnic any more!",
-        "punchline": " The punchline is that the speaker is joking that they can now go into great detail about why they are not allowed at the company family picnic, implying that they were previously not allowed to go.</s>"
+        "topics": "company, family, picnic, not allowed</s>"
     },
     {
         "ID": 99,
         "joke": "[at my funeral] So young, how did he die? He ran into oncoming traffic after walking past a group of adults saying the word \"bae\"",
-        "punchline": " The punchline is that the person died after running into oncoming traffic after saying the word \"bae\".</s>"
+        "topics": "funeral, young, how, died, ran, traffic, walking, past, group, adults, saying, word, \"bae\".</s>"
     },
     {
         "ID": 100,
         "joke": "Stealing my little brother's (fellow Redditor) original joke, hope he sees it and is pissed. What do you get when you cross a pig and a Christmas tree...? A Porky-Pine",
-        "punchline": " The punchline is that the joke is a pun on the word \"porky\" which means silly or ridiculous, and \"pine\" which is a type of tree.</s>"
+        "topics": "Reddit, joke, pig, Christmas tree, Porky-Pine.</s>"
     },
     {
         "ID": 101,
         "joke": "I lost my virginity to a retarded girl last night. I wanted it to be special",
-        "punchline": " The punchline is that the protagonist lost his virginity to a retarded girl, implying that it was not a special experience.</s>"
+        "topics": "Virginity, Retarded, Special</s>"
     },
     {
         "ID": 102,
         "joke": "What is the biggest compliment you can pay at a gay bar? Pushing in somebody's stool.",
-        "punchline": " Pushing in somebody's stool is the biggest compliment you can pay at a gay bar, indicating that you want the person to join in the fun.</s>"
+        "topics": "gay bar, stool, pushing</s>"
     },
     {
         "ID": 103,
         "joke": "What's a pirate's favourite type of weaponry? It's ARRRtillery! bonus: A pirate's favourite melee weapon? A scimitARRR",
-        "punchline": " The punchline is the surprise at the end of the joke. The pirate's favorite type of weaponry is \"ARRRtillery\" and their favorite melee weapon is a \"scimitARRR\".</s>"
+        "topics": "Pirates, weapons, humor, puns.</s>"
     },
     {
         "ID": 104,
         "joke": "Hey, who did you vote for?... I wrote in Michael J. Fox. I think he can really shake things up!",
-        "punchline": " The punchline is that the speaker is joking that they voted for actor Michael J. Fox, implying that he could make a difference in politics.</s>"
+        "topics": "voting, Michael J. Fox, shaking things up.</s>"
     },
     {
         "ID": 105,
         "joke": "I once had a crippiling masturbation addiction... ...now i have a sex addiction, could you say my addiction has gotten out of hand?",
-        "punchline": " The punchline is that the speaker is joking that their new addiction is worse than their old one.</s>"
+        "topics": "Masturbation, Sex addiction, Addiction, Hand.</s>"
     },
     {
         "ID": 106,
         "joke": "*Guy tries giving me his phone number* Me: Oh no thank you. I already have one",
-        "punchline": " The punchline is that the guy is trying to give the girl his phone number, but she politely declines, saying that she already has one.</s>"
+        "topics": "phone number, giving, thank you, one.</s>"
     },
     {
         "ID": 107,
         "joke": "I'm glad it's the thought that counts because I spend all day thinking about the shit I should be doing.",
-        "punchline": " The punchline is that the speaker is acknowledging that they are wasting their time and energy on thoughts that don't lead to any action.</s>"
+        "topics": "Thought, Counts, Shit, Should, Be, Doing.</s>"
     },
     {
         "ID": 108,
         "joke": "A man balks in a war He is discharged for dereliction of duty and takes up drinking.",
-        "punchline": " The punchline is that the man gives up on his responsibilities and turns to drinking, indicating his lack of commitment to both the war and his duties.</s>"
+        "topics": "war, dereliction of duty, drinking.</s>"
     },
     {
         "ID": 109,
         "joke": "Yo mama so lazy she thinks a two-income  family is where yo daddy has two jobs.",
-        "punchline": " The punchline is that yo mama is so lazy that she thinks a two-income family is where yo daddy has two jobs, when in reality it is where both parents have jobs to bring in additional income.</s>"
+        "topics": "lazy, two-income family, daddy, jobs.</s>"
     },
     {
         "ID": 110,
         "joke": "Breaking Bad is my favorite documentary about what it takes to be an entrepreneur while balancing family life.",
-        "punchline": " The punchline is that Breaking Bad is not a documentary, but a TV series about a high school chemistry teacher who turns to manufacturing and selling methamphetamine in order to secure his family's financial future.</s>"
+        "topics": "Breaking Bad, documentary, entrepreneur, family life.</s>"
     },
     {
         "ID": 111,
         "joke": "What did the gay guy say to his lover when they were going on vacation? \"Hey, can you help me pack my shit?\"",
-        "punchline": " The punchline is that the gay guy is asking his lover to help him pack his things, implying that he is not very good at packing.</s>"
+        "topics": "gay, lover, vacation, pack, shit.</s>"
     },
     {
         "ID": 112,
         "joke": "Coworker: Stop Me: collaborate and listen Coworker: Don't Me: you forget about me Coworker: Hey! Me: teacher, leave them kids alone",
-        "punchline": " The punchline of the joke is that the coworker is surprised when the other coworker responds to his command with \"Don't Me: you forget about me\". The other coworker is implying that the first coworker should not try to give orders to him since he is the one in charge.</s>"
+        "topics": "coworker, collaboration, listening, forgetting, kids, teacher, leaving</s>"
     },
     {
         "ID": 113,
         "joke": "What's an extroverted accountant? One who looks at your shoes while he's talking to you instead of his  own.",
-        "punchline": " The punchline is that the extroverted accountant is looking at the speaker's shoes instead of his own, suggesting that he is more interested in talking to the speaker than in focusing on his own feet.</s>"
+        "topics": "extroverted, accountant, shoes, talking</s>"
     },
     {
         "ID": 114,
         "joke": "Dear President Obama, I've got a joke for you... I texted it to Angela Merkel. Did you... *get it*?",
-        "punchline": " The punchline is that the joke was actually a text message sent to Angela Merkel, implying that the joke was not understood.</s>"
+        "topics": "President Obama, Angela Merkel, joke</s>"
     },
     {
         "ID": 115,
         "joke": "Sorry, but breaking up with you on facebook was the best way of letting all your friends know I'm available.",
-        "punchline": " The punchline is that the speaker is implying that they are now available to be in a new relationship.</s>"
+        "topics": "Facebook, relationships, breaking up.</s>"
     },
     {
         "ID": 116,
         "joke": "I don't understand women. I also don't understand how a car works but I still drive it.",
-        "punchline": " The punchline is that the speaker is admitting that he is not knowledgeable about a certain subject, but he is still able to take action on it, implying that he is willing to take risks and learn as he goes.</s>"
+        "topics": "Women, Cars, Understanding</s>"
     },
     {
         "ID": 117,
         "joke": "What are the 3 stages of sex after marriage? Tri-weekly Try Weekly and Try Weakly",
-        "punchline": " The punchline is that the couple is now having sex \"tri-weekly\" instead of the expected \"weekly\".</s>"
+        "topics": "Sex, Marriage, Relationships</s>"
     },
     {
         "ID": 118,
         "joke": "My girlfriend is great in bed... But I don't know how my best friend would know that.",
-        "punchline": " The punchline is that the best friend must have heard it from someone else.</s>"
+        "topics": "girlfriend, bed, best friend, know.</s>"
     },
     {
         "ID": 119,
         "joke": "[Justice League HQ] SUPERMAN: Looks like Batman is hungry tonight MOTHMAN: [visibly sweating] I think I'll just fight daytime crimes",
-        "punchline": " Mothman is clearly scared of Superman's joke.</s>"
+        "topics": "Justice League HQ, Superman, Batman, hunger, daytime crimes.</s>"
     },
     {
         "ID": 120,
         "joke": "My favourite word is snigger It allows me to be sracist without speople sthinking I'm a sbad sperson",
-        "punchline": " The punchline is that the speaker is being sarcastic and racist without people thinking they are a bad person.</s>"
+        "topics": "Word, Favorite, Snigger, Sracist, People, Thinking, Bad, Person.</s>"
     },
     {
         "ID": 121,
         "joke": "How do you hide an elephant in a fridge? You remove his slippers and open the door . You put him inside. You close the door and take the slippers away.",
-        "punchline": " The punchline is that the elephant is now hidden inside the fridge.</s>"
+        "topics": "elephant, fridge, slippers, hiding, opening, closing, taking away.</s>"
     },
     {
         "ID": 122,
         "joke": "Pete and repeat are in a boat Pete and repeat are brothers. Pete falls overboard, who's left?",
-        "punchline": " Pete is the only one left in the boat since his brother, repeat, is a mute.</s>"
+        "topics": "Pete, repeat, boat, brothers, falling overboard.</s>"
     },
     {
         "ID": 123,
         "joke": "What did Arnold Schwarzenegger say to the gym manager when he was joining a new gym? I'll re-rack.",
-        "punchline": " Arnold Schwarzenegger said he would put his weights away in the rack after he was done with them.</s>"
+        "topics": "Arnold Schwarzenegger, gym, re-rack.</s>"
     },
     {
         "ID": 124,
         "joke": "Right now a group of women at a baby shower are simultaneously saying, \"Awwww...\" while some knocked up chick holds up a tiny pair of socks.",
-        "punchline": " The punchline is that the women are all surprised by the size of the socks, indicating that the pregnant woman is expecting twins.</s>"
+        "topics": "Women, Baby shower, Pregnancy, Socks</s>"
     },
     {
         "ID": 125,
         "joke": "Gentlemen test At least most tests have the decency to ask me my name, before they fuck me.",
-        "punchline": " The punchline is that the test is not actually a test, but a sexual encounter.</s>"
+        "topics": "Gentlemen, Tests, Name, Fuck</s>"
     },
     {
         "ID": 126,
         "joke": "I went in to hospital for an operation... I asked the anaesthetist if I could administer the needle myself, and he said: \"Sure, knock yourself out\".",
-        "punchline": " The punchline is a play on words, as \"knock yourself out\" is a phrase used to mean \"do it yourself\".</s>"
+        "topics": "Hospital, operation, anaesthetist, needle, joke.</s>"
     },
     {
         "ID": 127,
         "joke": "A piece of shit walks into a bar It's my dad... My dad is a piece of shit.",
-        "punchline": " My dad is a piece of shit.</s>"
+        "topics": "dad, shit, bar, piece of shit</s>"
     },
     {
         "ID": 128,
         "joke": "What is the last thing that tickle-me elmo gets before he leaves the factory? Two test tickles",
-        "punchline": " The last thing that tickle-me elmo gets before he leaves the factory is two test tickles.</s>"
+        "topics": "Tickle-me Elmo, factory, test tickles.</s>"
     },
     {
         "ID": 129,
         "joke": "What do you get when you cross a sheep stealer with royalty? Mutton Looter King",
-        "punchline": " The punchline is that the resulting offspring is a thief that steals sheep and is also a king.</s>"
+        "topics": "sheep, stealing, royalty, mutton, looter, king</s>"
     },
     {
         "ID": 130,
         "joke": "An Indian redditor gets an arranged marriage. He turns to his partner and says: \"Thanks for the gold, kind stranger!\"",
-        "punchline": " The punchline is that the \"kind stranger\" was actually his parents who arranged the marriage.</s>"
+        "topics": "arranged marriage, gold, stranger</s>"
     },
     {
         "ID": 131,
         "joke": "What do you tell a woman with two black eyes? ..........Nothing you've already told her twice!",
-        "punchline": " The punchline is a play on words, using the phrase \"two black eyes\" twice in a row.</s>"
+        "topics": "Women, Black eyes, Joke</s>"
     },
     {
         "ID": 132,
         "joke": "I'd kill for a microwave that plays Europe's \"The Final Countdown\" during the last 30 seconds.",
-        "punchline": " At the end of the microwave's timer, the song \"The Final Countdown\" by Europe begins to play, signaling that the food is ready.</s>"
+        "topics": "microwave, Europe, \"The Final Countdown\"</s>"
     },
     {
         "ID": 133,
         "joke": "Did you hear about the skeleton who didn't go to prom? He had no body to go with.",
-        "punchline": " The punchline is that the skeleton had no body to go with, implying that he was alone and felt lonely.</s>"
+        "topics": "Skeleton, Prom, Body.</s>"
     },
     {
         "ID": 134,
         "joke": "What do you call it when a jugaloo sleeps with his girlfriend after a fight? Make up sex.",
-        "punchline": " The punchline is that the couple has reconciled their differences and the man sleeping with his girlfriend is a sign of their renewed love.</s>"
+        "topics": "Jugaloo, girlfriend, fight, make up sex.</s>"
     },
     {
         "ID": 135,
         "joke": "Kids are like farts. You don't mind your own, but others peoples are just unbearable",
-        "punchline": " The punchline is that kids are like farts - you don't mind your own, but other people's kids are just unbearable.</s>"
+        "topics": "Kids, Farts, Unbearable</s>"
     },
     {
         "ID": 136,
         "joke": "Over the past year, my sexual fetishes have been slowly getting more perverse. But it wasn't until I spanked a statue that I realised I'd hit rock bottom.",
-        "punchline": " The punchline is that the speaker has realized that they have reached the limit of their perversion.</s>"
+        "topics": "sexual fetishes, spanking, rock bottom.</s>"
     },
     {
         "ID": 137,
         "joke": "I milked the cow \"We don't have a cow\" the neighbors' cow then \"Their cat?\" Pretty sure it was a cow he was saying moo \"Meow\" Ah shoot",
-        "punchline": " The punchline is \"Ah shoot\". It is a play on words, as \"shoot\" can be used to mean both \"to kill\" and \"to make a guess\".</s>"
+        "topics": "cows, neighbors, cats, mooing, meowing.</s>"
     },
     {
         "ID": 138,
         "joke": "Dear Shirtless Guy in his Profile Pic, You REALLY want to impress girls? Get a job & pose in front of your cubicle.",
-        "punchline": " The punchline is that the guy should get a job and pose in front of his cubicle to impress girls, implying that he should stop relying on his profile pic to get attention.</s>"
+        "topics": "Shirtless Guy, Profile Pic, Impress Girls, Job, Cubicle.</s>"
     },
     {
         "ID": 139,
         "joke": "The IRA have been fighting for Irish reunification since the 70s. . . All they needed to do was vote for the Conservatives.",
-        "punchline": " The punchline is that the IRA would have been much more successful in achieving Irish reunification if they had simply voted for the Conservatives.</s>"
+        "topics": "Irish Republican Army, Irish reunification, Conservatives, voting.</s>"
     },
     {
         "ID": 140,
         "joke": "How many Reddit admins does it take to change a lightbulb? None, they like to keep the mods in the dark.",
-        "punchline": " None, they like to keep the mods in the dark.</s>"
+        "topics": "Reddit, admins, lightbulb, mods, dark.</s>"
     },
     {
         "ID": 141,
         "joke": "Facebook buys Instagram for one billion?!? Idiots!! They could have downloaded it from the app store for .99 cents..",
-        "punchline": " Facebook buying Instagram for one billion dollars is ridiculous - they could have downloaded it from the app store for 99 cents.</s>"
+        "topics": "Facebook, Instagram, app store, one billion, idiots</s>"
     },
     {
         "ID": 142,
         "joke": "I may not be getting laid tonight, but I'm definitely banging my snooze button in the morning.",
-        "punchline": " The punchline is that the speaker is resigned to not having sex that night, but is still looking forward to taking advantage of the opportunity for a good night's sleep.</s>"
+        "topics": "sleep, sex, humor, snooze button.</s>"
     },
     {
         "ID": 143,
         "joke": "I want to make a series about the murder of an airline crew but I still have to shoot the pilot.",
-        "punchline": " The punchline is that the series is about the murder of an airline crew, but the writer still has to shoot the pilot.</s>"
+        "topics": "airline, crew, murder, pilot.</s>"
     },
     {
         "ID": 144,
         "joke": "My friend always wanted to work in animation, but never got past the interview He just couldn't understand the difference between a professional \"colorist\" and a professional \"racist\"",
-        "punchline": " The punchline is that the interviewer was asking my friend about his experience with coloring, but he misunderstood the question and thought they were asking about his experience with racism.</s>"
+        "topics": "animation, colorist, racist, interview, friend</s>"
     },
     {
         "ID": 145,
         "joke": "[sees a zebra for the first time] What's up with that horse? [sees a giraffe for the first time] Okay, what the hell is going on today?",
-        "punchline": " The punchline is that the speaker is confused by the two animals they have seen, suggesting that something extraordinary and unexplainable has happened.</s>"
+        "topics": "Zebra, Giraffe, Horse, First time.</s>"
     },
     {
         "ID": 146,
         "joke": "so as I went in to vote this morning, an old lady told me to make sure I voted for the candidate that could make change. Boy, is my bank teller going to be surprised!",
-        "punchline": " The punchline is that the old lady's advice contradicts the narrator's beliefs, so the narrator is implying that the old lady is wrong and that the narrator's bank teller will be shocked when they discover the narrator voted for the wrong candidate.</s>"
+        "topics": "voting, old lady, candidate, change, bank teller.</s>"
     },
     {
         "ID": 147,
         "joke": "You're so fat and unfunny... that the only punchlines you have are stained on your shirt.",
-        "punchline": " The punchline is that the joke is about the speaker's shirt being stained with old, unfunny jokes.</s>"
+        "topics": "Fat, Unfunny, Punchlines, Shirt.</s>"
     },
     {
         "ID": 148,
         "joke": "Glue is weird it's all like hey I want to stick these pieces of paper together wait I have an idea hand me that dead horse",
-        "punchline": " The punchline is that the person is suggesting using the glue to stick the pieces of paper together, but then realizes that they have an even better idea - to use the dead horse instead.</s>"
+        "topics": "glue, paper, dead horse.</s>"
     },
     {
         "ID": 149,
         "joke": "Why are women and children evacuated first in a disaster? So we can think about a solution in silence",
-        "punchline": " The punchline is that the evacuation order is so that people can think about a solution in peace and quiet, without the distraction of men.</s>"
+        "topics": "Women, children, evacuation, disaster, solution, silence.</s>"
     },
     {
         "ID": 150,
         "joke": "Waiting for the day when a girl finally says that I'm \"the one,\" but isn't talking to a police officer.",
-        "punchline": " The punchline is that the girl is actually talking to a police officer, implying that she has accepted him as \"the one\".</s>"
+        "topics": "girl, police officer, relationship, saying, waiting</s>"
     },
     {
         "ID": 151,
         "joke": "Some people say Glenn Frey got pneumonia from the cold... But that can't be true because he said the Heat is On.",
-        "punchline": " The punchline is that Glenn Frey said the Heat is On, implying that he didn't get pneumonia from the cold.</s>"
+        "topics": "Glenn Frey, pneumonia, cold, Heat is On.</s>"
     },
     {
         "ID": 152,
         "joke": "What is the best part about having sex with 23 year olds? There's 20 of them. (Works better in person)",
-        "punchline": " The best part about having sex with 23 year olds is that there are so many of them - it's like a never-ending supply!</s>"
+        "topics": "sex, age, humor</s>"
     },
     {
         "ID": 153,
         "joke": "My love for you is like a fart. Everything about it is powered by my heart.",
-        "punchline": " The punchline is that the love the speaker feels for the other person is like a fart - it's powerful and comes from the heart.</s>"
+        "topics": "Love, Fart, Heart</s>"
     },
     {
         "ID": 154,
         "joke": "What did the Mexican gang member say when two large houses fell on him during an earthquake? Get off me, homes.",
-        "punchline": " The punchline is the unexpected use of the word \"homes\" instead of \"him\".</s>"
+        "topics": "Mexican gang member, earthquake, two large houses, fell on him.</s>"
     },
     {
         "ID": 155,
         "joke": "I once bought an e. e. cummings poem collection.. It was the worst game of Mad Libs ever.",
-        "punchline": " The punchline is that the purchase was a waste of money, as the book was full of nonsensical words and phrases that made it impossible to understand.</s>"
+        "topics": "poetry, Mad Libs, e. e. cummings</s>"
     },
     {
         "ID": 156,
         "joke": "Why is it that the more numbers someone has in their e-mail address, the less I respect them?",
-        "punchline": " The punchline is that the person with the e-mail address \"abcdefg1234@example.com\" is seen as less respectable than someone with an e-mail address like \"john.smith@example.com\".</s>"
+        "topics": "e-mail addresses, numbers, respect</s>"
     },
     {
         "ID": 157,
         "joke": "If you ever need help learning C++, I can give you some pointers. And you can keep me as a reference.",
-        "punchline": " The punchline is that the person can keep the speaker as a reference, suggesting that the speaker is knowledgeable in C++.</s>"
+        "topics": "C++, programming, learning, reference</s>"
     },
     {
         "ID": 158,
         "joke": "What have you done wrong if the wife keep complaining when you try to watch TV in the living room? You made the chain too long in the kitchen.",
-        "punchline": " The punchline is that the husband has made the chain too long in the kitchen, which is why the wife keeps complaining when he tries to watch TV in the living room.</s>"
+        "topics": "Wife, complaining, living room, TV, kitchen, chain</s>"
     },
     {
         "ID": 159,
         "joke": "Don't buy whitening toothpaste It says guaranteed whiteness in 14 days. 15 days have come and gone... and I am still asian.",
-        "punchline": " The punchline is that the person is still Asian despite using the \"guaranteed whiteness\" toothpaste, which implies that the product is ineffective.</s>"
+        "topics": "toothpaste, whitening, guaranteed, 14 days, asian.</s>"
     },
     {
         "ID": 160,
         "joke": "Simba - \"welcome to... The bone zone\" Nala - \"the what?\" Simba - \"elephant graveyard. I said elephant graveyard\"",
-        "punchline": " Nala is confused by Simba's statement, as she doesn't understand what an elephant graveyard is.</s>"
+        "topics": "elephant, graveyard, Simba, Nala.</s>"
     },
     {
         "ID": 161,
         "joke": "How are doctors so well tempered even under heavy stress? They have a lot of patients",
-        "punchline": " The punchline is that doctors have a lot of experience dealing with stressful situations.</s>"
+        "topics": "doctors, tempered, heavy stress, patients</s>"
     },
     {
         "ID": 162,
         "joke": "I wonder if dog's had facebook, would they put our picture as their profile picture.",
-        "punchline": " The punchline is that dog's would probably use our pictures as their profile pictures on Facebook if they had it.</s>"
+        "topics": "Dogs, Facebook, Profile picture.</s>"
     },
     {
         "ID": 163,
         "joke": "Why are Native Americans the most successfull strippers? Because when they dance, they make it rain.",
-        "punchline": " The punchline is that when Native Americans dance, they make it rain with money, suggesting that they are very successful strippers.</s>"
+        "topics": "Native Americans, strippers, success, dance, rain.</s>"
     },
     {
         "ID": 164,
         "joke": "My ex-girlfriend was a slut. She bust more nuts than a pistachio junkie. edit: Going through a potential breakup, so if you see this, this isnt about you, babe. Dont leave me, please.",
-        "punchline": " The punchline is that the speaker doesn't want their ex-girlfriend to leave them.</s>"
+        "topics": "ex-girlfriend, slut, nuts, pistachio junkie, breakup, please don't leave me.</s>"
     },
     {
         "ID": 165,
         "joke": "Why Did the Ebola Patient Cross the Road? Trick question. There are no roads in Africa.",
-        "punchline": " The punchline is that there are no roads in Africa, so the Ebola patient couldn't have crossed one.</s>"
+        "topics": "Ebola, patient, road, Africa, trick question.</s>"
     },
     {
         "ID": 166,
         "joke": "ME: Haha you can tell them any name and they have to say it BARISTA: I have a latte for \"A Person Who Deserves Love\"? ME [crying]: Hahaha",
-        "punchline": " ME [crying] is the punchline.</s>"
+        "topics": "coffee, barista, name, joke, crying.</s>"
     },
     {
         "ID": 167,
         "joke": "Peter Pan escaped the adult world... ...by becoming an alcoholic. He goes by Peter the Panhandler now.",
-        "punchline": " Peter Pan escaped the adult world by becoming an alcoholic. He now goes by the name Peter the Panhandler.</s>"
+        "topics": "Peter Pan, alcoholic, panhandler</s>"
     },
     {
         "ID": 168,
         "joke": "My Grandfather had the heart of a lion and a lifetime ban from the zoo.",
-        "punchline": " The punchline is that my grandfather had a heart of courage and strength, but a lifetime ban from the zoo indicates that he must have done something to get kicked out.</s>"
+        "topics": "Grandfather, heart, lion, zoo, ban.</s>"
     },
     {
         "ID": 169,
         "joke": "You just know I knew my girlfriend was furious when I blew my load early last night....I could see it in her eyes",
-        "punchline": " The punchline is that the narrator could tell from his girlfriend's eyes that she was furious with him for blowing his load early last night.</s>"
+        "topics": "girlfriend, furious, blew my load, early last night, eyes</s>"
     },
     {
         "ID": 170,
         "joke": "An atheist, a vegan, and a crossfit fanatic walk into a bar... Who talks more?",
-        "punchline": " The atheist talks the most.</s>"
+        "topics": "atheism, veganism, crossfit</s>"
     },
     {
         "ID": 171,
         "joke": "How is light beer like having sex in a canoe? They're both fucking close to water.",
-        "punchline": " The punchline is that both light beer and having sex in a canoe are \"fucking close to water\".</s>"
+        "topics": "light beer, canoe, sex, water.</s>"
     },
     {
         "ID": 172,
         "joke": "How many tickles does it take to make an octopus laugh? Ten-tickles. I'll see myself out.",
-        "punchline": " The punchline is that the number of tickles it takes to make an octopus laugh is ten, which is a joke on the fact that octopuses are notoriously difficult to tickle.</s>"
+        "topics": "Octopus, Tickles, Laugh</s>"
     },
     {
         "ID": 173,
         "joke": "What do you get when you cross an insomniac, agnostic and a dyslexic? Someone who stays up all night wondering if there is a Dog.",
-        "punchline": " The punchline is that there is no Dog.</s>"
+        "topics": "insomniac, agnostic, dyslexic, Dog.</s>"
     },
     {
         "ID": 174,
         "joke": "I farted in the Apple store and everyone got pissed at me. Not my fault they don't have Windows.",
-        "punchline": " The punchline is that the person got angry at the other person for farting in the Apple store, even though it was not their fault that they did not have Windows.</s>"
+        "topics": "Apple store, farting, Windows.</s>"
     },
     {
         "ID": 175,
         "joke": "I left Stephen Hawking like 8 voice mail messages before I realised he'd picked up every time.",
-        "punchline": " The punchline is that the narrator realized that Stephen Hawking had picked up every time he had left a voice mail message.</s>"
+        "topics": "Stephen Hawking, voice mail, communication</s>"
     },
     {
         "ID": 176,
         "joke": "My terrible Joke but I never forget it. A dyslexic man walked into a bra....",
-        "punchline": " The punchline is that the man walked into a bar, but the joke was so bad that the man didn't remember the punchline.</s>"
+        "topics": "Dyslexia, Bra</s>"
     },
     {
         "ID": 177,
         "joke": "Believe it or not, my wife and I were actually matched on Tinder. We'd been married for 12 years.",
-        "punchline": " The punchline is that the couple was married for 12 years, despite being matched on Tinder.</s>"
+        "topics": "Tinder, marriage, wife</s>"
     },
     {
         "ID": 178,
         "joke": "I scream, you scream, we all scream for ice cream. This kid working at Baskin Robbins is pretty scared. Now he's crying in the corner.",
-        "punchline": " The punchline is that the kid is so scared that he is crying in the corner.</s>"
+        "topics": "ice cream, Baskin Robbins, screaming, crying, working, kid.</s>"
     },
     {
         "ID": 179,
         "joke": "So a Trabi owner pulls up to a gas station... ...and says to the attendant: \"Two windscreen wipers for my Trabi please.\" The attendant replies: \"That sounds like a good deal!\"",
-        "punchline": " The attendant is surprised by the Trabi owner's request and responds with a humorous comment.</s>"
+        "topics": "Trabi, gas station, windscreen wipers, attendant, good deal.</s>"
     },
     {
         "ID": 180,
         "joke": "How many police officers does it take to change a light bulb? None, because they'll just beat the room for being black!",
-        "punchline": " The punchline is a reference to the fact that police officers are often portrayed as racist, and will only use violence when dealing with people of color.</s>"
+        "topics": "police, light bulb, racism</s>"
     },
     {
         "ID": 181,
         "joke": "Why did the semen cross the road? Because I put on the wrong pair of socks this morning.",
-        "punchline": " The punchline is that the semen was wearing socks with a different color combination than intended, suggesting that the semen was confused and didn't know why it was crossing the road.</s>"
+        "topics": "semen, road, socks.</s>"
     },
     {
         "ID": 182,
         "joke": "If you're not one of the first five boys in the yard, you almost never get a milkshake.",
-        "punchline": " The surprise at the end of the joke is that the narrator is implying that the boys are being unfairly treated, since not all of them get a milkshake regardless of how fast they are.</s>"
+        "topics": "milkshake, yard, boys, first five, never</s>"
     },
     {
         "ID": 183,
         "joke": "Every woman I've ever been with only saw me the way they wanted to see me... ...in their rearview mirror.",
-        "punchline": " The punchline is that the women only saw the man they wanted in the rearview mirror, implying that the man was always in the driver's seat.</s>"
+        "topics": "relationships, self-perception, humor.</s>"
     },
     {
         "ID": 184,
         "joke": "How do you figure out which contestant in a Ms. America pageant is a prostitute? Look for the one with the sash that says \"I da ho\".",
-        "punchline": " The punchline is that the contestant with the sash that says \"I da ho\" is the prostitute.</s>"
+        "topics": "Ms. America pageant, prostitute, sash, I da ho.</s>"
     },
     {
         "ID": 185,
         "joke": "I love raccoons. Part cat. Part dog. Part rodent. Part bear. Little people hands. What's not to like?",
-        "punchline": " The punchline is that raccoons are adorable and lovable creatures that are a mix of different animals, making them unique and lovable.</s>"
+        "topics": "raccoons, cats, dogs, rodents, bears, people</s>"
     },
     {
         "ID": 186,
         "joke": "[Google search history] Moles How to kill moles How to make homemade bombs Rescue moles from cave-in Dealing with regret Mole stew",
-        "punchline": " The punchline of the joke is that the person is dealing with regret, so the best way to deal with it is to make mole stew.</s>"
+        "topics": "Google search history, moles, how to kill moles, how to make homemade bombs, rescue moles from cave-in, dealing with regret, mole stew.</s>"
     },
     {
         "ID": 187,
         "joke": "Standing in the park, I was wondering why a Frisbee gets larger the closer it gets. And then it hit me.",
-        "punchline": " The punchline is that the Frisbee is getting bigger because it is getting closer, so it appears larger.</s>"
+        "topics": "Frisbee, park, size, closer, hit</s>"
     },
     {
         "ID": 188,
         "joke": "When in doubt, just do the opposite of whatever the person wearing pajamas in public is doing.",
-        "punchline": " The punchline is that the opposite of what the person wearing pajamas in public is doing is to wear normal clothing. This implies that the person wearing pajamas in public is not following the societal norms of dress code and that the onlooker should do the opposite of what they are doing.</s>"
+        "topics": "pajamas, public, opposite</s>"
     },
     {
         "ID": 189,
         "joke": "[Ouija board] Spirits are you there? U R C U T E D O Y O U H A V E K I K *flips board*",
-        "punchline": " The punchline is that the Ouija board spells out \"Kick me\" when the user flips it over.</s>"
+        "topics": "Ouija board, spirits, communication, cut, you, there, U, R, C, U, T, E, D, O, Y, O, U, H, A, V, E, K, *flips board*.</s>"
     },
     {
         "ID": 190,
         "joke": "Not being able to read because your book ran out of batteries is a pretty hilarious first-world problem.",
-        "punchline": " The punchline is that the person with the first-world problem is laughing at their own predicament, acknowledging how ridiculous it is.</s>"
+        "topics": "book, battery, first-world problem.</s>"
     },
     {
         "ID": 191,
         "joke": "My internet connection on my farm was be terrible until I moved the router in the horse barn. Now I have stable WiFi.",
-        "punchline": " The punchline is that the router was causing poor internet connection on the farm, but when the speaker moved it to the horse barn, the connection improved drastically.</s>"
+        "topics": "internet connection, farm, router, horse barn, WiFi.</s>"
     },
     {
         "ID": 192,
         "joke": "What does a sheep call a film it doesn't like? a baaahhhd movie. (   )",
-        "punchline": " The punchline is that the sheep is saying \"bad movie\".</s>"
+        "topics": "sheep, film, like, baaahhhd movie.</s>"
     },
     {
         "ID": 193,
         "joke": "Brexit There is a new slimming product in town. It is called Brexit. It'll help you lose a lot of pounds.",
-        "punchline": " The punchline is that Brexit is a fictitious slimming product, implying that the only way to lose weight is through hard work and dedication.</s>"
+        "topics": "Brexit, slimming product, pounds.</s>"
     },
     {
         "ID": 194,
         "joke": "Orange Julius is the third best thing to happen to oranges behind mimosas and the \"orange you glad I didn't say banana\" knock knock joke",
-        "punchline": " The punchline of the joke is that orange Julius is the best thing to happen to oranges.</s>"
+        "topics": "Orange Julius, oranges, mimosas, knock knock joke, banana.</s>"
     },
     {
         "ID": 195,
         "joke": "Why do golfers wear 2 pairs of pants? Incase he gets a hole in one",
-        "punchline": " The punchline is that the golfer gets a free drink from the bar.</s>"
+        "topics": "Golf, Pants, Humor</s>"
     },
     {
         "ID": 196,
         "joke": "How do you stop a baby from crawling in circles? Nail its other hand to the floor.",
-        "punchline": " The punchline is that the baby is now immobilized and can't move in circles anymore.</s>"
+        "topics": "baby, crawling, circles, nail, floor.</s>"
     },
     {
         "ID": 197,
         "joke": "Two fish are in a tank... One is driving, and the other is manning the guns.",
-        "punchline": " The punchline is that the fish driving the boat is wearing a captain's hat and is holding a tiny steering wheel. The other fish is wearing a soldier's helmet and is looking through a pair of binoculars.</s>"
+        "topics": "fish, tank, driving, guns, manning</s>"
     },
     {
         "ID": 198,
         "joke": "Steve wrote home. 'I'm glad you named me  Steve' he said in the letter. 'Why?' asked his mother in her reply. 'Because that's what all the kids at camp call me' he wrote  back.",
-        "punchline": " Steve's mother was confused by his reply, so he explained that all the other kids at camp had nicknamed him \"Steve\".</s>"
+        "topics": "Steve, home, camp, kids, name, letter, mother, reply.</s>"
     },
     {
         "ID": 199,
         "joke": "Whilst at college I did experiment with marijuana. I did it in snow, I did it in sleet, but I did not in hail. ^-- ^Ed ^Byrne",
-        "punchline": " The punchline is that the speaker did not do the experiment in hail, despite trying it in other extreme weather conditions.</s>"
+        "topics": "college, marijuana, snow, sleet, hail.</s>"
     },
     {
         "ID": 200,
         "joke": "I paid 10.50 for a movie ticket to watch Tom Cruise die continuously for 2 hours. I would have paid a hundred dollars to watch that.",
-        "punchline": " The punchline is that the movie ticket was worth it because Tom Cruise's death-defying stunts made the movie worth watching.</s>"
+        "topics": "movie ticket, Tom Cruise, die continuously, 2 hours, hundred dollars.</s>"
     },
     {
         "ID": 201,
         "joke": "A Spanish magician announced that for his final trick, he would vanish into thin air. He counted down: uno, dos, then POOF! He was gone, without a tres.",
-        "punchline": " The magician vanishes into thin air without a tres, leaving the audience astonished.</s>"
+        "topics": "Spanish magician, final trick, vanish into thin air, countdown, uno, dos, POOF, gone, tres.</s>"
     },
     {
         "ID": 202,
         "joke": "Is that mine? I was walking down the street when I saw black guy with a laptop. Is that mine? I thought. It looks exactly like mine... but that can't be... Mine should be at home cleaning my shoes.",
-        "punchline": " The punchline is that the black guy was actually the person walking down the street who had stolen the laptop.</s>"
+        "topics": "Laptop, Black guy, Street, Mine, Home, Shoes.</s>"
     },
     {
         "ID": 203,
         "joke": "A Bug's Mind What's the last thing that goes through a bug's mind when he crashes into a windshield? His asshole.",
-        "punchline": " The punchline is that the bug's last thought is that he has crashed into a windshield, implying that he has died.</s>"
+        "topics": "bugs, windshields, assholes.</s>"
     },
     {
         "ID": 204,
         "joke": "My mom recently bought a Jesus shaped flashlight When I asked her why she said: So whenever someone says \"I can't see\" I can be like \"here, let Jesus light the path\"",
-        "punchline": " The punchline is that the flashlight is shaped like Jesus, implying that it is a religious object.</s>"
+        "topics": "Jesus, flashlight, humor, religion, family</s>"
     },
     {
         "ID": 205,
         "joke": "Why is my Chinese girlfriend so bitchy? Well it's true, you are what you eat.",
-        "punchline": " The punchline is that the reason why the Chinese girlfriend is so bitchy is because she is eating too much bad luck.</s>"
+        "topics": "Chinese girlfriend, bitchy behavior, food, diet.</s>"
     },
     {
         "ID": 206,
         "joke": "They just found a Black guy hanging from a tree with 79 stab wounds in Alabama.... The police say it's the worst case of suicide they've ever seen",
-        "punchline": " The punchline is that the police are saying it's a suicide, even though it appears to be a gruesome murder.</s>"
+        "topics": "Black, guy, hanging, tree, stab wounds, suicide, police, Alabama.</s>"
     },
     {
         "ID": 207,
         "joke": "Q: How many Kings of Spain does it take to screw in a light bulb? A: Juan",
-        "punchline": " The punchline is that Juan is the only King of Spain, so he has to screw in the light bulb himself.</s>"
+        "topics": "Spain, light bulb, joke, screw</s>"
     },
     {
         "ID": 208,
         "joke": "The hotel we stayed in for our holiday offered bed and board but it was impossible to say which was the bed and which was the board.",
-        "punchline": " The punchline is that the \"bed\" was the breakfast and the \"board\" was the accommodation.</s>"
+        "topics": "hotel, holiday, bed, board, impossible.</s>"
     },
     {
         "ID": 209,
         "joke": "My new cooking show, \"Will Sasso Cooks With His Exposed Dick Really Close to the Food\" premieres tonight (8/7 Central) in my mind. Be there!",
-        "punchline": " The punchline is that the show is a ridiculous concept that is impossible to believe.</s>"
+        "topics": "cooking show, Will Sasso, exposed dick, food</s>"
     },
     {
         "ID": 210,
         "joke": "*nose hairs growing out of control *buys tiny scissors *jam them in the eyes of whoever I catch staring at my nose hairs",
-        "punchline": " The punchline is that the person who was staring at the narrator's nose hairs gets a pair of tiny scissors jammed in their eyes.</s>"
+        "topics": "*nose hairs *tiny scissors *eyes</s>"
     },
     {
         "ID": 211,
         "joke": "I'm trying to write a poem for my girlfriend, does anyone know what rhymes with threesome?",
-        "punchline": " The punchline is that the word that rhymes with \"threesome\" is \"somebody\".</s>"
+        "topics": "Poetry, Relationships, Threesome</s>"
     },
     {
         "ID": 212,
         "joke": "Pro tip: If a woman asks you how she looks, the correct answer is not \"like Dan Aykroyd.\"",
-        "punchline": " The correct answer is \"beautiful\".</s>"
+        "topics": "Women, beauty, Dan Aykroyd.</s>"
     },
     {
         "ID": 213,
         "joke": "I complained to my wife that I was short staffed at work She responded \"yeah, and you have the same problem at home\"",
-        "punchline": " My wife's response was a humorous jab at my complaint, implying that I was not only short staffed at work, but also at home.</s>"
+        "topics": "Work, Short staffed, Home, Problem</s>"
     },
     {
         "ID": 214,
         "joke": "I overheard two female coworkers say there was a creepy dude listening to their conversation.",
-        "punchline": " The two female coworkers look around suspiciously and one of them says, \"Oh my god, I think he's following us!\"</s>"
+        "topics": "creepy, dude, listening, conversation, coworkers, female</s>"
     },
     {
         "ID": 215,
         "joke": "What's black and white and red all over and can't get through a revolving door? A nun with a spear through her head.",
-        "punchline": " The punchline is that the nun is wearing a black and white habit with a red scarf, and is too large to fit through the revolving door.</s>"
+        "topics": "Nun, Spear, Revolving door.</s>"
     },
     {
         "ID": 216,
         "joke": "What did the Marine Biologist say when he saw two eels making love? \"It's a Moray.\"",
-        "punchline": " The punchline is a play on the word \"moral\", implying that the Marine Biologist was appalled by the sight of the eels having sex.</s>"
+        "topics": "Marine Biologist, eels, making love, Moray.</s>"
     },
     {
         "ID": 217,
         "joke": "I submitted 10 of my best puns to a Joke competition expecting at least 1 to win, but... No pun in ten did..",
-        "punchline": " The punchline is that the speaker was expecting at least one of their puns to win the joke competition, but none of them did.</s>"
+        "topics": "Joke competition, puns, winning, disappointment</s>"
     },
     {
         "ID": 218,
         "joke": "Shoutout to people who don't know what the opposite of in is. I'll give you some time for this one.",
-        "punchline": " The punchline is that the opposite of \"in\" is \"out\".</s>"
+        "topics": "Opposite of \"in\", people who don't know.</s>"
     },
     {
         "ID": 219,
         "joke": "ME: all the King's horses and men couldn't put u back together HUMPTY DUMPTY: what now M: [opening package of bacon] I'll think of something",
-        "punchline": " Humpty Dumpty is confused and asks what now. The narrator (M) responds by opening a package of bacon and saying they'll think of something.</s>"
+        "topics": "Humpty Dumpty, King's horses and men, bacon, M.</s>"
     },
     {
         "ID": 220,
         "joke": "How many Alzheimer's patients does it take to screw on a light bulb? TO GET TO THE OTHER SIDE!",
-        "punchline": " The punchline is a reference to the classic joke \"How many people does it take to change a light bulb?\" The answer is \"two\" - one to screw the bulb in and one to get the other side.</s>"
+        "topics": "Alzheimer's patients, light bulb, screw, other side.</s>"
     },
     {
         "ID": 221,
         "joke": "If chopsticks were really better than a fork... ...wouldn't we be digging ditches with pool cues?",
-        "punchline": " The punchline is that chopsticks are not better than a fork, so we are not digging ditches with pool cues.</s>"
+        "topics": "chopsticks, fork, ditches, pool cues.</s>"
     },
     {
         "ID": 222,
         "joke": "First woman on the moon W: Houston, we have a problem H: What is it? W: Nevermind its nothing H: What is the problem? W: Nothing... H: Tell us what the problem is! W: NO!",
-        "punchline": " The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence.</s>"
+        "topics": "Space, Moon, NASA, Women, Astronauts, Space exploration.</s>"
     },
     {
         "ID": 223,
         "joke": "Thank god I have the newest, fastest iPhone so I can mindlessly check the same three apps 500 times a day.",
-        "punchline": " The punchline is that the speaker is acknowledging how mindless their behavior is and how it is only made possible by having the newest, fastest phone.</s>"
+        "topics": "iPhone, apps, checking</s>"
     },
     {
         "ID": 224,
         "joke": "Jared Fogle was guilty and got 16 years He was just grateful for anything under 18. Credit to SNL that joke might have converted me to watch.",
-        "punchline": " Jared Fogle was sentenced to 16 years in prison for his involvement in a child pornography and sex trafficking ring. He was relieved to receive a sentence less than 18 years, as he said he was \"just grateful for anything under 18\".</s>"
+        "topics": "Jared Fogle, guilty, 16 years, grateful, anything under 18, SNL, joke, convert.</s>"
     },
     {
         "ID": 225,
         "joke": "This hating of people who breast feed in public places has to stop! I'll raise my dog however I like.",
-        "punchline": " The punchline is that the speaker is advocating for the acceptance of public breastfeeding, while still being allowed to raise their dog as they please.</s>"
+        "topics": "breastfeeding, public places, dog</s>"
     },
     {
         "ID": 226,
         "joke": "A woman's JJ sized breasts saved her life in a car accident. Those same breasts were the cause of her husbands death in a motorboating accident.",
-        "punchline": " The woman's JJ sized breasts were the cause of her husband's death in a motorboating accident, as they caused him to lose control of the boat and crash.</s>"
+        "topics": "breasts, car accident, motorboating accident, husband, wife.</s>"
     },
     {
         "ID": 227,
         "joke": "Recent studies show that 1 out of 3 Americans weigh as much as the other 2 put together.",
-        "punchline": " The punchline is that the recent studies show that 1 out of 3 Americans is as heavy as the other two combined, emphasizing the growing obesity problem in the United States.</s>"
+        "topics": "obesity, weight, health, statistics</s>"
     },
     {
         "ID": 228,
         "joke": "[date gets back from the bathroom] those batman toys in the tub are so cute! How old are your kids? \"kids?\"",
-        "punchline": " The punchline is that the date is referring to the batman toys in the tub as \"cute\", implying that they are too young to be the date's children.</s>"
+        "topics": "date, bathroom, batman toys, tub, cute, kids.</s>"
     },
     {
         "ID": 229,
         "joke": "I just Googled 'Nicolas Cage jokes' and it showed me a list of every film he's been in. Well played, Google.",
-        "punchline": " Nicolas Cage has starred in many movies, so it's no surprise that a list of his films would be found when Googled.</s>"
+        "topics": "Nicolas Cage, jokes, Google, films</s>"
     },
     {
         "ID": 230,
         "joke": "I've been listening to the official workout station on Pandora for 3 months and I'm still fat, I'm calling bullshit.",
-        "punchline": " The punchline is that the speaker is admitting that they have been wasting their time and have not achieved the results they had hoped for.</s>"
+        "topics": "Pandora, workout, fat, bullshit.</s>"
     },
     {
         "ID": 231,
         "joke": "I was going to break up a fight between two Rabbis... But they were just arguing semitics.",
-        "punchline": " The punchline is that the two Rabbis were simply arguing about semantics, not physical fighting.</s>"
+        "topics": "Rabbis, Semitics, Fight, Arguing.</s>"
     },
     {
         "ID": 232,
         "joke": "Pavlov's doorbell One tuesday afternoon Ivan Pavlov is reading the paper, when his neighbour rings the doorbell. Ivan jumps up out of his chair, suddenly remembering: \"Shit, I need to feed the dogs!\"",
-        "punchline": " Ivan Pavlov is surprised by the unexpected ring at his doorbell, causing him to jump up out of his chair and remember that he needs to feed the dogs.</s>"
+        "topics": "Pavlov's dogs, Pavlov's conditioning experiments, doorbell, Ivan Pavlov.</s>"
     },
     {
         "ID": 233,
         "joke": "What did one tampon say to the other tampon? Nothing they were both stuck up cunts.",
-        "punchline": " The punchline is that the two tampons were actually stuck together, making the joke a double entendre.</s>"
+        "topics": "tampon, cunt, stuck up.</s>"
     },
     {
         "ID": 234,
         "joke": "HER: You look so nervous. ME: *nervously* HA. I'm never nervous. HER: You're sweating. ME: *just freaking out* That's bravery moisture.",
-        "punchline": " The punchline is that the person is actually nervous, despite claiming to be brave.</s>"
+        "topics": "nervousness, sweating, bravery.</s>"
     },
     {
         "ID": 235,
         "joke": "When I was 8 years old, my dad got me with the worst dad joke ever. He said he was going to the store and would be back soon...",
-        "punchline": " The punchline is that my dad never came back.</s>"
+        "topics": "Dad, Joke, Store, Time</s>"
     },
     {
         "ID": 236,
         "joke": "Do you hate yourself? Do you wish someone would trip you down stairs? Do you enjoy lacerations & and surprise vomit piles? *hands you a cat*",
-        "punchline": " The punchline is that the speaker has given the listener a cat, implying that they should take better care of themselves.</s>"
+        "topics": "Self-hate, tripping, stairs, lacerations, surprise vomit piles, cats.</s>"
     },
     {
         "ID": 237,
         "joke": "I found where my mom hid the scissors, so everyone in my house woke up with a new haircut this morning.",
-        "punchline": " Everyone in the house woke up with a new haircut this morning due to the surprise discovery of the hidden scissors.</s>"
+        "topics": "scissors, haircut, mom, house</s>"
     },
     {
         "ID": 238,
         "joke": "What is the best thing about twenty six year olds? There are twenty of them",
-        "punchline": " The best thing about twenty six year olds is that there are so many of them!</s>"
+        "topics": "age, twenty six, year olds, best thing.</s>"
     },
     {
         "ID": 239,
         "joke": "Why was there semen on the clean laundry? When Greg woke up, his mom had left a note reading, \"Please put a load in the washer\"",
-        "punchline": " Greg realizes his mom must have been washing his dirty clothes by mistake.</s>"
+        "topics": "Semen, laundry, Greg, mom, note</s>"
     },
     {
         "ID": 240,
         "joke": "I once was bored so I decided to eat a clock to *pass the time*. It was very *time consuming*. Yuk yuk yuk yuk yuk",
-        "punchline": " The punchline is that eating a clock is time consuming.</s>"
+        "topics": "eating, passing time, boredom, time consumption, yuk yuk yuk yuk yuk</s>"
     },
     {
         "ID": 241,
         "joke": "Have you ever seen those \"Give a penny, take a penny\" things at convenience stores??? that makes no cents",
-        "punchline": " The punchline is that the system makes no sense - it doesn't matter whether you put in a penny or take a penny, it still costs the same.</s>"
+        "topics": "Penny, Convenience store, Money</s>"
     },
     {
         "ID": 242,
         "joke": "Me: .... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: ... Dog: have the shrooms kicked-in yet? Me: ..",
-        "punchline": " The punchline is \"Me: ... Dog: have the shrooms kicked-in yet?\", implying that the dog is high on shrooms.</s>"
+        "topics": "Shrooms, Kicked-in, Me, Dog, have, the, shrooms, kicked-in, yet?</s>"
     },
     {
         "ID": 243,
         "joke": "I bet if I were a MAN Apple wouldn't tell me my password ideas are weak.",
-        "punchline": " The punchline is that the speaker is implying that if they were a man, Apple would be more likely to take their password ideas seriously.</s>"
+        "topics": "Apple, password, weakness</s>"
     },
     {
         "ID": 244,
         "joke": "if people really didn't want to hear smartass responses they wouldn't keep asking questions like \"do you know why i pulled you over?\"",
-        "punchline": " The punchline is that the smartass response is, \"Because you don't think I know why you pulled me over?\"</s>"
+        "topics": "smartass, responses, questions, pulled over.</s>"
     },
     {
         "ID": 245,
         "joke": "I have this fun drinking game where you take a drink every time you'd like one because you're an adult and you can make decisions yourself.",
-        "punchline": " The punchline is that the person is taking a drink every time they want one, implying that they are not mature enough to make decisions for themselves.</s>"
+        "topics": "drinking, adult, decision-making.</s>"
     },
     {
         "ID": 246,
         "joke": "I'm sorry, Black Lives Matter is actually a peaceful and forward thinking movement that our society needs... Now if you could all stop sending me death threats on twitter that would be great.",
-        "punchline": " The punchline is that the speaker is mocking the idea that Black Lives Matter is a violent or extremist movement by jokingly implying that the speaker is receiving death threats from the movement.</s>"
+        "topics": "Black Lives Matter, peaceful movement, society, death threats, Twitter.</s>"
     },
     {
         "ID": 247,
         "joke": "My girlfriend left me after I broke her wheelchair..... Oh,, I think she'll come crawling back soon..",
-        "punchline": " The punchline is that the girlfriend is disabled and relies on her wheelchair.</s>"
+        "topics": "girlfriend, wheelchair, broken, coming back</s>"
     },
     {
         "ID": 248,
         "joke": "Someone should invent a version of Twitter for people who spell things like rappers. They could call it \"twita\". Dat would b nize",
-        "punchline": " The punchline is that the service should be called \"twita\" because that would be \"nize\".</s>"
+        "topics": "Twitter, spelling, rappers, invention, \"twita\"</s>"
     },
     {
         "ID": 249,
         "joke": "NSFW Men are like a deck of cards... You need a heart to love him, a diamond to marry him, a club to smash his fucking face in and a spade to bury the bastard!",
-        "punchline": " The punchline is that you need all four cards to deal with a man - a heart to love him, a diamond to marry him, a club to smash his face in, and a spade to bury him.</s>"
+        "topics": "Men, Love, Marriage, Violence</s>"
     },
     {
         "ID": 250,
         "joke": "THE HORROR! *splat THE TRAGEDY! *splat IT'S AWFUL! *splat SO MUCH BLOOD! *splat WHY IS THIS HAPPENING?! *splat -It's raining men.",
-        "punchline": " The punchline is a surprise reveal that it's raining men, instead of actual rain.</s>"
+        "topics": "Rain, Men, Blood, Tragedy, Horror.</s>"
     },
     {
         "ID": 251,
         "joke": "Guy comes home with a flower bouquet... \"Guess I'll have to spread my legs now\", says the wife. \"Why? Don't you have a vase?\" the husband replies.",
-        "punchline": " The wife responds with a suggestive comment, implying that the flower bouquet is a sign that her husband should have sex with her.</s>"
+        "topics": "marriage, humor, gender roles, stereotypes</s>"
     },
     {
         "ID": 252,
         "joke": "Two rabbits were being chased by a pack of wild dogs... One says to the other \"should we stop and outnumber them?\" ... &amp;nbsp; \"keep running you fool we're brothers!!\"",
-        "punchline": " The punchline is that the two rabbits are brothers and the other one is just trying to be helpful.</s>"
+        "topics": "rabbits, wild dogs, outnumber, brothers.</s>"
     },
     {
         "ID": 253,
         "joke": "No one is more unnecessarily confident than a white person that just ordered Mexican food in a Spanish accent.",
-        "punchline": " The punchline is that the white person is wrong and the food is not Mexican, it is in fact Spanish.</s>"
+        "topics": "white people, Mexican food, Spanish accent, confidence</s>"
     },
     {
         "ID": 254,
         "joke": "What do you call it when two designers argue about what file type to export a graphic to? Getting into a bit of a .tiff!",
-        "punchline": " The punchline is that the two designers are getting into a \"bit of a tiff\" over what file type to export a graphic to.</s>"
+        "topics": "designers, file type, graphic, export, tiff.</s>"
     },
     {
         "ID": 255,
         "joke": "A doctor reaches into his pocket and finds his rectal thermometer He says \"Shit, some asshole took my pen!\"",
-        "punchline": " The doctor realizes that someone must have mistaken his rectal thermometer for a pen, leading him to exclaim \"Shit, some asshole took my pen!\"</s>"
+        "topics": "doctor, rectal thermometer, pen, asshole</s>"
     },
     {
         "ID": 256,
         "joke": "how many people does it take to save the world? zero (compliments to my SO who thinks she made this up)",
-        "punchline": " The punchline is that it takes zero people to save the world, because everyone has to do their part.</s>"
+        "topics": "people, saving the world, zero</s>"
     },
     {
         "ID": 257,
         "joke": "Finally got around to shaving my crotch after a few years. Its nice to see my knees again.",
-        "punchline": " After a few years of not shaving his crotch, the man is surprised to see his knees again.</s>"
+        "topics": "shaving, crotch, knees.</s>"
     },
     {
         "ID": 258,
         "joke": "I'm ready for the cop-buddy film where they actually get along in the beginning but hate each other by the end.",
-        "punchline": " The punchline is that the two main characters start out as enemies, but by the end of the film they have become close friends.</s>"
+        "topics": "cop, buddy, film, get along, hate each other.</s>"
     },
     {
         "ID": 259,
         "joke": "How many people does it take to change a light bulb in Brazil? A Brazillion!!! http://imgur.com/c4CJjUd",
-        "punchline": " The punchline is that the joke is making a pun on the fact that Brazilians have a reputation for being difficult to understand, with the word \"Brazillion\" being a play on the word \"Brazil\" and the number 1000.</s>"
+        "topics": "Brazil, light bulb, joke</s>"
     },
     {
         "ID": 260,
         "joke": "If two people had a race and one had sand in his shoe but the other did not, who would win? The one with sand in his shoe -- if it was quicksand.",
-        "punchline": " The one with sand in his shoe would win, as quicksand is a much faster and more powerful form of sand than regular sand.</s>"
+        "topics": "race, sand, shoe, quicksand.</s>"
     },
     {
         "ID": 261,
         "joke": "I know dream catchers don't work because I've never seen one in a car worth more than two thousand dollars.",
-        "punchline": " The punchline is that the dream catcher doesn't work because the car is not worth more than two thousand dollars.</s>"
+        "topics": "Dream catchers, cars, worth, two thousand dollars.</s>"
     },
     {
         "ID": 262,
         "joke": "At my last checkup the doctor said he needed a urine sample, a semen sample and a stool sample ... ... I said \" Doc, I can speed this along - I'll just leave you my underwear !\"",
-        "punchline": " The punchline is that the man is joking that he can provide the samples more quickly by giving the doctor his underwear instead of actual samples.</s>"
+        "topics": "urine sample, semen sample, stool sample, underwear.</s>"
     },
     {
         "ID": 263,
         "joke": "[pulls out acoustic guitar at a funeral] alright everyone stop being all [finger quotes] sad this next 1 is dedicated to a very sexy widow.",
-        "punchline": " The punchline is that the person is being sarcastic and trying to make the situation more lighthearted.</s>"
+        "topics": "funeral, acoustic guitar, sexy widow.</s>"
     },
     {
         "ID": 264,
         "joke": "If there are three gay guys in a bath and a lump of cum floats to the surface, what do they say? Who farted?",
-        "punchline": " The three gay guys in the bath laugh and say, \"Who farted?\".</s>"
+        "topics": "bath, gay, cum, joke, farted.</s>"
     },
     {
         "ID": 265,
         "joke": "Why the gills in the sea don't drink tea even though there is plenty of water That will make them all guill tea!",
-        "punchline": " The punchline is that the gills in the sea don't drink tea even though there is plenty of water because they don't need it - they're already guill (drunk) from the sea!</s>"
+        "topics": "gills, sea, tea, water, guill tea.</s>"
     },
     {
         "ID": 266,
         "joke": "Taking calculus has made me want to become Prime Minister of a European country Then I can just throw money at problems instead of trying to integrate them.",
-        "punchline": " The punchline is that the speaker is making a joke about how having knowledge of calculus has made them want to become Prime Minister of a European country, implying that they could solve any problem by simply throwing money at it.</s>"
+        "topics": "Calculus, Prime Minister, European country, throwing money at problems, integrating problems.</s>"
     },
     {
         "ID": 267,
         "joke": "My friend used my todo list to roll a blunt He's high on my list of priorities",
-        "punchline": " The punchline is that my friend used my to-do list to roll a blunt, implying that he is high on my list of priorities.</s>"
+        "topics": "friend, todo list, blunt, high, priorities</s>"
     },
     {
         "ID": 268,
         "joke": "From now on when skinny girls say they're fat I'm just gonna be like, \"Yup\" & walk away.",
-        "punchline": " The punchline is that the speaker is accepting the skinny girl's statement without argument, implying that they understand that being fat is relative and there is no need to debate it.</s>"
+        "topics": "Skinny girls, fat, walking away.</s>"
     },
     {
         "ID": 269,
         "joke": "What did the homeless person say to the gay job interviewer when asked for his address? No home-o.",
-        "punchline": " The homeless person responds with the joke, \"No home-o\" to the gay job interviewer's question of his address.</s>"
+        "topics": "homelessness, gay rights, job interview.</s>"
     },
     {
         "ID": 270,
         "joke": "How many people with dementia does it take to change a lightbulb? To get to the other side.",
-        "punchline": " None. The punchline is \"To get to the other side\".</s>"
+        "topics": "dementia, lightbulb, change, other side.</s>"
     },
     {
         "ID": 271,
         "joke": "butts are truly the final frontier. to think we know more about SPACE than we do about the human butt. two fleshy mounds of mystery & wonder",
-        "punchline": " The punchline is that we know more about space than we do about the human butt, which is a surprising and humorous statement.</s>"
+        "topics": "butts, space, human body, mystery, wonder</s>"
     },
     {
         "ID": 272,
         "joke": "I keep getting the urge to purchase a big white bear from the artic... ...Doc says I might have \"Buy Polar\" disorder! EDIT: arctic*",
-        "punchline": " The punchline is that the person might have \"Buy Polar\" disorder, which is the urge to purchase items from the Arctic region.</s>"
+        "topics": "polar bears, artic, disorder</s>"
     },
     {
         "ID": 273,
         "joke": "How do you get a gay man to fuck a woman? Shit in her cunt.",
-        "punchline": " The punchline is that the man is disgusted by the idea and responds, \"I'm not fucking some random stranger's cunt!\"</s>"
+        "topics": "Gay, Woman, Fuck, Cunt.</s>"
     },
     {
         "ID": 274,
         "joke": "I want to start a coffee shop that only plays ambient/electronic music... and call it Brian Beano.",
-        "punchline": " The punchline is that the name of the coffee shop is a play on the words \"Brian Eno\", who is known for creating ambient and electronic music.</s>"
+        "topics": "coffee shop, ambient/electronic music, Brian Beano.</s>"
     },
     {
         "ID": 275,
         "joke": "I like my girlfriend's new glow-in-the-dark braces... ...her smile really lights up the room now.",
-        "punchline": " Her smile really lights up the room now.</s>"
+        "topics": "girlfriend, new braces, glow-in-the-dark, smile, room.</s>"
     },
     {
         "ID": 276,
         "joke": "Mom writes to her son in Poland's army: \"Dear Son, I am writing this letter ever so slowly..... ....because I know you cannot read fast\"",
-        "punchline": " The punchline is that the mother is aware that her son is illiterate and is taking advantage of this fact to take her time writing the letter.</s>"
+        "topics": "Mom, son, army, letter, reading</s>"
     },
     {
         "ID": 277,
         "joke": "Did you hear about the calendar thief? He got 12 months; they say his days are numbered!",
-        "punchline": " The punchline is that the thief got 12 months, which implies that his days are numbered.</s>"
+        "topics": "calendar, thief, 12 months, days are numbered.</s>"
     },
     {
         "ID": 278,
         "joke": "I hate how the losers of every election maintain such a high view of themselves... They're conceded",
-        "punchline": " The punchline is that the losers of every election have an inflated opinion of themselves, despite having lost.</s>"
+        "topics": "election, losers, high view of themselves, conceded.</s>"
     },
     {
         "ID": 279,
         "joke": "I didn't see mommy kiss Santa, but my sister saw her kiss the mailman, which explains why I'm the only one with brown eyes in the family",
-        "punchline": " The punchline is that the narrator's sister saw their mom kissing a different man, which explains why the narrator is the only one with brown eyes in the family.</s>"
+        "topics": "Mommy, Santa, mailman, family, brown eyes</s>"
     },
     {
         "ID": 280,
         "joke": "Why did the vampire attack the clown? He wanted the circus to be in his blood.",
-        "punchline": " The vampire was seeking to gain the circus's energy and life force.</s>"
+        "topics": "vampire, clown, circus, blood.</s>"
     },
     {
         "ID": 281,
         "joke": "How do I know when your sister's on her period..... Your dad's dick taste like blood",
-        "punchline": " The punchline is that the person's dad's dick tastes like blood, which is unexpected and humorous.</s>"
+        "topics": "sister, period, dad, dick, blood</s>"
     },
     {
         "ID": 282,
         "joke": "What do you call going Doctor to Doctor... What do you call going Doctor to Doctor to figure out what your inflammatory bowel disease is called? A Game of Crohn's.",
-        "punchline": " The punchline is that the person is playing a game of \"Crohn's\" to figure out what their inflammatory bowel disease is called.</s>"
+        "topics": "Inflammatory bowel disease, Doctor, Crohn's disease.</s>"
     },
     {
         "ID": 283,
         "joke": "What's the difference between a pizza and a black man? The pizza can feed a family of 4.",
-        "punchline": " The punchline is that the black man is the difference - he can't feed a family of 4!</s>"
+        "topics": "pizza, black man, family, feed.</s>"
     },
     {
         "ID": 284,
         "joke": "If you hear the words \"oh yeah, suck it\" coming from my bedroom, it's probably just me vacuuming.",
-        "punchline": " The punchline is that the words \"oh yeah, suck it\" are actually coming from my bedroom, but it's just the vacuum cleaner.</s>"
+        "topics": "vacuuming, bedroom, words, \"oh yeah, suck it\"</s>"
     },
     {
         "ID": 285,
         "joke": "A photon walks into a hotel The bell boy walks up and asks, \"Do you have any luggage?\". \"No,\" says the photon, \"I'm traveling light.\"",
-        "punchline": " The punchline is that the photon is traveling light, which is a pun on the fact that light does not have any mass and can therefore travel without any luggage.</s>"
+        "topics": "photon, hotel, bellboy, luggage, traveling light.</s>"
     },
     {
         "ID": 286,
         "joke": "People always complain that I'm \"out there.\" [On the phone. To the cops. While I'm sitting in their birdbath.]",
-        "punchline": " The punchline is that the person is being ridiculous and is doing things that no one else would do.</s>"
+        "topics": "People, complaining, being \"out there,\" phone, cops, birdbath.</s>"
     },
     {
         "ID": 287,
         "joke": "*job interview* Why do you want to be a psychiatrist? *pictures clients acting like chickens after I click my fingers* I want to help people",
-        "punchline": " The punchline is that the clients are acting like chickens after I click my fingers, implying that the clients are not taking the psychiatrist seriously.</s>"
+        "topics": "job interview, psychiatrist, clients, chickens, fingers</s>"
     },
     {
         "ID": 288,
         "joke": "\"911, what's your emergency?\" Me: A cute guy at the laundromat walked past me while I was folding my period underwear.",
-        "punchline": " The punchline is that the cute guy at the laundromat walked past the main character while she was folding her period underwear, suggesting that she was out of date with her laundry.</s>"
+        "topics": "laundromat, cute guy, period underwear.</s>"
     },
     {
         "ID": 289,
         "joke": "Dog's Facebook status: Tried to save the master from the vacuum cleaner today... He just yelled at me.",
-        "punchline": " The punchline is that the dog was trying to be helpful but the master yelled at him for no reason.</s>"
+        "topics": "Dog, Facebook, vacuum cleaner, master</s>"
     },
     {
         "ID": 290,
         "joke": "What is the term for a group of Canadians? Is it \"an apology\"? \"Oh look, there goes an apology of Canadians\"",
-        "punchline": " The punchline is that the group of Canadians is referred to as an \"apology\" because they always seem to be apologizing for something.</s>"
+        "topics": "Canadian, apology, group.</s>"
     },
     {
         "ID": 291,
         "joke": "Trump wants to appoint Ben Carson to the Department of Education, but I think he would do better in the FDA He can feed everyone with all of the grain in those pyramids.",
-        "punchline": " Trump wants to appoint Ben Carson to the Department of Education, but I think he would do better in the FDA because he can use his knowledge of anatomy to help people by providing them with healthy and nutritious food.</s>"
+        "topics": "Trump, Ben Carson, Department of Education, FDA, grain, pyramids.</s>"
     },
     {
         "ID": 292,
         "joke": "Putting a woman on a $10 makes sense . . . . . . no one really wants a 1 or a 5. (As heard on Wait, Wait, Don't Tell Me)",
-        "punchline": " The punchline is that no one really wants a 1 or a 5, implying that putting a woman on a $10 makes more sense than putting her on a low-value bill.</s>"
+        "topics": "Women, Money, Humor</s>"
     },
     {
         "ID": 293,
         "joke": "I always check my smoke alarms to make sure they're working. I call it \"cooking\"",
-        "punchline": " The punchline is that the sentence is a play on words, as \"checking\" and \"cooking\" have the same sound.</s>"
+        "topics": "Smoke alarms, cooking</s>"
     },
     {
         "ID": 294,
         "joke": "[wife looking at pictures of my dead body with police] \"why isn't he wearing a shirt\" we believe he removed it when he challenged the coyote",
-        "punchline": " The police officer is shocked to find that the man is not wearing a shirt, as he had expected him to be wearing one when challenging a coyote.</s>"
+        "topics": "wife, pictures, dead body, police, shirt</s>"
     },
     {
         "ID": 295,
         "joke": "I just found out I am a hipster Because I started using #NotMyPresident 8 years ago.",
-        "punchline": " The punchline is that the speaker has realized they have been using the hashtag #NotMyPresident for 8 years, implying that they have been a hipster all along.</s>"
+        "topics": "hipster, #NotMyPresident</s>"
     },
     {
         "ID": 296,
         "joke": "What's the difference between a computer and a woman? A computer only has to have information punched into it once.",
-        "punchline": " The punchline is that a computer only needs to be programmed once, whereas a woman requires constant updating.</s>"
+        "topics": "computers, women, information, punched</s>"
     },
     {
         "ID": 297,
         "joke": "How to meet a girl: 1) Walk into a bar. 2) Shout \"Heroes in a half shell.\" 3) When a girl yells back \"Turtle Power,\" marry her.",
-        "punchline": " The punchline is that the third option is to marry the girl.</s>"
+        "topics": "turtles, meeting girls, shouting, marriage</s>"
     },
     {
         "ID": 298,
         "joke": "What's the sharpest thing in the word? A fart. It goes right through your pants and doesn't leave a hole.",
-        "punchline": " The punchline is that a fart is the sharpest thing in the world because it can go through clothes and not leave a hole.</s>"
+        "topics": "Fart, Pants, Hole.</s>"
     },
     {
         "ID": 299,
         "joke": "*calls into work* \"yo boss i'm real sick\" \"you don't sound sick...\" \"ya, just got a new tribal tat & heelys\" \"wow u do sound hella sick\"",
-        "punchline": " The punchline is that the person sounds healthy despite claiming to be sick.</s>"
+        "topics": "work, sickness, tattoos, shoes</s>"
     }
 ]

@@ -8,10 +8,10 @@ import csv
 import json
 
 
-# model_name_or_path = "wxjiao/alpaca-7b"
-model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
+model_name_or_path = "wxjiao/alpaca-7b"
+# model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
 input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
-output_file = '/data/home/ysu132/HTDM/Data_mining/Mining_data/punchline.json'
+output_file = '/home/ysu132/HTDM/alpaca/Data_mining/Mining_data/punchline.json'
 
 with open(input_file, 'r', encoding='utf-8') as csvfile:
     filtered_joke = json.load(csvfile)
@@ -39,17 +39,8 @@ for i in tqdm(range(300)):
     # s = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence.\n" + \
     #                     f"Input: {jokes[i]}\n" + "Description:"
     joke = filtered_joke[i]["Joke"]
-    messages = [
-            {"role": "system", "content": "The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence."},
-            {"role": "user", "content": f"Input: {joke}\n" + "Description:"}
-        ]
-    text = tokenizer.apply_chat_template(
-            messages,
-            tokenize=False,
-            add_generation_prompt=True
-        )
-    
-    tokenized = tokenizer(text, return_tensors="pt")
+    messages = f"The punchline is the surprise at the end of the joke. Please provide a brief description of the punchline for the input sentence. \n Input: {joke}\n" + "Description:"
+    tokenized = tokenizer(messages, return_tensors="pt")
 
     input_ids = tokenized.input_ids.cuda()
     attn_mask = tokenized.attention_mask.cuda()
@@ -58,10 +49,12 @@ for i in tqdm(range(300)):
 
     generated_ids = model.generate(inputs=input_ids, attention_mask=attn_mask, generation_config=gen_config)
     original_text = tokenizer.decode(input_ids[0], skip_special_tokens=False)
-    gen_text = tokenizer.decode(generated_ids[0], skip_special_tokens=False)
-    new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
+
+    length = len(input_ids[0].tolist())
+    gen_text = tokenizer.decode(generated_ids[0][length:], skip_special_tokens=False)
+    #new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
     # print(new_text, flush=True)
-    temp = {"ID":i,"joke": joke, "punchline": new_text}
+    temp = {"ID":i,"joke": joke, "punchline": gen_text}
     res.append(temp)
 # 将过滤后的数据写入JSON文件
 with open(output_file, 'w', encoding='utf-8') as jsonfile:

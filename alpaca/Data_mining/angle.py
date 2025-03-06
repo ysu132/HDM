@@ -59,7 +59,7 @@ for i in tqdm(range(300)):
     # print("gen_text",gen_text)
     temp = {"ID":i,"joke": joke, "angle": gen_text}
     res.append(temp)
-    break
+    
 # 将过滤后的数据写入JSON文件
 with open(output_file, 'w', encoding='utf-8') as jsonfile:
     json.dump(res, jsonfile, indent=4, ensure_ascii=False)
