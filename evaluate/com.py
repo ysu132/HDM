@@ -2,7 +2,7 @@ from comet import download_model, load_from_checkpoint
 import json
 from tqdm import tqdm
 
-input_humour = '/data/home/ysu132/HTDM/baseline/qwen2.5/base.json'
+input_humour = '/home/ysu132/HTDM/qwen/humour_llmfilter.json'
 with open(input_humour, 'r', encoding='utf-8') as csvhumour:
     filtered_humour = json.load(csvhumour)
 

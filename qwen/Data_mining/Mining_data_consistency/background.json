@@ -32,7 +32,7 @@
     {
         "ID": 6,
         "joke": "Telling my daugthers date that \"she has lice and its very contagious the closer you get to her.\" *Correct way to parent.",
-        "topics": "Parenting, Miscommunication<|im_end|>"
+        "topics": "Parenting, Miscommunication, Dating<|im_end|>"
     },
     {
         "ID": 7,
@@ -42,7 +42,7 @@
     {
         "ID": 8,
         "joke": "You ever notice that the most dangerous thing about marijuana is getting caught with it?",
-        "topics": "Marijuana, Drug Laws<|im_end|>"
+        "topics": "Marijuana, Drug laws<|im_end|>"
     },
     {
         "ID": 9,
@@ -67,12 +67,12 @@
     {
         "ID": 13,
         "joke": "\"That guy is such a douche-bag! Is he single? Maybe I can fix him!\"  women",
-        "topics": "douchbag, relationships<|im_end|>"
+        "topics": "douchbag, relationship status, matchmaking<|im_end|>"
     },
     {
         "ID": 14,
         "joke": "My son just got a tattoo of a heart, a spade, a club, and a diamond, all without my permission. I guess I'll deal with him later.",
-        "topics": "Tattoo, Family Relations<|im_end|>"
+        "topics": "Tattoo, Rebellion<|im_end|>"
     },
     {
         "ID": 15,
@@ -92,7 +92,7 @@
     {
         "ID": 18,
         "joke": "Yttrium-barium-copper oxide walks into a bar The bartender tells him, \"We don't serve superconductors here.\" He leaves without resistance.",
-        "topics": "Superconductors, Humor<|im_end|>"
+        "topics": "Superconductors, Yttrium-Barium-Copper Oxide<|im_end|>"
     },
     {
         "ID": 19,
@@ -102,7 +102,7 @@
     {
         "ID": 20,
         "joke": "Before I destroy a wasp's nest I like to capture a single wasp and tell it my entire diabolical plan.",
-        "topics": "wasps, human behavior<|im_end|>"
+        "topics": "wasps, destruction, plans<|im_end|>"
     },
     {
         "ID": 21,
@@ -162,12 +162,12 @@
     {
         "ID": 32,
         "joke": "yeah girl.. shake that thing where poop comes out of. it really turns me on when your poop factory shakes faster than usual",
-        "topics": "Toilet Humor, Bathroom Jokes<|im_end|>"
+        "topics": "Toilet Humor, Feces<|im_end|>"
     },
     {
         "ID": 33,
         "joke": "\"I can't stand when people say they hate both of the presidential candidates.\" --Stephen Hawking",
-        "topics": "Stephen Hawking's political views, presidential election<|im_end|>"
+        "topics": "Stephen Hawking, Presidential Candidates<|im_end|>"
     },
     {
         "ID": 34,
@@ -182,7 +182,7 @@
     {
         "ID": 36,
         "joke": "Things have really turned around for me since I re-named my penis and testicles \"JD Power and Associates\".",
-        "topics": "Renamed genitalia, Humor<|im_end|>"
+        "topics": "renamed genitalia, humor<|im_end|>"
     },
     {
         "ID": 37,
@@ -207,7 +207,7 @@
     {
         "ID": 41,
         "joke": "I don't judge people based on color, race, religion, sexuality, or gender...I base it on whether or not they're an asshole.",
-        "topics": "Racism, Discrimination<|im_end|>"
+        "topics": "diversity, discrimination<|im_end|>"
     },
     {
         "ID": 42,
@@ -227,12 +227,12 @@
     {
         "ID": 45,
         "joke": "\"You know what, we need a huge spoon to take care of this\" -Guy who invented shovels",
-        "topics": "shovel invention, humor, tool innovation<|im_end|>"
+        "topics": "shovel invention, humor, tool usage<|im_end|>"
     },
     {
         "ID": 46,
         "joke": "How to keep the flies off the bride at an Italian wedding Keep a bucket of shit next to her",
-        "topics": "Italian wedding, flies, humor<|im_end|>"
+        "topics": "Italian wedding, fly control, inappropriate humor<|im_end|>"
     },
     {
         "ID": 47,
@@ -277,7 +277,7 @@
     {
         "ID": 55,
         "joke": "This doctor once told me eating a bagel was like eating 5 slices of bread and I was like ok, cool, I like bread",
-        "topics": "bagels, bread<|im_end|>"
+        "topics": "bagel, bread, nutrition<|im_end|>"
     },
     {
         "ID": 56,
@@ -297,7 +297,7 @@
     {
         "ID": 59,
         "joke": "\"I'm so pissed I could punch a ba-\" \"A what?\" Big Baby from Toy Story 3 hovers over me, sawed-off shotgun in hand. \"A bagel. I HATE carbs.\"",
-        "topics": "Toy Story 3, Toy Story 3 (film), Food<|im_end|>"
+        "topics": "Toy Story 3, Toy Story 3 (film), Foodocalypse<|im_end|>"
     },
     {
         "ID": 60,
@@ -317,7 +317,7 @@
     {
         "ID": 63,
         "joke": "Q: What's the difference between a blonde and a supermarket trolley? A: The supermarket trolley has a mind of its own.",
-        "topics": "Blonde hair stereotype joke<|im_end|>"
+        "topics": "Blonde stereotype joke<|im_end|>"
     },
     {
         "ID": 64,
@@ -362,7 +362,7 @@
     {
         "ID": 72,
         "joke": "I visited Amsterdam this summer, and decided to have sex with a prostitute. It was an overall positive experience. Sadly, it was an HIV positive experience.",
-        "topics": "prostitution, HIV/AIDS<|im_end|>"
+        "topics": "prostitution, hiv/AIDS<|im_end|>"
     },
     {
         "ID": 73,
@@ -372,7 +372,7 @@
     {
         "ID": 74,
         "joke": "When my wife takes a nap, it's \"desperately needed rest.\" When I do, it's \"lazy chauvinist party-time.\"",
-        "topics": "gender-dynamics, nap-rest<|im_end|>"
+        "topics": "gender-dynamics, nap<|im_end|>"
     },
     {
         "ID": 75,
@@ -392,7 +392,7 @@
     {
         "ID": 78,
         "joke": "Who is better? The 3rd wave feminist or the pencil? The pencil is better. It has a point.",
-        "topics": "feminism, humor<|im_end|>"
+        "topics": "Feminism, Humor<|im_end|>"
     },
     {
         "ID": 79,
@@ -422,7 +422,7 @@
     {
         "ID": 84,
         "joke": "My 8 y/o memorized my 12 character password that has upper and lowercase letters, numbers and symbols but can't remember to flush the toilet",
-        "topics": "childhood, memory, technology<|im_end|>"
+        "topics": "child-memory, password-security<|im_end|>"
     },
     {
         "ID": 85,
@@ -447,7 +447,7 @@
     {
         "ID": 89,
         "joke": "When I was interviewed for a job in the chemistry department, they asked me if I had lab experience. I said I was more of a cat person.",
-        "topics": "job interview, laboratory experience<|im_end|>"
+        "topics": "job interview, laboratory experience, personal habits<|im_end|>"
     },
     {
         "ID": 90,
@@ -457,7 +457,7 @@
     {
         "ID": 91,
         "joke": "Everytime you pull the trigger a bullet loses its job...HAHAHAHA! Because it gets FIRED. HAHAHA! *I'm in tears*",
-        "topics": "Humor, Firearms<|im_end|>"
+        "topics": "Humor,枪支相关笑话<|im_end|>"
     },
     {
         "ID": 92,
@@ -497,12 +497,12 @@
     {
         "ID": 99,
         "joke": "[at my funeral] So young, how did he die? He ran into oncoming traffic after walking past a group of adults saying the word \"bae\"",
-        "topics": "Funeral joke,行人撞车,巴蜜蜂<|im_end|>"
+        "topics": "funeral joke, pedestrian accident<|im_end|>"
     },
     {
         "ID": 100,
         "joke": "Stealing my little brother's (fellow Redditor) original joke, hope he sees it and is pissed. What do you get when you cross a pig and a Christmas tree...? A Porky-Pine",
-        "topics": "Christmas joke, pig<|im_end|>"
+        "topics": "joke, christmas tree, pig<|im_end|>"
     },
     {
         "ID": 101,
@@ -522,7 +522,7 @@
     {
         "ID": 104,
         "joke": "Hey, who did you vote for?... I wrote in Michael J. Fox. I think he can really shake things up!",
-        "topics": "Voting, Politics<|im_end|>"
+        "topics": "voting, politics<|im_end|>"
     },
     {
         "ID": 105,
@@ -552,7 +552,7 @@
     {
         "ID": 110,
         "joke": "Breaking Bad is my favorite documentary about what it takes to be an entrepreneur while balancing family life.",
-        "topics": "This sentence does not appear to be based on a news item, and instead seems to be a personal statement or opinion about a fictional TV show, \"Breaking Bad,\" which is not a documentary and is not typically associated with entrepreneurship or family life balance.<|im_end|>"
+        "topics": "This sentence does not appear to be based on a news item, but rather a personal statement or opinion about a fictional TV show, \"Breaking Bad.\" The topics could be: personal preference, television shows, and entrepreneurship.<|im_end|>"
     },
     {
         "ID": 111,
@@ -562,7 +562,7 @@
     {
         "ID": 112,
         "joke": "Coworker: Stop Me: collaborate and listen Coworker: Don't Me: you forget about me Coworker: Hey! Me: teacher, leave them kids alone",
-        "topics": "Collaboration, Misunderstanding, Education<|im_end|>"
+        "topics": "Collaboration, Misunderstanding<|im_end|>"
     },
     {
         "ID": 113,
@@ -572,12 +572,12 @@
     {
         "ID": 114,
         "joke": "Dear President Obama, I've got a joke for you... I texted it to Angela Merkel. Did you... *get it*?",
-        "topics": "Text messaging, Humor, Leadership<|im_end|>"
+        "topics": "Text messaging, Humor, Politics<|im_end|>"
     },
     {
         "ID": 115,
         "joke": "Sorry, but breaking up with you on facebook was the best way of letting all your friends know I'm available.",
-        "topics": "Social media, breakup<|im_end|>"
+        "topics": "Social Networking, Relationship Status Changes<|im_end|>"
     },
     {
         "ID": 116,
@@ -592,7 +592,7 @@
     {
         "ID": 118,
         "joke": "My girlfriend is great in bed... But I don't know how my best friend would know that.",
-        "topics": "Relationship, Humor<|im_end|>"
+        "topics": "Relationship, Bed Skills, Friendship<|im_end|>"
     },
     {
         "ID": 119,
@@ -602,22 +602,22 @@
     {
         "ID": 120,
         "joke": "My favourite word is snigger It allows me to be sracist without speople sthinking I'm a sbad sperson",
-        "topics": "Sarcasm, Racist Comments<|im_end|>"
+        "topics": "Sarcasm, Racist Jokes<|im_end|>"
     },
     {
         "ID": 121,
         "joke": "How do you hide an elephant in a fridge? You remove his slippers and open the door . You put him inside. You close the door and take the slippers away.",
-        "topics": "Elephant, Humor, Refrigerator<|im_end|>"
+        "topics": "Elephant, Humor, Fridge<|im_end|>"
     },
     {
         "ID": 122,
         "joke": "Pete and repeat are in a boat Pete and repeat are brothers. Pete falls overboard, who's left?",
-        "topics": "Pete and repeat, brothers, boating accident<|im_end|>"
+        "topics": "Pete and Repeat, Brothers, Boats<|im_end|>"
     },
     {
         "ID": 123,
         "joke": "What did Arnold Schwarzenegger say to the gym manager when he was joining a new gym? I'll re-rack.",
-        "topics": "Arnold Schwarzenegger, gym jokes, fitness<|im_end|>"
+        "topics": "Arnold Schwarzenegger, Gym Jokes<|im_end|>"
     },
     {
         "ID": 124,
@@ -637,7 +637,7 @@
     {
         "ID": 127,
         "joke": "A piece of shit walks into a bar It's my dad... My dad is a piece of shit.",
-        "topics": "bar, insult, humor<|im_end|>"
+        "topics": "bar, insult, family<|im_end|>"
     },
     {
         "ID": 128,
@@ -677,7 +677,7 @@
     {
         "ID": 135,
         "joke": "Kids are like farts. You don't mind your own, but others peoples are just unbearable",
-        "topics": "This sentence does not appear to be based on a news item, rather it is a statement expressing an opinion. Topics: opinion, analogy, personal annoyance<|im_end|>"
+        "topics": "This sentence does not appear to be based on a news item, rather it is a statement or opinion piece. Topics: Opinions on children, Analogies, Discomfort.<|im_end|>"
     },
     {
         "ID": 136,
@@ -687,7 +687,7 @@
     {
         "ID": 137,
         "joke": "I milked the cow \"We don't have a cow\" the neighbors' cow then \"Their cat?\" Pretty sure it was a cow he was saying moo \"Meow\" Ah shoot",
-        "topics": "Mooing Cows, Misunderstandings<|im_end|>"
+        "topics": "Moo/Cat joke<|im_end|>"
     },
     {
         "ID": 138,
@@ -736,7 +736,7 @@
     },
     {
         "ID": 147,
-        "joke": "You're so fat and unfunny... that the only topicss you have are stained on your shirt.",
+        "joke": "You're so fat and unfunny... that the only punchlines you have are stained on your shirt.",
         "topics": "肥胖, 笑话<|im_end|>"
     },
     {
@@ -747,12 +747,12 @@
     {
         "ID": 149,
         "joke": "Why are women and children evacuated first in a disaster? So we can think about a solution in silence",
-        "topics": "Evacuation Procedures, Gender Roles<|im_end|>"
+        "topics": "evacuation, disaster response<|im_end|>"
     },
     {
         "ID": 150,
         "joke": "Waiting for the day when a girl finally says that I'm \"the one,\" but isn't talking to a police officer.",
-        "topics": "police officer, relationship<|im_end|>"
+        "topics": "police officer, dating<|im_end|>"
     },
     {
         "ID": 151,
@@ -777,7 +777,7 @@
     {
         "ID": 155,
         "joke": "I once bought an e. e. cummings poem collection.. It was the worst game of Mad Libs ever.",
-        "topics": "e. e. cummings, poetry<|im_end|>"
+        "topics": "poetry, literature<|im_end|>"
     },
     {
         "ID": 156,
@@ -787,7 +787,7 @@
     {
         "ID": 157,
         "joke": "If you ever need help learning C++, I can give you some pointers. And you can keep me as a reference.",
-        "topics": "Programming languages, Humor<|im_end|>"
+        "topics": "Programming language teaching<|im_end|>"
     },
     {
         "ID": 158,
@@ -807,7 +807,7 @@
     {
         "ID": 161,
         "joke": "How are doctors so well tempered even under heavy stress? They have a lot of patients",
-        "topics": "Doctors, Stress, Patient Care<|im_end|>"
+        "topics": "Doctors, Stress<|im_end|>"
     },
     {
         "ID": 162,
@@ -817,7 +817,7 @@
     {
         "ID": 163,
         "joke": "Why are Native Americans the most successfull strippers? Because when they dance, they make it rain.",
-        "topics": "Native Americans, stripping, stereotypes<|im_end|>"
+        "topics": "Native Americans, strippers, stereotypes<|im_end|>"
     },
     {
         "ID": 164,
@@ -827,7 +827,7 @@
     {
         "ID": 165,
         "joke": "Why Did the Ebola Patient Cross the Road? Trick question. There are no roads in Africa.",
-        "topics": "Ebola, Roads, Africa<|im_end|>"
+        "topics": "Ebola, Road (Metaphorical)<|im_end|>"
     },
     {
         "ID": 166,
@@ -852,7 +852,7 @@
     {
         "ID": 170,
         "joke": "An atheist, a vegan, and a crossfit fanatic walk into a bar... Who talks more?",
-        "topics": "atheism, veganism, crossfit, social stereotypes<|im_end|>"
+        "topics": "atheism, veganism, crossfit, social humor<|im_end|>"
     },
     {
         "ID": 171,
@@ -887,12 +887,12 @@
     {
         "ID": 177,
         "joke": "Believe it or not, my wife and I were actually matched on Tinder. We'd been married for 12 years.",
-        "topics": "Tinder, Marriage<|im_end|>"
+        "topics": "marriage, dating-app<|im_end|>"
     },
     {
         "ID": 178,
         "joke": "I scream, you scream, we all scream for ice cream. This kid working at Baskin Robbins is pretty scared. Now he's crying in the corner.",
-        "topics": "ice cream, employment, crying<|im_end|>"
+        "topics": "ice cream, employment, workplace<|im_end|>"
     },
     {
         "ID": 179,
@@ -912,12 +912,12 @@
     {
         "ID": 182,
         "joke": "If you're not one of the first five boys in the yard, you almost never get a milkshake.",
-        "topics": "milkshake, fast food<|im_end|>"
+        "topics": "Milkshakes, Boys<|im_end|>"
     },
     {
         "ID": 183,
         "joke": "Every woman I've ever been with only saw me the way they wanted to see me... ...in their rearview mirror.",
-        "topics": "Rearview mirror, Gender stereotypes<|im_end|>"
+        "topics": "Rearview Mirror, Gender Stereotypes<|im_end|>"
     },
     {
         "ID": 184,
@@ -957,7 +957,7 @@
     {
         "ID": 191,
         "joke": "My internet connection on my farm was be terrible until I moved the router in the horse barn. Now I have stable WiFi.",
-        "topics": "WiFi, Rural Internet, Router Placement<|im_end|>"
+        "topics": "WiFi, Rural Internet, Home Networking<|im_end|>"
     },
     {
         "ID": 192,
@@ -972,7 +972,7 @@
     {
         "ID": 194,
         "joke": "Orange Julius is the third best thing to happen to oranges behind mimosas and the \"orange you glad I didn't say banana\" knock knock joke",
-        "topics": "Orange Julius, Orange joke<|im_end|>"
+        "topics": "Orange Julius, jokes, oranges<|im_end|>"
     },
     {
         "ID": 195,
@@ -982,12 +982,12 @@
     {
         "ID": 196,
         "joke": "How do you stop a baby from crawling in circles? Nail its other hand to the floor.",
-        "topics": "Baby development, Circumstances leading to repetitive motion<|im_end|>"
+        "topics": "Baby development, Circles<|im_end|>"
     },
     {
         "ID": 197,
         "joke": "Two fish are in a tank... One is driving, and the other is manning the guns.",
-        "topics": "Fish, Vehicles, Weaponry<|im_end|>"
+        "topics": "Fish, Vehicles, Military<|im_end|>"
     },
     {
         "ID": 198,
@@ -997,7 +997,7 @@
     {
         "ID": 199,
         "joke": "Whilst at college I did experiment with marijuana. I did it in snow, I did it in sleet, but I did not in hail. ^-- ^Ed ^Byrne",
-        "topics": "drug use, personal anecdote<|im_end|>"
+        "topics": "drug use, personal statement<|im_end|>"
     },
     {
         "ID": 200,
@@ -1017,7 +1017,7 @@
     {
         "ID": 203,
         "joke": "A Bug's Mind What's the last thing that goes through a bug's mind when he crashes into a windshield? His asshole.",
-        "topics": "Insect jokes, Windshield impacts<|im_end|>"
+        "topics": "Insect jokes, windshields<|im_end|>"
     },
     {
         "ID": 204,
@@ -1027,476 +1027,16 @@
     {
         "ID": 205,
         "joke": "Why is my Chinese girlfriend so bitchy? Well it's true, you are what you eat.",
-        "topics": "Chinese culture, gender stereotypes, food and culture<|im_end|>"
+        "topics": "Chinese culture, relationship advice, stereotypes<|im_end|>"
     },
     {
         "ID": 206,
-        "joke": "They just found a Black guy hanging from a tree with 79 stab wounds in Alabama.... The police say it's the worst case of suicide they've ever seen",
-        "topics": "suicide, racism<|im_end|>"
-    },
-    {
-        "ID": 207,
-        "joke": "Q: How many Kings of Spain does it take to screw in a light bulb? A: Juan",
-        "topics": "Lightbulb screwing joke, Kings of Spain<|im_end|>"
-    },
-    {
-        "ID": 208,
         "joke": "The hotel we stayed in for our holiday offered bed and board but it was impossible to say which was the bed and which was the board.",
         "topics": "Hotel, Accommodation<|im_end|>"
     },
     {
-        "ID": 209,
+        "ID": 207,
         "joke": "My new cooking show, \"Will Sasso Cooks With His Exposed Dick Really Close to the Food\" premieres tonight (8/7 Central) in my mind. Be there!",
         "topics": "Cooking show, humor<|im_end|>"
-    },
-    {
-        "ID": 210,
-        "joke": "*nose hairs growing out of control *buys tiny scissors *jam them in the eyes of whoever I catch staring at my nose hairs",
-        "topics": "nose hairs, scissors, eye irritation<|im_end|>"
-    },
-    {
-        "ID": 211,
-        "joke": "I'm trying to write a poem for my girlfriend, does anyone know what rhymes with threesome?",
-        "topics": "Poetry, Relationship, Sexuality<|im_end|>"
-    },
-    {
-        "ID": 212,
-        "joke": "Pro tip: If a woman asks you how she looks, the correct answer is not \"like Dan Aykroyd.\"",
-        "topics": "woman beauty comment, inappropriate compliments<|im_end|>"
-    },
-    {
-        "ID": 213,
-        "joke": "I complained to my wife that I was short staffed at work She responded \"yeah, and you have the same problem at home\"",
-        "topics": "complaint, staff shortages<|im_end|>"
-    },
-    {
-        "ID": 214,
-        "joke": "I overheard two female coworkers say there was a creepy dude listening to their conversation.",
-        "topics": "Workplace, Gender, Safety<|im_end|>"
-    },
-    {
-        "ID": 215,
-        "joke": "What's black and white and red all over and can't get through a revolving door? A nun with a spear through her head.",
-        "topics": "Nun, Revolving Door<|im_end|>"
-    },
-    {
-        "ID": 216,
-        "joke": "What did the Marine Biologist say when he saw two eels making love? \"It's a Moray.\"",
-        "topics": "Marine biology, Eels, Sexual behavior<|im_end|>"
-    },
-    {
-        "ID": 217,
-        "joke": "I submitted 10 of my best puns to a Joke competition expecting at least 1 to win, but... No pun in ten did..",
-        "topics": "puns, joke competition<|im_end|>"
-    },
-    {
-        "ID": 218,
-        "joke": "Shoutout to people who don't know what the opposite of in is. I'll give you some time for this one.",
-        "topics": "Opposite words, humor<|im_end|>"
-    },
-    {
-        "ID": 219,
-        "joke": "ME: all the King's horses and men couldn't put u back together HUMPTY DUMPTY: what now M: [opening package of bacon] I'll think of something",
-        "topics": "Eggs, Bacon, Humpty Dumpty<|im_end|>"
-    },
-    {
-        "ID": 220,
-        "joke": "How many Alzheimer's patients does it take to screw on a light bulb? TO GET TO THE OTHER SIDE!",
-        "topics": "Alzheimer's disease, Light bulb, Humor<|im_end|>"
-    },
-    {
-        "ID": 221,
-        "joke": "If chopsticks were really better than a fork... ...wouldn't we be digging ditches with pool cues?",
-        "topics": "chopsticks-versus-fork<|im_end|>"
-    },
-    {
-        "ID": 222,
-        "joke": "First woman on the moon W: Houston, we have a problem H: What is it? W: Nevermind its nothing H: What is the problem? W: Nothing... H: Tell us what the problem is! W: NO!",
-        "topics": "First woman on the moon, Apollo 13<|im_end|>"
-    },
-    {
-        "ID": 223,
-        "joke": "Thank god I have the newest, fastest iPhone so I can mindlessly check the same three apps 500 times a day.",
-        "topics": "smartphone usage, technology addiction<|im_end|>"
-    },
-    {
-        "ID": 224,
-        "joke": "Jared Fogle was guilty and got 16 years He was just grateful for anything under 18. Credit to SNL that joke might have converted me to watch.",
-        "topics": "Jared Fogle sentencing, SNL joke<|im_end|>"
-    },
-    {
-        "ID": 225,
-        "joke": "This hating of people who breast feed in public places has to stop! I'll raise my dog however I like.",
-        "topics": "breastfeeding, public opinion<|im_end|>"
-    },
-    {
-        "ID": 226,
-        "joke": "A woman's JJ sized breasts saved her life in a car accident. Those same breasts were the cause of her husbands death in a motorboating accident.",
-        "topics": "breasts, car accident, death<|im_end|>"
-    },
-    {
-        "ID": 227,
-        "joke": "Recent studies show that 1 out of 3 Americans weigh as much as the other 2 put together.",
-        "topics": "Obesity in America<|im_end|>"
-    },
-    {
-        "ID": 228,
-        "joke": "[date gets back from the bathroom] those batman toys in the tub are so cute! How old are your kids? \"kids?\"",
-        "topics": "batman toys, bathroom, kids<|im_end|>"
-    },
-    {
-        "ID": 229,
-        "joke": "I just Googled 'Nicolas Cage jokes' and it showed me a list of every film he's been in. Well played, Google.",
-        "topics": "Nicolas Cage, Google search<|im_end|>"
-    },
-    {
-        "ID": 230,
-        "joke": "I've been listening to the official workout station on Pandora for 3 months and I'm still fat, I'm calling bullshit.",
-        "topics": "workout music, weight loss<|im_end|>"
-    },
-    {
-        "ID": 231,
-        "joke": "I was going to break up a fight between two Rabbis... But they were just arguing semitics.",
-        "topics": "Joke, Religious Disputes<|im_end|>"
-    },
-    {
-        "ID": 232,
-        "joke": "Pavlov's doorbell One tuesday afternoon Ivan Pavlov is reading the paper, when his neighbour rings the doorbell. Ivan jumps up out of his chair, suddenly remembering: \"Shit, I need to feed the dogs!\"",
-        "topics": "Ivan Pavlov, conditioned response<|im_end|>"
-    },
-    {
-        "ID": 233,
-        "joke": "What did one tampon say to the other tampon? Nothing they were both stuck up cunts.",
-        "topics": "Period products, humor, menstrual hygiene<|im_end|>"
-    },
-    {
-        "ID": 234,
-        "joke": "HER: You look so nervous. ME: *nervously* HA. I'm never nervous. HER: You're sweating. ME: *just freaking out* That's bravery moisture.",
-        "topics": "Bravery bragging, nervousness<|im_end|>"
-    },
-    {
-        "ID": 235,
-        "joke": "When I was 8 years old, my dad got me with the worst dad joke ever. He said he was going to the store and would be back soon...",
-        "topics": "dad joke, childhood memories<|im_end|>"
-    },
-    {
-        "ID": 236,
-        "joke": "Do you hate yourself? Do you wish someone would trip you down stairs? Do you enjoy lacerations & and surprise vomit piles? *hands you a cat*",
-        "topics": "cat, mental-health<|im_end|>"
-    },
-    {
-        "ID": 237,
-        "joke": "I found where my mom hid the scissors, so everyone in my house woke up with a new haircut this morning.",
-        "topics": "Haircut, Family Activities<|im_end|>"
-    },
-    {
-        "ID": 238,
-        "joke": "What is the best thing about twenty six year olds? There are twenty of them",
-        "topics": "Joke, Age Groups<|im_end|>"
-    },
-    {
-        "ID": 239,
-        "joke": "Why was there semen on the clean laundry? When Greg woke up, his mom had left a note reading, \"Please put a load in the washer\"",
-        "topics": "Semen, Laundry<|im_end|>"
-    },
-    {
-        "ID": 240,
-        "joke": "I once was bored so I decided to eat a clock to *pass the time*. It was very *time consuming*. Yuk yuk yuk yuk yuk",
-        "topics": "Eating a clock, time pun<|im_end|>"
-    },
-    {
-        "ID": 241,
-        "joke": "Have you ever seen those \"Give a penny, take a penny\" things at convenience stores??? that makes no cents",
-        "topics": "Give a penny, take a penny, convenience store jokes<|im_end|>"
-    },
-    {
-        "ID": 242,
-        "joke": "Me: .... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: ... Dog: have the shrooms kicked-in yet? Me: ..",
-        "topics": "Drug-related incidents, Pets<|im_end|>"
-    },
-    {
-        "ID": 243,
-        "joke": "I bet if I were a MAN Apple wouldn't tell me my password ideas are weak.",
-        "topics": "Apple password policy, Gender bias<|im_end|>"
-    },
-    {
-        "ID": 244,
-        "joke": "if people really didn't want to hear smartass responses they wouldn't keep asking questions like \"do you know why i pulled you over?\"",
-        "topics": "police, smartass responses, traffic stops<|im_end|>"
-    },
-    {
-        "ID": 245,
-        "joke": "I have this fun drinking game where you take a drink every time you'd like one because you're an adult and you can make decisions yourself.",
-        "topics": "drinking game, decision making<|im_end|>"
-    },
-    {
-        "ID": 246,
-        "joke": "I'm sorry, Black Lives Matter is actually a peaceful and forward thinking movement that our society needs... Now if you could all stop sending me death threats on twitter that would be great.",
-        "topics": "Black Lives Matter, Death threats<|im_end|>"
-    },
-    {
-        "ID": 247,
-        "joke": "My girlfriend left me after I broke her wheelchair..... Oh,, I think she'll come crawling back soon..",
-        "topics": "Disabled people, Relationship breakup<|im_end|>"
-    },
-    {
-        "ID": 248,
-        "joke": "Someone should invent a version of Twitter for people who spell things like rappers. They could call it \"twita\". Dat would b nize",
-        "topics": "Twitter, spelling, rappers<|im_end|>"
-    },
-    {
-        "ID": 249,
-        "joke": "NSFW Men are like a deck of cards... You need a heart to love him, a diamond to marry him, a club to smash his fucking face in and a spade to bury the bastard!",
-        "topics": "Deceased spouse, Relationship advice, Gender stereotypes<|im_end|>"
-    },
-    {
-        "ID": 250,
-        "joke": "THE HORROR! *splat THE TRAGEDY! *splat IT'S AWFUL! *splat SO MUCH BLOOD! *splat WHY IS THIS HAPPENING?! *splat -It's raining men.",
-        "topics": "Rain-related humor<|im_end|>"
-    },
-    {
-        "ID": 251,
-        "joke": "Guy comes home with a flower bouquet... \"Guess I'll have to spread my legs now\", says the wife. \"Why? Don't you have a vase?\" the husband replies.",
-        "topics": "Flower bouquet, sexual pun<|im_end|>"
-    },
-    {
-        "ID": 252,
-        "joke": "Two rabbits were being chased by a pack of wild dogs... One says to the other \"should we stop and outnumber them?\" ... &amp;nbsp; \"keep running you fool we're brothers!!\"",
-        "topics": "rabbits, dogs, brotherhood<|im_end|>"
-    },
-    {
-        "ID": 253,
-        "joke": "No one is more unnecessarily confident than a white person that just ordered Mexican food in a Spanish accent.",
-        "topics": "Racial stereotypes, Food ordering, Cultural appropriation<|im_end|>"
-    },
-    {
-        "ID": 254,
-        "joke": "What do you call it when two designers argue about what file type to export a graphic to? Getting into a bit of a .tiff!",
-        "topics": "Design argument, File formats<|im_end|>"
-    },
-    {
-        "ID": 255,
-        "joke": "A doctor reaches into his pocket and finds his rectal thermometer He says \"Shit, some asshole took my pen!\"",
-        "topics": "lost thermometer, misadventure<|im_end|>"
-    },
-    {
-        "ID": 256,
-        "joke": "how many people does it take to save the world? zero (compliments to my SO who thinks she made this up)",
-        "topics": "Humor, Environmental Issues<|im_end|>"
-    },
-    {
-        "ID": 257,
-        "joke": "Finally got around to shaving my crotch after a few years. Its nice to see my knees again.",
-        "topics": "Shaving, Body Hair<|im_end|>"
-    },
-    {
-        "ID": 258,
-        "joke": "I'm ready for the cop-buddy film where they actually get along in the beginning but hate each other by the end.",
-        "topics": "cop films, buddy films<|im_end|>"
-    },
-    {
-        "ID": 259,
-        "joke": "How many people does it take to change a light bulb in Brazil? A Brazillion!!! http://imgur.com/c4CJjUd",
-        "topics": "Light bulb joke, Brazil<|im_end|>"
-    },
-    {
-        "ID": 260,
-        "joke": "If two people had a race and one had sand in his shoe but the other did not, who would win? The one with sand in his shoe -- if it was quicksand.",
-        "topics": "quicksand, race<|im_end|>"
-    },
-    {
-        "ID": 261,
-        "joke": "I know dream catchers don't work because I've never seen one in a car worth more than two thousand dollars.",
-        "topics": "Dream catchers, Cars<|im_end|>"
-    },
-    {
-        "ID": 262,
-        "joke": "At my last checkup the doctor said he needed a urine sample, a semen sample and a stool sample ... ... I said \" Doc, I can speed this along - I'll just leave you my underwear !\"",
-        "topics": "Doctor's visit, Humor<|im_end|>"
-    },
-    {
-        "ID": 263,
-        "joke": "[pulls out acoustic guitar at a funeral] alright everyone stop being all [finger quotes] sad this next 1 is dedicated to a very sexy widow.",
-        "topics": "funeral, inappropriate music<|im_end|>"
-    },
-    {
-        "ID": 264,
-        "joke": "If there are three gay guys in a bath and a lump of cum floats to the surface, what do they say? Who farted?",
-        "topics": "Gay men, Humor, Cum<|im_end|>"
-    },
-    {
-        "ID": 265,
-        "joke": "Why the gills in the sea don't drink tea even though there is plenty of water That will make them all guill tea!",
-        "topics": "Sea creatures, pun<|im_end|>"
-    },
-    {
-        "ID": 266,
-        "joke": "Taking calculus has made me want to become Prime Minister of a European country Then I can just throw money at problems instead of trying to integrate them.",
-        "topics": "calculus, politics<|im_end|>"
-    },
-    {
-        "ID": 267,
-        "joke": "My friend used my todo list to roll a blunt He's high on my list of priorities",
-        "topics": "todo list, joke<|im_end|>"
-    },
-    {
-        "ID": 268,
-        "joke": "From now on when skinny girls say they're fat I'm just gonna be like, \"Yup\" & walk away.",
-        "topics": "body-image, commentary-on-body-image<|im_end|>"
-    },
-    {
-        "ID": 269,
-        "joke": "What did the homeless person say to the gay job interviewer when asked for his address? No home-o.",
-        "topics": "Homelessness, Employment Discrimination<|im_end|>"
-    },
-    {
-        "ID": 270,
-        "joke": "How many people with dementia does it take to change a lightbulb? To get to the other side.",
-        "topics": "Dementia, Light Bulb Puzzle<|im_end|>"
-    },
-    {
-        "ID": 271,
-        "joke": "butts are truly the final frontier. to think we know more about SPACE than we do about the human butt. two fleshy mounds of mystery & wonder",
-        "topics": "Butts, Space Exploration<|im_end|>"
-    },
-    {
-        "ID": 272,
-        "joke": "I keep getting the urge to purchase a big white bear from the artic... ...Doc says I might have \"Buy Polar\" disorder! EDIT: arctic*",
-        "topics": "mental disorder, purchasing behavior<|im_end|>"
-    },
-    {
-        "ID": 273,
-        "joke": "How do you get a gay man to fuck a woman? Shit in her cunt.",
-        "topics": "gay sex, homophobic joke<|im_end|>"
-    },
-    {
-        "ID": 274,
-        "joke": "I want to start a coffee shop that only plays ambient/electronic music... and call it Brian Beano.",
-        "topics": "Coffee shop, Music, Business idea<|im_end|>"
-    },
-    {
-        "ID": 275,
-        "joke": "I like my girlfriend's new glow-in-the-dark braces... ...her smile really lights up the room now.",
-        "topics": "Glow-in-the-Dark Braces, Dental Appliances<|im_end|>"
-    },
-    {
-        "ID": 276,
-        "joke": "Mom writes to her son in Poland's army: \"Dear Son, I am writing this letter ever so slowly..... ....because I know you cannot read fast\"",
-        "topics": "mother writing to soldier son<|im_end|>"
-    },
-    {
-        "ID": 277,
-        "joke": "Did you hear about the calendar thief? He got 12 months; they say his days are numbered!",
-        "topics": "calendar theft, sentencing<|im_end|>"
-    },
-    {
-        "ID": 278,
-        "joke": "I hate how the losers of every election maintain such a high view of themselves... They're conceded",
-        "topics": "election, politics<|im_end|>"
-    },
-    {
-        "ID": 279,
-        "joke": "I didn't see mommy kiss Santa, but my sister saw her kiss the mailman, which explains why I'm the only one with brown eyes in the family",
-        "topics": "Stereotypes, Family Eye Color Variation<|im_end|>"
-    },
-    {
-        "ID": 280,
-        "joke": "Why did the vampire attack the clown? He wanted the circus to be in his blood.",
-        "topics": "vampire, clown, joke<|im_end|>"
-    },
-    {
-        "ID": 281,
-        "joke": "How do I know when your sister's on her period..... Your dad's dick taste like blood",
-        "topics": "Menstruation, Sarcasm<|im_end|>"
-    },
-    {
-        "ID": 282,
-        "joke": "What do you call going Doctor to Doctor... What do you call going Doctor to Doctor to figure out what your inflammatory bowel disease is called? A Game of Crohn's.",
-        "topics": "Inflammatory Bowel Disease, Medical Humor<|im_end|>"
-    },
-    {
-        "ID": 283,
-        "joke": "What's the difference between a pizza and a black man? The pizza can feed a family of 4.",
-        "topics": "Racially charged humor, Pizza<|im_end|>"
-    },
-    {
-        "ID": 284,
-        "joke": "If you hear the words \"oh yeah, suck it\" coming from my bedroom, it's probably just me vacuuming.",
-        "topics": "Cleaning, Household Tasks<|im_end|>"
-    },
-    {
-        "ID": 285,
-        "joke": "A photon walks into a hotel The bell boy walks up and asks, \"Do you have any luggage?\". \"No,\" says the photon, \"I'm traveling light.\"",
-        "topics": "Photon, Hotel<|im_end|>"
-    },
-    {
-        "ID": 286,
-        "joke": "People always complain that I'm \"out there.\" [On the phone. To the cops. While I'm sitting in their birdbath.]",
-        "topics": "complaints, strange behavior<|im_end|>"
-    },
-    {
-        "ID": 287,
-        "joke": "*job interview* Why do you want to be a psychiatrist? *pictures clients acting like chickens after I click my fingers* I want to help people",
-        "topics": "job interview, psychiatry<|im_end|>"
-    },
-    {
-        "ID": 288,
-        "joke": "\"911, what's your emergency?\" Me: A cute guy at the laundromat walked past me while I was folding my period underwear.",
-        "topics": "laundromat, period underwear, 911<|im_end|>"
-    },
-    {
-        "ID": 289,
-        "joke": "Dog's Facebook status: Tried to save the master from the vacuum cleaner today... He just yelled at me.",
-        "topics": "dog, social media, accident<|im_end|>"
-    },
-    {
-        "ID": 290,
-        "joke": "What is the term for a group of Canadians? Is it \"an apology\"? \"Oh look, there goes an apology of Canadians\"",
-        "topics": "Apology, Canadian stereotypes<|im_end|>"
-    },
-    {
-        "ID": 291,
-        "joke": "Trump wants to appoint Ben Carson to the Department of Education, but I think he would do better in the FDA He can feed everyone with all of the grain in those pyramids.",
-        "topics": "Ben Carson, Donald Trump, Education, Food and Drug Administration<|im_end|>"
-    },
-    {
-        "ID": 292,
-        "joke": "Putting a woman on a $10 makes sense . . . . . . no one really wants a 1 or a 5. (As heard on Wait, Wait, Don't Tell Me)",
-        "topics": "money, gender equality<|im_end|>"
-    },
-    {
-        "ID": 293,
-        "joke": "I always check my smoke alarms to make sure they're working. I call it \"cooking\"",
-        "topics": "Smoke alarms, Humor<|im_end|>"
-    },
-    {
-        "ID": 294,
-        "joke": "[wife looking at pictures of my dead body with police] \"why isn't he wearing a shirt\" we believe he removed it when he challenged the coyote",
-        "topics": "death, wife, coyote<|im_end|>"
-    },
-    {
-        "ID": 295,
-        "joke": "I just found out I am a hipster Because I started using #NotMyPresident 8 years ago.",
-        "topics": "social media, politics<|im_end|>"
-    },
-    {
-        "ID": 296,
-        "joke": "What's the difference between a computer and a woman? A computer only has to have information punched into it once.",
-        "topics": "Computer, Gender Stereotypes<|im_end|>"
-    },
-    {
-        "ID": 297,
-        "joke": "How to meet a girl: 1) Walk into a bar. 2) Shout \"Heroes in a half shell.\" 3) When a girl yells back \"Turtle Power,\" marry her.",
-        "topics": "meeting advice, pickup lines, relationships<|im_end|>"
-    },
-    {
-        "ID": 298,
-        "joke": "What's the sharpest thing in the word? A fart. It goes right through your pants and doesn't leave a hole.",
-        "topics": "Fart joke, pants<|im_end|>"
-    },
-    {
-        "ID": 299,
-        "joke": "*calls into work* \"yo boss i'm real sick\" \"you don't sound sick...\" \"ya, just got a new tribal tat & heelys\" \"wow u do sound hella sick\"",
-        "topics": "Tattoos, Heelys, Sarcasm<|im_end|>"
     }
 ]
