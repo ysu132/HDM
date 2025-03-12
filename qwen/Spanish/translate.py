@@ -5,15 +5,15 @@ import argparse
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import json
-from Data_mining.consistency import cos_sim_text
-# os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+from consistency import cos_sim_text
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 num_samples = 5
 
 model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
 input_topic_file = '/data/home/ysu132/HTDM/qwen/Data_mining/Mining_data_consistency/background.json'
 input_angle_file = '/data/home/ysu132/HTDM/qwen/Data_mining/Mining_data_consistency/angle.json'
 input_punchline_file = '/data/home/ysu132/HTDM/qwen/Data_mining/Mining_data_consistency/punchline.json'
-output_file = '/data/home/ysu132/HTDM/qwen/humour_consistency.json'
+output_file = '/data/home/ysu132/HTDM/qwen/Spanish/humour_consistency.json'
 with open(input_topic_file, 'r', encoding='utf-8') as csvtopic:
     filtered_topic = json.load(csvtopic)
 with open(input_angle_file, 'r', encoding='utf-8') as csvangle:
@@ -84,7 +84,7 @@ for i in tqdm(range(len(humour_array))):
     final_text = ""
     for _ in range(num_samples):
         messages = [
-                    {"role": "system", "content": "Given the following knowledge, translate the following joke from English into Chinese."},
+                    {"role": "system", "content": "Given the following knowledge, translate the following joke from English into Spanish."},
                     {"role": "user", "content": f"Topic: {topic}\n"+ f"Angle: {angle}\n"+ f"Punchline: {punchline}\n"+ f"Joke: {joke}\n" + "Translation:"}
                 ]
         text = tokenizer.apply_chat_template(
@@ -109,8 +109,8 @@ for i in tqdm(range(len(humour_array))):
         paths.append(new_text)
         # print(new_text, flush=True)
 
-    final_text = cos_sim_text(paths)
-    # final_text = filter(paths,joke)
+    # final_text = cos_sim_text(paths)
+    final_text = filter(paths,joke)
     temp = {"ID":i,"joke": joke,"translation": new_text}
     res.append(temp)
 

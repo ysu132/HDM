@@ -54,7 +54,7 @@ for i in tqdm(range(len(filtered_joke))):
     #                     f"Input: {jokes[i]}\n" + "Description:"
     joke = filtered_joke[i]["src_text"]
     messages = [
-            {"role": "system", "content": "Please translate the following joke from English into Chinese."},
+            {"role": "system", "content": "Please translate the following joke from English into Spanish."},
             {"role": "user", "content": f"Input: {joke}\n" + "Description:"}
         ]
     text = tokenizer.apply_chat_template(

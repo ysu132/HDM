@@ -12,7 +12,7 @@ from consistency import cos_sim_text
 model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
 # input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
 input_file = '/data/home/ysu132/Github/DUAL/Dual-Reflect/output/baseline_dual_reflect_qwen_4lp.jsonl'
-output_file = '/data/home/ysu132/HTDM/qwen/Data_mining/Mining_data_filter/background.json'
+output_file = '/data/home/ysu132/HTDM/qwen/Data_mining/Mining_data_consistency/background.json'
 
 # with open(input_file, 'r', encoding='utf-8') as csvfile:
 #     filtered_joke = json.load(csvfile)
@@ -108,8 +108,8 @@ for i in tqdm(range(len(filtered_joke))):
         new_text = gen_text.replace(original_text, "").replace("\n", "").strip()
         paths.append(new_text)
         # print(new_text, flush=True)
-    # final_text = cos_sim_text(paths)
-    final_text = filter(paths,joke)
+    final_text = cos_sim_text(paths)
+    # final_text = filter(paths,joke)
     temp = {"ID":i,"joke": joke, "topics": final_text}
     res.append(temp)
 

@@ -2,27 +2,27 @@
     {
         "ID": 0,
         "joke": "[me narrating a documentary about narrators] \"I can't hear what they're saying cuz I'm talking\"",
-        "translation": "[我正在讲述一个关于讲述者的纪录片]“我听不清他们在说什么，因为我一直在说话。”"
+        "translation": "[我正在讲述关于讲述者的纪录片] “我听不清他们在说什么，因为我在说话。”"
     },
     {
         "ID": 1,
         "joke": "Telling my daughter garlic is good for you. Good immune system and keeps pests away.Ticks, mosquitos, vampires... men.",
-        "translation": "告诉我的女儿大蒜对你有好处。增强免疫力还能驱赶害虫。蜱虫、蚊子、吸血鬼……男人。"
+        "translation": "告诉我的女儿大蒜对你有好处。增强免疫力，还能赶走讨厌的东西。比如蜱虫、蚊子、吸血鬼……男人。"
     },
     {
         "ID": 2,
         "joke": "I've been going through a really rough period at work this week It's my own fault for swapping my tampax for sand paper.",
-        "translation": "这周我在工作上遇到了一些 really 粗糙 的问题，这都怪我自己，把卫生巾换成了砂纸。"
+        "translation": "这周我在工作上遇到了很大的麻烦。都怪我自己，把卫生巾换成了砂纸。"
     },
     {
         "ID": 3,
         "joke": "If I could have dinner with anyone, dead or alive... ...I would choose alive. -B.J. Novak-",
-        "translation": "如果我能和任何人共进晚餐，无论是死者还是生者……我宁愿选择和生人共餐。——B.J.诺瓦克"
+        "translation": "如果我能和任何人共进晚餐，无论是死是活……我都会选择和活人共餐。——B.J.诺瓦克"
     },
     {
         "ID": 4,
         "joke": "Did you hear about the guy who blew his entire lottery winnings on a limousine? He had nothing left to chauffeur it.",
-        "translation": "你听说没有，那个中了彩票大奖的人把所有的钱都用来租了一辆豪华轿车？结果他连车钱都没钱付了，更别提请司机了。"
+        "translation": "你听说没，那个中了彩票后把所有钱都用来买了一辆豪华轿车的人？他连请司机的钱都没剩下。"
     },
     {
         "ID": 5,
@@ -32,12 +32,12 @@
     {
         "ID": 6,
         "joke": "Telling my daugthers date that \"she has lice and its very contagious the closer you get to her.\" *Correct way to parent.",
-        "translation": "告诉女儿的男朋友说：“她有头虱，你离她越近就越容易传染。”*这才是正确的育儿方式。"
+        "translation": "告诉女儿的约会对象说：“她有头虱，离她太近就会传染。”*这才是正确的育儿方式。"
     },
     {
         "ID": 7,
         "joke": "What's the difference between an illegal Mexican and an autonomous robot...? Nothing... they were both made to steal American jobs.",
-        "translation": "那非法墨西哥人和自主机器人有什么区别吗……没有区别……他们都是用来偷美国人的工作的。"
+        "translation": "非法墨西哥人和自主机器人有什么区别吗……没有区别……他们都是被制造出来抢美国工作机会的。"
     },
     {
         "ID": 8,
@@ -47,82 +47,82 @@
     {
         "ID": 9,
         "joke": "My wife is in a bad mood. I think her boyfriend forgot their anniversary. Way to go, dude. Now we all suffer...",
-        "translation": "我的妻子心情不好。我想她的男朋友忘了他们的纪念日。干得漂亮，伙计。现在我们所有人都得受罪……"
+        "translation": "我的妻子心情不好。我想她是觉得她男朋友忘了他们的情人节了。干得漂亮，伙计。现在我们全都得受罪……"
     },
     {
         "ID": 10,
         "joke": "My speech today will be like a mini-skirt. Long enough to cover the essentials but short enough to hold your attention!",
-        "translation": "我今天的演讲就像迷你裙，长到能覆盖 essentials，短到能抓住你的注意力！Note: In this translation, \"essentials\" is kept as is because it's commonly used in English to refer to the most important parts or points. The word \"注意力\" (zhùyì) is used for \"attention\" to maintain the meaning of holding someone's interest during the speech."
+        "translation": "我今天的演讲就像迷你裙，长到能覆盖 essentials，短到能抓住你的注意力！Note: In this translation, \"essentials\" is kept as is because it's a direct borrowing from English that is commonly used in Chinese when discussing speeches or presentations. The rest of the sentence is translated to maintain the original meaning and the fashion analogy."
     },
     {
         "ID": 11,
         "joke": "Thanksgiving joke What does Miley Cyrus eat for Thanksgiving? Twerky! Just kidding... Drugs. She eats drugs. -Adam Zopf @adamzopf",
-        "translation": "感恩节笑话米勒伊·赛勒斯会在感恩节吃什么呢？ twerk！开玩笑了……是毒品。她吃毒品。-亚当·佐普夫 @adamzopf"
+        "translation": "感恩节笑话米勒·巴尔丝梅在感恩节吃什么呢？是有节奏感的火鸡？开个玩笑……是毒品。她吃毒品。-亚当·佐普夫 @adamzopf"
     },
     {
         "ID": 12,
         "joke": "Why do you never see elephants hiding in trees? 'Cause they are freaking good at it",
-        "translation": "为什么你 never 见到大象躲在树上？因为他们真的非常擅长这样做。"
+        "translation": "为什么你 never 看见大象躲在树上？ 因为它们真的非常擅长这样做。"
     },
     {
         "ID": 13,
         "joke": "\"That guy is such a douche-bag! Is he single? Maybe I can fix him!\"  women",
-        "translation": "那个 guy 真是 douche-bag！他单身吗？或许我能帮他改改！"
+        "translation": "那个 guy 真是太 douche 了！他单身吗？也许我能帮他改改！"
     },
     {
         "ID": 14,
         "joke": "My son just got a tattoo of a heart, a spade, a club, and a diamond, all without my permission. I guess I'll deal with him later.",
-        "translation": "我的儿子未经我允许纹了一个心、一个黑桃、一个梅花和一个方片，我猜我以后得好好和他谈谈了。"
+        "translation": "我的儿子未经我允许纹了一个心、一个黑桃、一个梅花和一个方片，我猜我以后得好好和他谈一谈了。"
     },
     {
         "ID": 15,
         "joke": "What's the difference between a painting and Jesus. You only require one nail to put up the painting.",
-        "translation": "画和耶稣之间有什么区别？挂画只需要一根钉子。"
+        "translation": "画和耶稣有什么不同？挂画只需要一根钉子。"
     },
     {
         "ID": 16,
         "joke": "Mom: \"Do you want this?\" Me: \"No.\" Mom: \"Ok I'll give it to your brother.\" Me: \"No I want it.\"",
-        "translation": "妈妈：“你要不要？”我：“不要。”妈妈：“那我给你弟弟吧。”我：“不要，我要！”"
+        "translation": "妈妈：“你要不要这个？”我：“不要。” 妈妈：“那我给你弟弟吧。” 我：“不要，我要这个。”"
     },
     {
         "ID": 17,
         "joke": "I am looking forward to 6pm Thanksgiving Day when Walmart opens its doors for its annual sale of trampled human corpses.",
-        "translation": "我期待着感恩节当天下午6点，沃尔玛终于开门，迎接它的年度促销活动，届时将会出现踩踏的人群和尸体。"
+        "translation": "我期待着感恩节下午6点沃尔玛开门的那一刻，那时将会出现踩踏的人群和一堆堆“打折”的尸体。"
     },
     {
         "ID": 18,
         "joke": "Yttrium-barium-copper oxide walks into a bar The bartender tells him, \"We don't serve superconductors here.\" He leaves without resistance.",
-        "translation": "钇钡铜氧（YBCO）走进了一家酒吧，酒徒对它说：“我们这里不招待超导体。”然后它头也不回地走了，完全没有任何阻力。"
+        "translation": "钇钡铜氧走进了一家酒吧，酒鬼对他说：“我们这里不招待超导体。”他毫不留恋地走了，因为他“超导”了。"
     },
     {
         "ID": 19,
         "joke": "Every night, I take all of the singles out of my wallet, spread them on the bed, and pretend I was pretty that day.",
-        "translation": "每天晚上，我都把钱包里的零钱拿出来摊在床上，假装自己那天看起来很出色。"
+        "translation": "每天晚上，我都把钱包里的零钱都拿出来，摊在床上，假装自己那天很漂亮。"
     },
     {
         "ID": 20,
         "joke": "Before I destroy a wasp's nest I like to capture a single wasp and tell it my entire diabolical plan.",
-        "translation": "在摧毁黄蜂巢之前，我喜欢先捉一只黄蜂，然后把我的全部邪恶意图告诉它。"
+        "translation": "在摧毁蜂巢之前，我喜欢先捉一只黄蜂，然后把我的整个恶毒计划告诉它。"
     },
     {
         "ID": 21,
         "joke": "INTERVIEWER: Why do you want to work here? ME: *crumbs tumbling from my mouth* Oh, I don't. I was just walking by and saw you had donuts.",
-        "translation": "面试官：你为什么想在这里工作？  我：（嘴里掉出碎屑）哦，我不是。我只是路过的时候看到你们有甜甜圈。"
+        "translation": "面试官：你为什么想在这里工作？我：（嘴里还 crumbs ）哦，我不是。我只是路过看到你们这里有甜甜圈。"
     },
     {
         "ID": 22,
         "joke": "Coming on valentines day. Fifty shades of grey. There won't be a dry seat in the cinema.",
-        "translation": "上映在 Valentine's Day。《五十 Shades 的灰色》。电影院里不会有干爽的座位。"
+        "translation": "Coming on 情人节那天。《五十度灰》。电影院里没有干座。"
     },
     {
         "ID": 23,
         "joke": "Did you hear about the midget psychic who escaped from prison? He's a small medium at large.",
-        "translation": "你听说没，那个矮个子灵媒从监狱逃出来了？他是个小型灵媒在逃。"
+        "translation": "你听说没，有个侏儒灵媒越狱了？他是个小medium在逃。"
     },
     {
         "ID": 24,
         "joke": "Someone didnt click the button in /r/thebutton Yeah... Thats a good joke , he impossible!",
-        "translation": "有人没有点击/r/thebutton里的按钮？哈哈，这确实是个好笑的梗，因为他不可能点击那个按钮！"
+        "translation": "有人没有点击/r/thebutton里的按钮……yeah……他做不到！"
     },
     {
         "ID": 25,
@@ -132,82 +132,82 @@
     {
         "ID": 26,
         "joke": "I've struggled for years to be above the influence... But I've never been able to get that high",
-        "translation": "我努力了好几年要“远离影响”……但我也从来没有能达到那种“high”"
+        "translation": "我努力了好几年才做到“置身事外”……但是一直都没能体验到那种“high”"
     },
     {
         "ID": 27,
         "joke": "With Facebook, you can stay in touch with people you would otherwise never talk to, but that's only one of the many awful things about it",
-        "translation": "通过 Facebook，你可以和根本不会联系的人保持联系，但这只是它众多糟糕功能中的一个。"
+        "translation": "通过Facebook，你可以和根本不需要交流的人保持联系，但这仅仅是它众多糟糕之处之一。"
     },
     {
         "ID": 28,
         "joke": "What's the difference between a blonde and a washer? When you dump your load in a washer, it doesn't follow you around for a week.",
-        "translation": "黄头发和洗衣机有什么区别？当你把一-load 衣物扔进洗衣机里，它不会跟着你整整一个星期。"
+        "translation": "什么是金发女郎和洗衣机之间的区别？当你把一车脏衣服倒进洗衣机里，它不会跟着你整整一个星期。"
     },
     {
         "ID": 29,
         "joke": "Have you ever heard of the movie \"Constipation\"? No? Most likely because it never came out.",
-        "translation": "你听说过电影《便秘》吗？没有吧？很可能是因为这部片根本就没拍出来。"
+        "translation": "你听说过电影《便秘》吗？没有？很可能是因为这部片根本就没有上映。"
     },
     {
         "ID": 30,
         "joke": "I saw a French rifle on eBay today It's never been fired but I heard it was dropped once.",
-        "translation": "我在eBay上看到一把法国步枪，它从未被发射过，但我听说它曾被掉地上过一次。"
+        "translation": "我今天在eBay上看到一把法国步枪。它从未被发射过，但我听说它曾经被掉过一次。"
     },
     {
         "ID": 31,
         "joke": "Bill Clinton must be the luckiest man in the world. All of the sex he has, with Hillary, you know it's hate sex.",
-        "translation": "比尔·克林顿一定是世界上最幸运的人。他和希拉里发生的所有性关系都是恨意性的，你知道的，而不是爱情。"
+        "translation": "比尔·克林顿一定是世界上最幸运的男人。他和希拉里发生的所有性行为，都是恨意驱动的性行为，你知道的。"
     },
     {
         "ID": 32,
         "joke": "yeah girl.. shake that thing where poop comes out of. it really turns me on when your poop factory shakes faster than usual",
-        "translation": "嗯，姑娘……让你那个排便工厂摇得快点，真的能让我特别兴奋。"
+        "translation": "嗯，姑娘……让你的那个排泄工厂摇得快点，真的能把我摇动起来。"
     },
     {
         "ID": 33,
         "joke": "\"I can't stand when people say they hate both of the presidential candidates.\" --Stephen Hawking",
-        "translation": "“I无法忍受人们说他们两个总统候选人都不喜欢。”——史蒂芬·霍金"
+        "translation": "斯蒂芬·霍金说：“我无法忍受当人们说他们两个总统候选人都不喜欢的时候。”"
     },
     {
         "ID": 34,
         "joke": "I was drinking at the bar, so I took a bus home. That may not be a big deal to you, but I've never driven a bus before!",
-        "translation": "我在酒吧喝酒，所以坐公交车回家了。这对你可能不算什么，但直到那天我都没开过公交车呢！"
+        "translation": "我在酒吧喝酒，所以坐公交车回家了。这对你可能不算什么，但我要告诉你，我以前从来没有开过公交车！"
     },
     {
         "ID": 35,
         "joke": "Donald Trump will ban the sale of shredded cheese He wants to make America grate again",
-        "translation": "唐纳德·特朗普要禁止出售切达奶酪了，他想让美国再次变得粗糙起来。"
+        "translation": "特朗普要禁止出售切达奶酪了，他想让美国人民再次体验一下磨碎奶酪的感觉。"
     },
     {
         "ID": 36,
         "joke": "Things have really turned around for me since I re-named my penis and testicles \"JD Power and Associates\".",
-        "translation": "自从我把我的阴茎和睾丸改名为“JD 力量与顾问公司”之后，情况真的好转了很多。"
+        "translation": "自从我把自己的阴茎和睾丸改名为“JD 电源和咨询公司”之后，情况真的好转了很多。"
     },
     {
         "ID": 37,
         "joke": "My cat just walked by me carrying a toy mouse I don't remember buying her. Women be shoppin!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "translation": "我的猫刚刚拿着一只玩具老鼠从我身边走过，那只老鼠是我不记得给她买的。女人真是出去shopping了!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+        "translation": "我的猫拿着一只玩具老鼠从我身边走过去，而这只老鼠是我完全不记得给她买的。女人就是这么购物的!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
     },
     {
         "ID": 38,
         "joke": "Sometimes you check the amount of subscribed people. When you do this, there are 4,111,093,0003.666 \"humorists\". 2/3rds of a person? Really?",
-        "translation": "有时候你会上去看看订阅者人数。当你这么做的时候，订阅者人数显示为4,111,093,0003.666个“幽默家”。真的有三分之二个人吗？"
+        "translation": "有时候你去看看订阅者数量，一查看订阅人数，竟然有4,111,093,0003.666个“幽默家”。两 thirds 个人？真的假的？"
     },
     {
         "ID": 39,
         "joke": "I don't believe in Bigfoot; because he never believed in me. I'd scan the crowd at my ballet recitals, and always see that one empty seat.",
-        "translation": "我不相信有大脚怪，因为大脚怪从不相信我。每次我在看芭蕾舞表演时，总能看到观众席上有一个空位。"
+        "translation": "我不相信有大脚怪，因为大脚怪从不相信我。我曾在芭蕾舞演出时环顾过观众席，总能看到一个空位子。"
     },
     {
         "ID": 40,
         "joke": "What did the porn actress say when she opened the door? Make sure to come upstairs.",
-        "translation": "色情演员在开门后说了什么？上来二楼。"
+        "translation": "色情演员开门时说了什么？上来吧，指的是上楼。"
     },
     {
         "ID": 41,
         "joke": "I don't judge people based on color, race, religion, sexuality, or gender...I base it on whether or not they're an asshole.",
-        "translation": "我不会根据肤色、种族、宗教、性取向或性别来评判人……我只会根据他们是不是混账来评判。"
+        "translation": "我不会根据肤色、种族、宗教、性取向或性别来评判人……我只会根据他们是不是混蛋来评判。"
     },
     {
         "ID": 42,
@@ -217,17 +217,17 @@
     {
         "ID": 43,
         "joke": "I often think if I'd taken a different path in life, I could be lying on a slightly more comfortable sofa right now.",
-        "translation": "我常常想，如果当初我在人生路上做了不同的选择，我现在可能正躺在一张稍微舒服一点的沙发上。"
+        "translation": "我常常想，如果当初我在人生路上做了不同的选择，我现在可能正在一张稍微舒服一点的沙发上躺着。"
     },
     {
         "ID": 44,
         "joke": "What did the hillbilly say to his sister after she asked him to have sex with her? If you incest.",
-        "translation": "这个 hillbilly 在他姐姐请他和她发生性关系之后，说了句什么？如果你\"data lost\"。（注：由于包含成人内容和禁忌话题，这种直译并不能传达原始笑话的效果，同时可能会引起不适或误解，因此通常不建议直接翻译此类内容。）"
+        "translation": "这个笑话翻译成中文如下：这个hillbilly的妹妹向他提出要发生性关系之后，hillbilly是怎么回应的？如果你incest。"
     },
     {
         "ID": 45,
         "joke": "\"You know what, we need a huge spoon to take care of this\" -Guy who invented shovels",
-        "translation": "“你知道吗，我们得用个巨大的汤匙来搞定这个”——那个发明铲子的人"
+        "translation": "“你知道吗，我们需要一个巨大的勺子来解决这个问题”——那个发明铲子的人"
     },
     {
         "ID": 46,
@@ -237,77 +237,77 @@
     {
         "ID": 47,
         "joke": "7% of all hearing loss is a result of sitting in a restaurant next to a table full of women who just received dessert.",
-        "translation": "在餐馆里坐在一桌女人旁边，她们刚吃了甜点，会导致7%的听力损失。"
+        "translation": "所有听力下降的情况中有7%是由于坐在餐厅旁边，恰好挨着一桌刚吃完甜点的女性所导致的。"
     },
     {
         "ID": 48,
         "joke": "What do people from the 1930's and /r/news jokes have in common? They're both old.",
-        "translation": "1930年代的人和/r/news段子有什么共同点？他们都很老了。"
+        "translation": "1930年代的人和/r/news 的笑话有什么共同点？他们都很老了。"
     },
     {
         "ID": 49,
         "joke": "ME: I fell off a 50 ft tall ladder once GIRL: holy cow how did you survive ME: I fell off the bottom rung",
-        "translation": "我曾经从一架50英尺高的梯子上摔下来。女孩：天哪，你怎么样活下来的？我：我从最下面一级台阶摔下来的。"
+        "translation": "我曾经从一个50英尺高的梯子上摔下来。女孩：天哪，你怎么样活下来的？我：我从最下面一级台阶摔下来的。"
     },
     {
         "ID": 50,
         "joke": "What do you call a blind dinosaur? A do-think-he-saurus :) !! Lol What do you call a blind dinosaurs dog? A do-you-think-he-saurus-rex",
-        "translation": "什么叫做盲目的恐龙？一只.do-think-he-.角龙 :) !! 哈哈。那盲目的恐龙的狗叫做什么？.do-you-think-he-saurus-rex."
+        "translation": "什么叫做盲目的恐龙？叫它“do-think-he-saurus”吧 :) !! �菲利普你笑了没！！那盲目的恐龙的狗叫什么？叫它“do-you-think-he-saurus-rex”吧"
     },
     {
         "ID": 51,
         "joke": "This may be not be a mainstream opinion, but I don't believe you should cut down a Christmas tree unless you intend on eating it.",
-        "translation": "这可能不是主流观点，但我的看法是，除非打算吃掉它，否则你不应该砍一棵圣诞树。"
+        "translation": "这可能不是主流观点，但我认为，除非你打算吃掉它，否则不应该砍圣诞树。"
     },
     {
         "ID": 52,
         "joke": "Jenna Jameson to Oprah, \"There's a little bit of Jenna Jameson in everyone.\" I'm pretty sure she got that backwards.",
-        "translation": "珍娜·詹姆斯蒙对奥普拉说：“每个人身上都有一点珍娜·詹姆斯蒙。”我敢肯定她弄反了。"
+        "translation": "珍娜·詹姆斯蒙对奥普拉说：“每个人身上都有一点珍娜·詹姆斯蒙。”我想她搞反了。"
     },
     {
         "ID": 53,
         "joke": "I have a degree in men's studies. It's called \"world history\". #TRUMP 2016! YOU CAN'T STUMP THE TRUMP!",
-        "translation": "我有一个男性研究学位，叫作“世界历史”。#特朗普2016！你问不了倒特朗普的题！"
+        "translation": "我有一个性别研究学位，叫作“世界历史”。#特朗普2016！你休想难倒特朗普！"
     },
     {
         "ID": 54,
         "joke": "Why don't most fans like the first 39 episodes of DBZ? Its pretty gay, just Saiyan.",
-        "translation": "为什么大多数粉丝不喜欢《龙珠Z》的前39集？因为它真的很“赛亚gay”，主要是 Saiyan（赛亚人）登场。"
+        "translation": "为什么大多数粉丝不喜欢《龙珠Z》的前39集？因为它简直太直男了，满满的都是赛亚人。"
     },
     {
         "ID": 55,
         "joke": "This doctor once told me eating a bagel was like eating 5 slices of bread and I was like ok, cool, I like bread",
-        "translation": "这位医生曾经告诉我，吃一个甜甜圈就相当于吃了5片面包，我当时就想，哦，cool，我喜欢面包。"
+        "translation": "这位医生曾经告诉我，吃一个甜甜圈就相当于吃了5片面包，我当时就说，哦哦，酷，我喜欢面包。"
     },
     {
         "ID": 56,
         "joke": "What do you call a three-humped camel? Pregnant (Told to me by one of the kids at work)",
-        "translation": "什么叫做三峰驼？怀孕的！（一个工作中的孩子告诉我的）"
+        "translation": "什么叫做三峰驼？怀孕了。（一个工作中的孩子告诉我的）"
     },
     {
         "ID": 57,
         "joke": "What defies the law of gravity? Women. They heavier they are, the easier they are to pick up.",
-        "translation": "违背了万有引力定律的是女人。越重，越容易拎起来。"
+        "translation": "WOMEN 为什么违反重力定律？女人。越重，越容易捡起来。"
     },
     {
         "ID": 58,
         "joke": "Everything has to be related in a woman: if the mouth shuts, the legs open.",
-        "translation": "在这个笑话中，关键在于批评那些将女性简化为性对象的浅薄判断。这种观点给女性带来了很大的压力，要求她们的行为符合某些关于外在特征的期望。笑点在于暗示女性的一切都与性相关，如果嘴巴不说话，腿可能就要用来做其他事情了。翻译如下：在女人身上，一切都要扯上关系：如果嘴巴闭上了，腿就该张开了。"
+        "translation": "在这个笑话中，关键是要传达出一种对女性的刻板印象，即女性的一切都必须有所关联，如果嘴巴闭上了，那么腿就必须张开。这种说法显然是在批评对女性的不公平期望和表面化的评判标准。以下是这种幽默的中文翻译：在女人身上，一切都要扯上关系：要是嘴闭上了，腿就得张开。"
     },
     {
         "ID": 59,
         "joke": "\"I'm so pissed I could punch a ba-\" \"A what?\" Big Baby from Toy Story 3 hovers over me, sawed-off shotgun in hand. \"A bagel. I HATE carbs.\"",
-        "translation": "“我气得想揍一个——什么？”“是从《玩具总动员3》里的大宝宝，手里拿着锯短的猎枪hover在那里问我。“一个面包卷。我讨厌碳水化合物。”"
+        "translation": "“我气得想|int起来。”“想什么？”从《玩具总动员3》里走出来的大宝宝手持来福枪悬在我的头上。“一个面包。我讨厌|碳水化合物。”"
     },
     {
         "ID": 60,
         "joke": "What's the difference Donald Trump and my Vagina? One's a Cunt and the other has nice hair.",
-        "translation": "特朗普和我的阴道有什么区别？一个是“操”，另一个还有顺滑的毛发。"
+        "translation": "特朗普和我的阴道有什么区别？一个是“鸡巴”，另一个还有不错的毛发。 请注意，这个翻译使用了非常粗俗和冒犯性的语言，其中“鸡巴”是中文中一个极其粗俗的贬义词，用来指代女性生殖器。这种表达方式在中文中同样具有强烈的冒犯性。在实际交流中，建议避免使用此类语言，寻找更加尊重和恰当的表达方式。"
     },
     {
         "ID": 61,
         "joke": "My doctor had to put me on a new medication that's supposed to help lower the amount of karate in my blood",
-        "translation": "我的医生给我开了一种新药，说是能帮我降低血液里的“ karate”含量。"
+        "translation": "我的医生给我开了一种新药，说是用来降低血液中“ chatter ”含量的。"
     },
     {
         "ID": 62,
@@ -317,7 +317,7 @@
     {
         "ID": 63,
         "joke": "Q: What's the difference between a blonde and a supermarket trolley? A: The supermarket trolley has a mind of its own.",
-        "translation": "Q: 有什么区别吗？一个金发女郎和一个超市手推车？A: 超市手推车有自己的想法。"
+        "translation": "Q: 有什么区别吗？一个金发女郎和一个超市手推车？A：超市手推车有自己的想法。"
     },
     {
         "ID": 64,
@@ -327,47 +327,47 @@
     {
         "ID": 65,
         "joke": "When I hear \"This call is being monitored for quality assurance\" I think \"Cool, let's see how bad this person wants their job.\"",
-        "translation": "当我听到“此通话正在被监控以确保质量”时，我想“酷，让我们看看这个人有多想保住这份工作。”"
+        "translation": "当我听到“此通话正在用于质量保证进行监控”时，我想，“酷，让我们看看这个人有多想保住这份工作。”"
     },
     {
         "ID": 66,
         "joke": "You know what the definition of \"competitive\" is? Finishing first *and* third in a circlejerk.",
-        "translation": "你知道什么是“富有竞争力”吗？就是在一次圈圈互搓（circlejerk）中同时获得第一和第三名。"
+        "translation": "你知道“有竞争力”的定义是什么吗？在一个圈子里互相竞争（圈子内部 everyone 是平等的），同时拿到第一和第三名。"
     },
     {
         "ID": 67,
         "joke": "How do you know if your wine was made in the 90's? It smells like teen spirit.",
-        "translation": "你怎么知道你的酒是90年代酿造的？闻起来就像《少年精神》里的味道。"
+        "translation": "你怎么知道你的酒是90年代生产的？闻起来就像《Teen Spirit》的味道。"
     },
     {
         "ID": 68,
         "joke": "[car wreck] [hand reaches out] \"Take my hand. I'm Chad Kroeger from the popular band Nickelback.\" [I let the flames slowly bake me alive]",
-        "translation": "[车毁人亡] [一只手从废墟中伸出来]“跟我来，我是 Nickelback 热门乐队的 Chad Kroeger。\"[让火焰慢慢将我烤熟]\""
+        "translation": "[车毁人亡] [手伸出来] \"给我手。我是流行乐队 Nickelback 的 Chad Kroeger。\" [让我慢慢被火焰烤熟]"
     },
     {
         "ID": 69,
         "joke": "Just waiting for Steve Harvey to come out and say it's actually Clinton any second now",
-        "translation": "我只是在等着史蒂夫·哈维宣布实际上赢家是克林顿，随时都可能啊。"
+        "translation": "我只是在等着史蒂夫·哈维宣布其实是他克林顿，随时都可能啊。"
     },
     {
         "ID": 70,
         "joke": "Chicken Why did the chicken cross the road? Why? To go to the gay guys house Knock knock Who's there? The chicken",
-        "translation": "鸡 Why 鸡过马路？为什么？去同志哥哥家 Knock knock 谁在那里？鸡"
+        "translation": "鸡为什么过马路？为什么？去男同屋子里玩儿。 Knock knock谁在那儿？鸡鸡（注：这里的“鸡鸡”在中文中是一个谐音梗，与英文中的“鸡”发音相近，但在这里带有贬义，意指男同性恋）"
     },
     {
         "ID": 71,
         "joke": "Teacher: Why do we put a hyphen in a bird-cage?  Pupil: For a parrot to perch on miss.",
-        "translation": "老师：我们在鸟笼里加一个破折号是为了什么？学生：为了让鹦鹉有地方站在miss上面。"
+        "translation": "老师：为什么在鸟笼里要加个连字符？  学生：为了让鹦鹉可以停在“miss”上。"
     },
     {
         "ID": 72,
         "joke": "I visited Amsterdam this summer, and decided to have sex with a prostitute. It was an overall positive experience. Sadly, it was an HIV positive experience.",
-        "translation": "今年夏天我去了一趟阿姆斯特丹，决定和一个妓女发生了性关系。总体来说是一次积极的经历。不幸的是，这也是一次艾滋病阳性经历。"
+        "translation": "今年夏天我去了一趟阿姆斯特丹，决定和一个妓女发生了性关系。总体来说是一次积极的经历。可惜的是，这次经历是HIV阳性。"
     },
     {
         "ID": 73,
         "joke": "Yup. If pasta & antipasta ever touch, they annihilate. For your safety, that's why restaurants never serve them together.",
-        "translation": "是的。如果意大利面和开胃面 ever 触碰，它们会互相湮灭。为了您的安全，因此餐馆从不将它们一起上桌。"
+        "translation": "嗯。如果面食和开胃面不小心碰到一起，它们就会互相湮灭。为了您的安全，餐厅从来不把它们放在一起上桌。"
     },
     {
         "ID": 74,
@@ -377,7 +377,7 @@
     {
         "ID": 75,
         "joke": "lookin for a quick and easy way to beef up that scrawny bod and really turn some heads at the beach? float dead in a lake",
-        "translation": "在海滩上想要迅速让自己从瘦弱变得健硕，还希望引起一阵轰动吗？那就去湖里淹死吧。"
+        "translation": "你在找一种快速又简单的方法来让那副瘦弱的身躯变得健壮，从而在海滩上吸引眼球吗？那就去湖里浮着装死吧。"
     },
     {
         "ID": 76,
@@ -387,7 +387,7 @@
     {
         "ID": 77,
         "joke": "What did the wise man say to the fat guy? You should probably go on a diet.",
-        "translation": "智者对那个胖家伙说了什么？你应该节食。"
+        "translation": "智者对那个胖家伙说了什么呢？你应该节食。"
     },
     {
         "ID": 78,
@@ -397,67 +397,67 @@
     {
         "ID": 79,
         "joke": "Guys, I think I found the Cure to Aids! It requires having a Magic Johnson.",
-        "translation": "guys，我觉得我找到了治疗艾滋病的方法！就是跟魔术师约翰逊发生关系。"
+        "translation": "guys，我觉得我找到了治疗艾滋病的方法！这个方法就是和迈克·乔丹（注：原文误写为“Magic Johnson”，但这里为了翻译效果，保持“Magic Johnson”不变，实际应为“迈克·乔丹”）发生关系。"
     },
     {
         "ID": 80,
         "joke": "Why do you call a Mexican midget a paragraph? ...because he's too short to be called an essay.",
-        "translation": "为什么你叫一个墨西哥矮个子“段落”？……因为他太矮了，不够叫“论文”。"
+        "translation": "为什么你叫一个墨西哥矮子为一段话？……因为他太矮了，不能被称为一篇论文。"
     },
     {
         "ID": 81,
         "joke": "This morning I had a swollen testicle. \"I'd have simply preferred toast,\" I told my wife.",
-        "translation": "今早我睾丸肿了。我对妻子说：“我本来只想吃片烤面包就好了。”"
+        "translation": "今天早上我睾丸肿了，我对妻子说：“我本来只想吃片吐司。”"
     },
     {
         "ID": 82,
         "joke": "\"What's that?\" A divorce jar. Every time we fight you put a dollar in and I'm a little bit closer to freedom. *puts in dollar* \"WTH!?!\"",
-        "translation": "“那是什么？”——离婚基金。每次我们吵架你往里面放一美元，我就离自由又近了一步。——“什么鬼！！”（*投入一美元* WTH!!?）"
+        "translation": "“那是什么？”——一个离婚罐。每次我们吵架你投一美元，我就离自由近一点了。——我放一美元进去。“什么鬼！！？”"
     },
     {
         "ID": 83,
         "joke": "If you have a parrot and you don't teach it to say,\"Help, they've turned me into a parrot.\" you are wasting everybody's time.",
-        "translation": "如果你有一只鹦鹉，却不教它說「Help, they've turned me into a parrot」，那你就是在浪费大家的时间。如果你养了一只鹦鹉却不去教它说「Help, they've turned me into a parrot」，那你就浪费了所有人的时间。（注：后两句是翻译的另一种表达方式，意思相同。）"
+        "translation": "如果你有一只鹦鹉，却不教它說「Help, they've turned me into a parrot」，那你就是在浪费大家的时间。如果你养了一只鹦鹉，却不教它說「Help, they've turned me into a parrot」，那你就是在浪费所有人的时间。"
     },
     {
         "ID": 84,
         "joke": "My 8 y/o memorized my 12 character password that has upper and lowercase letters, numbers and symbols but can't remember to flush the toilet",
-        "translation": "我的8岁孩子记住了我的12位复杂密码，包含大小写字母、数字和符号，但却忘了冲马桶。"
+        "translation": "我8岁的孩子记住了我的12位复杂密码，包含大小写字母、数字和符号，但却忘了冲马桶。"
     },
     {
         "ID": 85,
         "joke": "Me: waiter, do you have frog legs? Waiter: of course monsieur Me: good, hop over there and get me a beer",
-        "translation": "顾客：服务员，你们有蛙腿吗？服务员：当然先生。顾客：好的，那你跳过来给我拿瓶啤酒。"
+        "translation": "顾客：服务员，你们有蛙腿吗？服务员：当然先生。顾客：好的，跳过来给我拿瓶啤酒。"
     },
     {
         "ID": 86,
         "joke": "It's comforting to know that the US government works the same way as a college student when it comes to deadlines... They both wait until the last minute, then get an extension.",
-        "translation": "知道美国政府在截止日期方面和大学生一样运作感觉很安慰……他们两个都是等到最后一分钟，然后申请延期。"
+        "translation": "知道美国政府在截止日期方面和大学生如出一辙感觉很安慰……两者都会拖到最后一分钟，然后申请延期。"
     },
     {
         "ID": 87,
         "joke": "What did the man with The World's Largest Penis say when he had to have his legs amputated \"Don't worry, I still have my third one.\"",
-        "translation": "这个世界上阴茎最大的男人，在不得不进行双腿截肢手术时说了什么？别担心，我还有我第三根呢。"
+        "translation": "这个世界上阴茎最大的男人，在不得不进行双腿截肢手术时说了什么？别担心，我还有第三个呢。"
     },
     {
         "ID": 88,
         "joke": "What's the worse thing to do to a blind person? Leave a plunger in the toilet",
-        "translation": "盲人最糟糕的事情是什么？把一个搋子留在马桶里。"
+        "translation": "盲人最糟糕的遭遇是什么？把一个通气塞留在马桶里。"
     },
     {
         "ID": 89,
         "joke": "When I was interviewed for a job in the chemistry department, they asked me if I had lab experience. I said I was more of a cat person.",
-        "translation": "当我在化学系面试时，他们问我是否有实验室工作经验。我回答说，我更喜欢猫。"
+        "translation": "当我在化学系面试时，他们问我是否有实验室经验。我回答说，我更喜欢猫一些。"
     },
     {
         "ID": 90,
         "joke": "Two skeptics walk into a bar.. I'd tell you what happens next but noone knows",
-        "translation": "两个怀疑论者走进了酒吧……我要告诉你们接下来发生了什么，但没人知道。"
+        "translation": "两个怀疑论者走进一家酒吧……接下来发生了什么，我本来可以告诉你们，但没人知道。"
     },
     {
         "ID": 91,
         "joke": "Everytime you pull the trigger a bullet loses its job...HAHAHAHA! Because it gets FIRED. HAHAHA! *I'm in tears*",
-        "translation": "每次你扣动扳机，就会有一颗子弹失业了……哈哈哈！因为它被开除了。哈哈哈！*笑到哭*"
+        "translation": "每次你扣动扳机，一颗子弹就会被解雇……哈哈哈！因为它被“开火”了。哈哈哈！（笑到泪流）"
     },
     {
         "ID": 92,
@@ -467,142 +467,142 @@
     {
         "ID": 93,
         "joke": "Descartes walks into the bar. The bartender asks him, \"will you have your usual tonight?\" Rene replies \"I think not\" and he disappears.",
-        "translation": "笛卡尔走进酒吧，吧台的服务员问他：“你要像往常一样来一杯吗？”笛卡尔回答说：“我想不会了”然后他就消失了。"
+        "translation": "笛卡尔走进酒吧，吧台的服务员问：“你今晚还是要usual（常喝的酒）吗？”笛卡尔回答说：“我思考了一下，决定不喝了。”然后他就消失了。"
     },
     {
         "ID": 94,
         "joke": "Anyone want to hear my Human Centipede joke? Nah, I won't tell you it. It sucks ass.",
-        "translation": "有人想听我那个关于《人体百足》的冷笑话吗？算了，我还是不告诉你们了，真的不好笑。"
+        "translation": "有人想听我那个《人体百足虫》的冷笑话吗？算了，我不说，挺烂的。"
     },
     {
         "ID": 95,
         "joke": "My dog can predict when an earthquake is going to happen. But television doorbell versus actual doorbell baffles him every time.",
-        "translation": "我的狗能预测地震什么时候会发生。但是电视门铃和实际的门铃每次都会让他困惑。"
+        "translation": "我的狗能预测地震什么时候会发生。但是电视门铃和真正的门铃让他每次都很困惑。"
     },
     {
         "ID": 96,
         "joke": "My favorite knock knock joke. I need someone to start it ... Someone start the knock knock joke ...",
-        "translation": "我最喜欢的“敲敲敲”笑话。我需要有人来开启它……有人来开启“敲敲敲”笑话吧……"
+        "translation": "我最喜欢的“敲敲敲”笑话。需要有人来开头……有人能来敲个门开始笑话吗……"
     },
     {
         "ID": 97,
         "joke": "My Parents asked me what i wanted for christmas... I said i want something to wear and something to play with. So they got me a pair of pants with the pockets cut out.",
-        "translation": "我的父母问我想要圣诞礼物是什么……我说我想得到一些衣服和一些玩具。于是他们给我买了一条没有口袋的裤子。"
+        "translation": "我的父母问我想要圣诞礼物是什么……我说我想得到一些可以穿的东西和一些可以玩的东西。于是他们给我买了一条没有口袋的裤子。"
     },
     {
         "ID": 98,
         "joke": "With 10K characters, I can finally get into great detail about how I'm not allowed at the company family picnic any more!",
-        "translation": "用10K字符，我终于可以详细描述一下，为什么我不能再参加公司的家庭野餐了！"
+        "translation": "用10K个字符，我终于可以详细说明一下，为什么我不能再参加公司的家庭野餐了！"
     },
     {
         "ID": 99,
         "joke": "[at my funeral] So young, how did he die? He ran into oncoming traffic after walking past a group of adults saying the word \"bae\"",
-        "translation": "在我葬礼上，那么年轻，他是怎么去世的？他在一群成年人说“bae”时走过去，结果却撞上了对面的车流。"
+        "translation": "在我葬礼上：这么年轻，他是怎么去世的？他因为在一群大人说“bae”时走神，结果走到了马路中间被车撞了。"
     },
     {
         "ID": 100,
         "joke": "Stealing my little brother's (fellow Redditor) original joke, hope he sees it and is pissed. What do you get when you cross a pig and a Christmas tree...? A Porky-Pine",
-        "translation": "偷了我弟弟（另一位 redditor）的原版笑话，希望他能看到会生气。当你把猪和圣诞树交叉会发生什么呢？一个“猪云松”（Porky-Pine）。注：这里的“猪云松”是“Porky-Pine”的音译，同时保留了原意中的双关效果。"
+        "translation": "偷了我弟弟（另一位 redditor）的原版笑话，希望他能看到会生气。当你把一只猪和一棵圣诞树交叉会发生什么呢？一个“猪云松”（Porky-Pine）圣诞树。"
     },
     {
         "ID": 101,
         "joke": "I lost my virginity to a retarded girl last night. I wanted it to be special",
-        "translation": "我很抱歉，这种类型的笑话涉及侮辱性和歧视性的内容，翻译成中文也会失去原有的幽默感，同时可能会引起不必要的冒犯和反感。不过，如果必须进行翻译，可以尽量保持原意，但请注意这种表达方式是非常不礼貌和不恰当的：昨晚我失去了处男身份，是一个智力有障碍的女孩。我希望那会是特别的再次强调，这种表达方式极其不恰当，应该避免使用这样的语言和态度。"
+        "translation": "我很抱歉，这种类型的笑话涉及侮辱性和歧视性的内容，翻译成中文也会失去原有的幽默感，同时可能会引起不必要的冒犯和反感。不过，如果必须进行翻译，可以这样表达：“昨晚我失去了处男身份，是一个智力有障碍的女孩。我希望那会很特别”请注意，这种类型的笑话是非常不恰当和不可接受的。在任何情况下，我们都应该尊重每个人，避免使用侮辱性和歧视性的语言。"
     },
     {
         "ID": 102,
         "joke": "What is the biggest compliment you can pay at a gay bar? Pushing in somebody's stool.",
-        "translation": "你能在同志吧里给someone最大的 compliment是什么？就是把他的小凳子往里推。"
+        "translation": "你能在同性酒吧里给someone最大的 compliment是什么？就是帮你推凳子！（这里的“推凳子”双关了“pushing in somebody's stool”，在直男酒吧里是帮人推椅子，在同性酒吧里就变成了暗示意味）"
     },
     {
         "ID": 103,
         "joke": "What's a pirate's favourite type of weaponry? It's ARRRtillery! bonus: A pirate's favourite melee weapon? A scimitARRR",
-        "translation": "什么是海盗最喜欢的武器类型？当然是ARRRtillery！额外的：海盗最喜欢的近战武器？是scimitARRR！"
+        "translation": "什么是最适合海盗的武器类型？当然是ARRRtillery！额外的：海盗最喜欢的近战武器是scimitARRR。"
     },
     {
         "ID": 104,
         "joke": "Hey, who did you vote for?... I wrote in Michael J. Fox. I think he can really shake things up!",
-        "translation": "hey，你投给谁了？……我选了迈克尔·J·福克斯。我觉得他真的能搅动一番！"
+        "translation": "嘿，你投给谁了？……我选了迈克尔·J·福克斯。我觉得他真的能搅动一番！"
     },
     {
         "ID": 105,
         "joke": "I once had a crippiling masturbation addiction... ...now i have a sex addiction, could you say my addiction has gotten out of hand?",
-        "translation": "我曾经有一个令人痛苦的自慰成瘾……现在我有了一个性成瘾的问题，你可以说我的成瘾情况变得严重了吗？"
+        "translation": "我曾经有一个令人痛苦的自慰成瘾……现在我有了一个性成瘾的问题，你能说我的成瘾已经失控了吗？"
     },
     {
         "ID": 106,
         "joke": "*Guy tries giving me his phone number* Me: Oh no thank you. I already have one",
-        "translation": "* guy 尝试给我他的电话号码 *我说不用了，谢谢。我已经有一个了。"
+        "translation": "* guy 尝试给我他的电话号码 * 我：不用了，谢谢。我已经有一个了。"
     },
     {
         "ID": 107,
         "joke": "I'm glad it's the thought that counts because I spend all day thinking about the shit I should be doing.",
-        "translation": "我很高兴重要的是想法而不是行动，因为整天都在思考我应该做的事情。"
+        "translation": "我很高兴现在是考虑想法重要，因为我整天都在想着我应该做的事情。"
     },
     {
         "ID": 108,
         "joke": "A man balks in a war He is discharged for dereliction of duty and takes up drinking.",
-        "translation": "这个男人在战争中表现退缩，因此因失职被遣返回国，回来后他开始酗酒。"
+        "translation": "一名男子在战争中失职，被遣返回国，随后开始了酗酒的生活。"
     },
     {
         "ID": 109,
         "joke": "Yo mama so lazy she thinks a two-income  family is where yo daddy has two jobs.",
-        "translation": "你妈真是太懒了，她以为两份收入的家庭是你们爸爸有两份工作。"
+        "translation": "你妈真懒，她以为两份收入的家庭是爸爸有两份工作。"
     },
     {
         "ID": 110,
         "joke": "Breaking Bad is my favorite documentary about what it takes to be an entrepreneur while balancing family life.",
-        "translation": "《绝命毒师》是我最喜欢的关于创业同时平衡家庭生活的纪录片。"
+        "translation": "《绝命毒师》是我最喜欢的关于如何成为一名企业家并平衡家庭生活的纪录片。"
     },
     {
         "ID": 111,
         "joke": "What did the gay guy say to his lover when they were going on vacation? \"Hey, can you help me pack my shit?\"",
-        "translation": "你们猜同性恋度假时会说什么？“嘿，能帮我打包我的东西吗？”（注：这里的“shit”在中文中被替换成了“东西”，以避免不恰当的含义）"
+        "translation": "这对同性伴侣在度假时，男生对他的伴侣说了什么？“嘿，你能帮我打包我的东西吗？”（注：这里的“shit”在中文里谐音“东西”，同时也保留了原文的双关意味。）"
     },
     {
         "ID": 112,
         "joke": "Coworker: Stop Me: collaborate and listen Coworker: Don't Me: you forget about me Coworker: Hey! Me: teacher, leave them kids alone",
-        "translation": "同事：Stop Me：合作并倾听  同事：Don't Me：你别忘了自己  同事：嘿！我：老师，别管那些孩子们了"
+        "translation": "同事：Stop Me：合作并倾听同事：Don't Me：你们别忘了我同事：嘿！我说：老师，别管那些孩子们了。"
     },
     {
         "ID": 113,
         "joke": "What's an extroverted accountant? One who looks at your shoes while he's talking to you instead of his  own.",
-        "translation": "什么样的外向型会计师？就是一边和你说话一边看你鞋子的人，而不是自己的鞋子。"
+        "translation": "什么样的外向型会计师？就是那种说话的时候看着你的鞋子而不是自己鞋子的会计师。"
     },
     {
         "ID": 114,
         "joke": "Dear President Obama, I've got a joke for you... I texted it to Angela Merkel. Did you... *get it*?",
-        "translation": "亲爱的奥巴马总统，我有一个笑话想给你讲……但我把它发给默克尔了。你……get到了没？"
+        "translation": "亲爱的奥巴马总统，我有一个笑话想给你讲……我把它发给了默克尔总理。你……get it（收到并理解这个笑话的意思了吗）？"
     },
     {
         "ID": 115,
         "joke": "Sorry, but breaking up with you on facebook was the best way of letting all your friends know I'm available.",
-        "translation": "抱歉，但是通过在 Facebook 上和你分手的方式来让所有朋友都知道我目前单身，这是最好的方法。"
+        "translation": "抱歉，但是通过在 Facebook 上和你分手的方式来告诉所有朋友我目前开放新恋情的门扉，这是最好的方式。"
     },
     {
         "ID": 116,
         "joke": "I don't understand women. I also don't understand how a car works but I still drive it.",
-        "translation": "我不懂女人。我也不懂汽车是怎么工作的，但我也照样开汽车。"
+        "translation": "我不懂女人。我也不懂汽车怎么发动，但我会开汽车。"
     },
     {
         "ID": 117,
         "joke": "What are the 3 stages of sex after marriage? Tri-weekly Try Weekly and Try Weakly",
-        "translation": "婚姻之后性生活的三个阶段？每三周一次、每周一次和勉强每周一次。"
+        "translation": "婚姻之后性生活的三个阶段是什么？每三周一次、每周一次和勉强每周一次。"
     },
     {
         "ID": 118,
         "joke": "My girlfriend is great in bed... But I don't know how my best friend would know that.",
-        "translation": "我的女朋友床上功夫很强……但我真的不知道我的最好的朋友是怎么知道的。"
+        "translation": "我的女朋友床上功夫很好…… 但是我不知道我的最佳朋友是怎么知道的。"
     },
     {
         "ID": 119,
         "joke": "[Justice League HQ] SUPERMAN: Looks like Batman is hungry tonight MOTHMAN: [visibly sweating] I think I'll just fight daytime crimes",
-        "translation": "[正义联盟总部] 超人：看来蝙蝠侠今晚饿了。摩ث曼：（明显出汗）我想我白天犯罪也行。"
+        "translation": "[正义联盟总部] 超人：看来蝙蝠侠今晚有点饿了。<br>摩ث曼：［明显出汗］我想我还是去打白天的犯罪吧。"
     },
     {
         "ID": 120,
         "joke": "My favourite word is snigger It allows me to be sracist without speople sthinking I'm a sbad sperson",
-        "translation": "我最喜欢的词是“snigger”，因为它让我可以在不让人觉得我是坏人的基础上进行种族主义的 joke。"
+        "translation": "我最喜欢的词是“snigger”，因为它让我可以在不让人觉得我是坏人的基础上显得不太种族主义。"
     },
     {
         "ID": 121,
@@ -612,37 +612,37 @@
     {
         "ID": 122,
         "joke": "Pete and repeat are in a boat Pete and repeat are brothers. Pete falls overboard, who's left?",
-        "translation": "Pete和重复在一条船上。 原来 Pete和重复是兄弟。 赖特掉进水里了，剩下谁了？ 重复，因为赖特（Pete）掉进水里了，船上只剩下一个重复了。"
+        "translation": "Pete 和重复在一条船上，而且他们是兄弟。Pete 跌入水中，那么剩下谁了？重复，因为Pete 跌入水中了，而他们两个其实就是同一个人（ Pete 和重复是同一个名字的不同的叫法）。"
     },
     {
         "ID": 123,
         "joke": "What did Arnold Schwarzenegger say to the gym manager when he was joining a new gym? I'll re-rack.",
-        "translation": "阿诺德·施瓦辛格加入新健身房时对健身房经理说了什么？——“我来整理器械。”"
+        "translation": "阿诺德·施瓦辛格加入新健身房时对健身房经理说了什么？——我来整理一下器械。"
     },
     {
         "ID": 124,
         "joke": "Right now a group of women at a baby shower are simultaneously saying, \"Awwww...\" while some knocked up chick holds up a tiny pair of socks.",
-        "translation": "现在一群女人在婴儿茶会上同时发出了一声“Awwww...”，而某个怀孕的女人则举起了一双超小的袜子。"
+        "translation": "现在一群女人在婴儿茶会上同时发出 \"啊～\" 的声音，而某个怀孕的女人拿着一双小小的袜子。"
     },
     {
         "ID": 125,
         "joke": "Gentlemen test At least most tests have the decency to ask me my name, before they fuck me.",
-        "translation": "绅士测试 至少大多数测试还有 decency（ decency 直接译为 \"体面\" 更符合此处语境）问我的名字，才敢碰我。 为了更贴近原文的粗俗和讽刺意味，可以翻译为：绅士测试 至少大多数测试还有体面，会先问我的名字，才开始检测我。"
+        "translation": "gentlemen接受检测 至少大多数检测还有 decency（体面） 在开始之前问我的名字，而不是直接“占用”我。"
     },
     {
         "ID": 126,
         "joke": "I went in to hospital for an operation... I asked the anaesthetist if I could administer the needle myself, and he said: \"Sure, knock yourself out\".",
-        "translation": "我去医院做手术……我问麻醉师我自己能不能打针，他说：“当然，你自己来吧。”"
+        "translation": "我去医院做手术……我问麻醉师能不能自己打麻药，他说：“当然，你自己昏过去吧。”"
     },
     {
         "ID": 127,
         "joke": "A piece of shit walks into a bar It's my dad... My dad is a piece of shit.",
-        "translation": "一个屎蛋走进了酒吧。是我的爸爸……我的爸爸是个屎蛋。"
+        "translation": "一个屎蛋走进了酒吧是我的爸爸……我爸爸就是个屎蛋。"
     },
     {
         "ID": 128,
         "joke": "What is the last thing that tickle-me elmo gets before he leaves the factory? Two test tickles",
-        "translation": "这个笑话的双关在于“test tickles”听起来像“睾丸测试”。所以翻译如下：在玩具工厂里，Tickle-me Elmo 最后会接受什么测试呢？是两次“睾丸测试”。"
+        "translation": "这个Tickle-Me Elmo在离开工厂之前最后会收到什么？是两个“提拉克力”（测试提拉，play on words，意为“睾丸”，testicles）～"
     },
     {
         "ID": 129,
@@ -652,17 +652,17 @@
     {
         "ID": 130,
         "joke": "An Indian redditor gets an arranged marriage. He turns to his partner and says: \"Thanks for the gold, kind stranger!\"",
-        "translation": "一位印度网友进行了包办婚姻，他转向自己的伴侣说：“谢谢你的嫁妆，好心的陌生人！”"
+        "translation": "一位Reddit上的印度网友经历了一次包办婚姻，他转向自己的伴侣说：“谢谢你给的黄金， kind stranger（好心的陌生人）！”（这里的“黄金”双关，既指传统的金饰礼物，也暗示这位伴侣其实是个“挖金子的人”，即 gold digger，指的是一种人而不是真正的黄金。）"
     },
     {
         "ID": 131,
         "joke": "What do you tell a woman with two black eyes? ..........Nothing you've already told her twice!",
-        "translation": "一个女人眼睛周围都是黑的，你该怎么跟她说？............你已经两次告诉过她什么了！"
+        "translation": "一个女人眼睛周围都是黑眼圈，你该怎么跟她说？...........你就当什么也没看见！"
     },
     {
         "ID": 132,
         "joke": "I'd kill for a microwave that plays Europe's \"The Final Countdown\" during the last 30 seconds.",
-        "translation": "我愿意为了能在微波炉最后30秒播放欧洲的《最后的倒计时》这首歌而送命。"
+        "translation": "我愿意为了能在最后30秒播放欧洲的《最终 countdown》而死的微波炉。"
     },
     {
         "ID": 133,
@@ -672,7 +672,7 @@
     {
         "ID": 134,
         "joke": "What do you call it when a jugaloo sleeps with his girlfriend after a fight? Make up sex.",
-        "translation": "当一个爱哭鬼在吵架后和女朋友发生关系，你叫它什么？和好性。"
+        "translation": "当一个爱哭鬼在吵架后和女朋友发生关系，你叫它什么？和好的性生活。"
     },
     {
         "ID": 135,
@@ -682,47 +682,47 @@
     {
         "ID": 136,
         "joke": "Over the past year, my sexual fetishes have been slowly getting more perverse. But it wasn't until I spanked a statue that I realised I'd hit rock bottom.",
-        "translation": "在过去一年里，我的性癖好逐渐变得越来越变态。但直到我打了座雕像，我才意识到自己已经触及了底线。"
+        "translation": "在过去一年里，我的性癖好一直在逐渐变得越发变态。但直到我打了座雕像，我才意识到自己已经坠入谷底。"
     },
     {
         "ID": 137,
         "joke": "I milked the cow \"We don't have a cow\" the neighbors' cow then \"Their cat?\" Pretty sure it was a cow he was saying moo \"Meow\" Ah shoot",
-        "translation": "我给那头牛挤奶了“他们没有牛”然后是邻居的牛“是他们的猫吧？”我肯定他是说牛“喵”——然后我才发现，“哎呀，中枪了。”"
+        "translation": "我给那头奶牛挤奶了“你们没有奶牛吗？”然后是邻居的牛，“是他们的猫吗？”我肯定他是在说那声音是“哞”，结果却是“喵”。“ Ah shoot”"
     },
     {
         "ID": 138,
         "joke": "Dear Shirtless Guy in his Profile Pic, You REALLY want to impress girls? Get a job & pose in front of your cubicle.",
-        "translation": "亲爱的赤裸上身的 guy 在你的个人头像里，你真的想吸引女生吗？去找份工作，在你的工位前拍张照片吧。"
+        "translation": "亲爱的赤裸上身的家伙，你真的想吸引女生吗？去找份工作，在你的办公桌前拍张照吧。"
     },
     {
         "ID": 139,
         "joke": "The IRA have been fighting for Irish reunification since the 70s. . . All they needed to do was vote for the Conservatives.",
-        "translation": "自20世纪70年代以来，IRA一直在为爱尔兰统一而斗争……他们只需要支持保守党就行了。"
+        "translation": "自20世纪70年代以来，IRA一直在为爱尔兰统一而斗争……他们只需要支持保守党就可以了。"
     },
     {
         "ID": 140,
         "joke": "How many Reddit admins does it take to change a lightbulb? None, they like to keep the mods in the dark.",
-        "translation": "有多少Reddit管理员要换灯泡？不需要，他们喜欢让版主在暗处。"
+        "translation": "有多少Reddit管理员需要来换灯泡？不需要，因为他们喜欢让版主处于黑暗中。"
     },
     {
         "ID": 141,
         "joke": "Facebook buys Instagram for one billion?!? Idiots!! They could have downloaded it from the app store for .99 cents..",
-        "translation": "脸书花一 billion 钱买Instagram？！白痴！！他们从应用商店下载只需要 0.99 美元……"
+        "translation": "脸书花一 billion 买Instagram？！蠢到家了！！他们从应用商店下载只需要 0.99 美元……"
     },
     {
         "ID": 142,
         "joke": "I may not be getting laid tonight, but I'm definitely banging my snooze button in the morning.",
-        "translation": "我今晚可能不会被叫到，但早上我会频繁使用那个闹钟的 snooze 按钮。"
+        "translation": "我今晚可能没什么艳遇，但早上我会好好“敲闹钟”补偿一下。"
     },
     {
         "ID": 143,
         "joke": "I want to make a series about the murder of an airline crew but I still have to shoot the pilot.",
-        "translation": "我想拍一个关于空乘人员被杀的连续剧，但我也得先“拍摄”一下那个机长。"
+        "translation": "我想拍一个关于空乘人员被杀的连续剧，但我也得先“拍”一下那个飞行员。"
     },
     {
         "ID": 144,
         "joke": "My friend always wanted to work in animation, but never got past the interview He just couldn't understand the difference between a professional \"colorist\" and a professional \"racist\"",
-        "translation": "我的朋友一直想在动画行业工作，但面试总是不过关。他就是分不清“上色师”和“种族主义者”之间的区别。"
+        "translation": "我的朋友一直想在动画行业工作，但总是在面试环节卡壳。他就是分不清“上色师”和“种族主义者”有什么区别。"
     },
     {
         "ID": 145,
@@ -732,32 +732,32 @@
     {
         "ID": 146,
         "joke": "so as I went in to vote this morning, an old lady told me to make sure I voted for the candidate that could make change. Boy, is my bank teller going to be surprised!",
-        "translation": "所以今天我去投票的时候，一个老太太告诉我一定要选一个能“改变局面”的候选人。天哪，我银行柜员得多惊讶啊！"
+        "translation": "所以今天我去投票的时候，一个老妇人告诉我一定要选一个能“找零”的候选人。天哪，我的银行柜员肯定会很惊讶！"
     },
     {
         "ID": 147,
         "joke": "You're so fat and unfunny... that the only punchlines you have are stained on your shirt.",
-        "translation": "你又胖又没幽默感……以至于你的T恤上都写着笑话。"
+        "translation": "你又胖又没幽默感……以至于你的衣裳上都洗不掉自己的笑料。"
     },
     {
         "ID": 148,
         "joke": "Glue is weird it's all like hey I want to stick these pieces of paper together wait I have an idea hand me that dead horse",
-        "translation": "胶水真是奇怪，它就像在说：“我想把这几页纸粘在一起，等等，我有个主意，给我拿匹死马过来。”"
+        "translation": "胶水真是奇怪，它就像在说：“我想把这几页纸粘在一起，等等，我有个主意，给我拿只死马过来。”"
     },
     {
         "ID": 149,
         "joke": "Why are women and children evacuated first in a disaster? So we can think about a solution in silence",
-        "translation": "为什么在灾难中要先撤离妇女和儿童？这样我们就可以安静地思考解决方案了。"
+        "translation": "为什么在灾难中要先撤离女性和儿童？这样我们就可以安静地思考解决问题的方法了。"
     },
     {
         "ID": 150,
         "joke": "Waiting for the day when a girl finally says that I'm \"the one,\" but isn't talking to a police officer.",
-        "translation": "等待着有一天有女孩终于说我是“对的人”，但对方不是警察。"
+        "translation": "等待着有一天有个女孩终于说我是“对的人”，但她说这话的时候并不是在跟警察说话。"
     },
     {
         "ID": 151,
         "joke": "Some people say Glenn Frey got pneumonia from the cold... But that can't be true because he said the Heat is On.",
-        "translation": "有些人说格伦·弗莱是因为感冒才得了肺炎……但这不可能是真的，因为他自己说过《热浪》（The Heat is On）的意思是他发烧了。"
+        "translation": "有些人说格伦·弗莱是因为感冒而得了肺炎……但这不可能是真的，因为他唱的是《热度正高》。"
     },
     {
         "ID": 152,
@@ -767,62 +767,62 @@
     {
         "ID": 153,
         "joke": "My love for you is like a fart. Everything about it is powered by my heart.",
-        "translation": "我对你的爱就像放屁一样，每一点都由我的心驱动。"
+        "translation": "我对你的爱就像放屁一样，每一下都是我心脏的动力。"
     },
     {
         "ID": 154,
         "joke": "What did the Mexican gang member say when two large houses fell on him during an earthquake? Get off me, homes.",
-        "translation": "地震的时候，两栋大楼压在了墨西哥帮派成员身上，他怎么说？Get off me, homes.（压在上面的墨西哥帮派成员说了什么？给我滚开，homies。）"
+        "translation": "地震的时候，一个墨西哥帮派成员被两栋大楼压住了，他会对别人说些什么？Get off me, homes. 的翻译可以是：墨西哥帮派成员在地震中被两栋大楼压住了，他会说：滚开，homies。"
     },
     {
         "ID": 155,
         "joke": "I once bought an e. e. cummings poem collection.. It was the worst game of Mad Libs ever.",
-        "translation": "我曾经买过一本埃兹拉·庞德（注：此处“e. e. cummings”应为“e. e. cummings”，但根据上下文，可能是想表达埃兹拉·庞德，故进行调整）的诗集……那简直就是有史以来最糟糕的 Mad Libs 游戏。"
+        "translation": "我曾经买过一本E.E. 庞德的诗集……那简直是最糟糕的 Mad Libs 游戏。"
     },
     {
         "ID": 156,
         "joke": "Why is it that the more numbers someone has in their e-mail address, the less I respect them?",
-        "translation": "为什么邮箱地址里数字越多，我就越不尊重他们呢？"
+        "translation": "为什么邮箱地址里的数字越多，我就越不尊重他们？"
     },
     {
         "ID": 157,
         "joke": "If you ever need help learning C++, I can give you some pointers. And you can keep me as a reference.",
-        "translation": "如果你需要帮助学习 C++，我可以给你一些指针。而且你可以把我当作一个参考。"
+        "translation": "如果你需要帮助学习 C++，我可以给你一些指针。而且你还可以把我当作一个参考。"
     },
     {
         "ID": 158,
         "joke": "What have you done wrong if the wife keep complaining when you try to watch TV in the living room? You made the chain too long in the kitchen.",
-        "translation": "如果你在客厅看电视时老婆一直抱怨，那是因为你把厨房的链子弄长了。"
+        "translation": "如果你在客厅看电视时老婆一直抱怨，那说明你把厨房的链子弄太长了。"
     },
     {
         "ID": 159,
         "joke": "Don't buy whitening toothpaste It says guaranteed whiteness in 14 days. 15 days have come and gone... and I am still asian.",
-        "translation": "不要买美白牙膏，它保证14天内让你牙齿变白。15天过去了……我还是黄种人。"
+        "translation": "不要买美白牙膏，它保证14天内让你牙齿变白。15天过去了……我还是黄皮肤黄头发。"
     },
     {
         "ID": 160,
         "joke": "Simba - \"welcome to... The bone zone\" Nala - \"the what?\" Simba - \"elephant graveyard. I said elephant graveyard\"",
-        "translation": "辛巴：\"欢迎来到……骨区。\"  娜拉：\"什么骨区？\"  辛巴：\"大象墓地。我说的是大象墓地。\""
+        "translation": "辛巴：“欢迎来到……骨区。”娜拉：“什么骨区？”辛巴：“大象墓地。我说的是大象墓地。”"
     },
     {
         "ID": 161,
         "joke": "How are doctors so well tempered even under heavy stress? They have a lot of patients",
-        "translation": "医生们为什么能在巨大的压力下还那么“有韧性”？因为他们有很多“病人”要看。"
+        "translation": "医生们为什么在巨大的压力下还能变得“well tempered”？因为他们有很多病人要看。"
     },
     {
         "ID": 162,
         "joke": "I wonder if dog's had facebook, would they put our picture as their profile picture.",
-        "translation": "我想知道如果狗有-facebook，它们会不会把我们的照片设为个人头像呢？"
+        "translation": "我想起如果狗有Facebook，它们会不会把我们的照片设为个人头像呢？"
     },
     {
         "ID": 163,
         "joke": "Why are Native Americans the most successfull strippers? Because when they dance, they make it rain.",
-        "translation": "为什么土著人是最成功的脱衣舞者？因为当他们跳舞时，他们会“下雨”。（注：这里的“下雨”是网络用语，意指收到很多小费，但请注意这种说法带有冒犯性和不恰当的种族刻板印象。）"
+        "translation": "为什么土著人是最成功的脱衣舞者？因为当他们跳舞时，会“下雨”。（注：这里的“下雨”是网络用语，意为收到很多小费，但请注意这种说法带有侮辱性和刻板印象，是非常不尊重的。）"
     },
     {
         "ID": 164,
         "joke": "My ex-girlfriend was a slut. She bust more nuts than a pistachio junkie. edit: Going through a potential breakup, so if you see this, this isnt about you, babe. Dont leave me, please.",
-        "translation": "我的前女友是个荡妇。她比 Pistachio 瘾君子还爱拆包。  （注：Pistachio 瘾君子 是一种直译，意指像 Pistachio 一样上瘾般拆包，但没有直接使用“ pistachio junkie ”这个英文表达。）另外，考虑到文化差异和表达习惯，可以进一步调整为：我的前女友是个荡妇。她拆包的频率比嗑 Pistachio 还高。  编辑：正处于一段可能要分手的关系中，所以如果你看到了这条，这并不是在说你，亲爱的。别离开我，求求你。"
+        "translation": "我的前女友是个荡妇。她比嗑 Pistachio（ Pistachio：薄荷糖）上瘾的人还要频繁。  （编辑：正在经历一段可能的感情破裂，如果你看到这条，请不要误会，这不是针对你的，亲爱的。别离开我，求求你。）"
     },
     {
         "ID": 165,
@@ -832,12 +832,12 @@
     {
         "ID": 166,
         "joke": "ME: Haha you can tell them any name and they have to say it BARISTA: I have a latte for \"A Person Who Deserves Love\"? ME [crying]: Hahaha",
-        "translation": "顾客：哈哈你可以给他们随便说一个名字他们就得说出来吧？吧 员：我这有一杯拿铁给“值得爱的人”？ 顾客 [笑cry]：哈哈哈哈哈"
+        "translation": "顾客：哈哈你可以给他们起任何名字他们就得说出口咖啡师：我有一个叫“值得爱的人”的拿铁？顾客[笑cry]：哈哈哈哈哈"
     },
     {
         "ID": 167,
         "joke": "Peter Pan escaped the adult world... ...by becoming an alcoholic. He goes by Peter the Panhandler now.",
-        "translation": "彼得·潘逃出了成人世界…………现在他变成了一个酒鬼。现在他叫彼得·潘handler。"
+        "translation": "彼得·潘逃出了成人世界…………他现在自称“彼得·乞丐”了。"
     },
     {
         "ID": 168,
@@ -847,62 +847,62 @@
     {
         "ID": 169,
         "joke": "You just know I knew my girlfriend was furious when I blew my load early last night....I could see it in her eyes",
-        "translation": "你Just know 我当时能感觉到我女朋友大发雷霆……从她的眼睛里就能看出来……我射得有点早……"
+        "translation": "你刚知道当我昨晚早早“爆了”的时候，我就能从她的眼睛里看出她非常生气了……"
     },
     {
         "ID": 170,
         "joke": "An atheist, a vegan, and a crossfit fanatic walk into a bar... Who talks more?",
-        "translation": "一个无神论者、一个素食者和一个Crossfit狂走进了酒吧……是谁说得更多？"
+        "translation": "一个无神论者、一个素食者和一个Crossfit狂走进了酒吧……谁说得更多？"
     },
     {
         "ID": 171,
         "joke": "How is light beer like having sex in a canoe? They're both fucking close to water.",
-        "translation": "轻啤酒就像在独木舟里做爱，因为两者都离水“足够近”——这是一句双关笑话，带有成人色彩的玩笑。  译文：轻啤酒和在独木舟里做爱有什么相似之处？两者都离水“够近”了。"
+        "translation": "轻啤酒就像在独木舟里做爱，因为两者都离水“很近”。（注：此翻译为直译，保留了原文的双关意味，但未直接使用“fucking”一词。）"
     },
     {
         "ID": 172,
         "joke": "How many tickles does it take to make an octopus laugh? Ten-tickles. I'll see myself out.",
-        "translation": "多少-With what 逗-逗 能让一只章鱼笑？十-十 逗！那我就自己出去了。"
+        "translation": "多少-With what  tickles-能让你这只八爪鱼笑起来？十-十tickles. 我自己出去看看。"
     },
     {
         "ID": 173,
         "joke": "What do you get when you cross an insomniac, agnostic and a dyslexic? Someone who stays up all night wondering if there is a Dog.",
-        "translation": "你把一个失眠的人、一个无神论者和一个阅读障碍者交叉在一起会得到什么？一个整晚都在琢磨世界上是否存在一只“狗”的人。"
+        "translation": "你猜你把一个失眠的人、一个无神论者和一个阅读障碍者交叉在一起会得到什么？一个整晚都在怀疑是否真的有“狗”的家伙。"
     },
     {
         "ID": 174,
         "joke": "I farted in the Apple store and everyone got pissed at me. Not my fault they don't have Windows.",
-        "translation": "我在苹果商店放了个屁，大家都很生气。这不能怪我，他们就是没有卖“Windows”。"
+        "translation": "我在苹果店里放了个屁，大家都很生气。不是我的错，他们那儿没有Windows。"
     },
     {
         "ID": 175,
         "joke": "I left Stephen Hawking like 8 voice mail messages before I realised he'd picked up every time.",
-        "translation": "我在给史蒂芬·霍金留了大约8条语音邮件之后，才意识到他每次都会回电话，而不是让留言累积起来。"
+        "translation": "我在Stephen Hawking那边留了大概8条语音邮件，后来才发现他每次接电话时，自己留的都是语音邮件。"
     },
     {
         "ID": 176,
         "joke": "My terrible Joke but I never forget it. A dyslexic man walked into a bra....",
-        "translation": "我的糟糕的笑话，但我永远记不住：一个阅读障碍的人走进了一家内衣店……（注：这里的“内衣店”是谐音“bra”即bra的中文翻译，同时保留了原文的幽默感）"
+        "translation": "我这个笑话很糟糕，但我永远忘不掉。一个阅读障碍的人走进了一家内衣店……（意为“一个阅读障碍的人走进了一家卖胸罩的店”）……然后要了一杯牛奶。"
     },
     {
         "ID": 177,
         "joke": "Believe it or not, my wife and I were actually matched on Tinder. We'd been married for 12 years.",
-        "translation": "相信吗？我老婆和我其实是在 Tinder 上匹配上的。我们已经结婚12年了。"
+        "translation": "相信吗？我老婆和我其实是在 Tinder 上匹配上的。我们已经结婚十二年了。"
     },
     {
         "ID": 178,
         "joke": "I scream, you scream, we all scream for ice cream. This kid working at Baskin Robbins is pretty scared. Now he's crying in the corner.",
-        "translation": "我喊，你喊，大家喊着要吃冰淇淋。这个在芭士可隆工作的小孩可害怕了。现在他躲在角落里哭呢。"
+        "translation": "我喊，你喊，大伙都喊着要吃冰淇淋。这个在芭士可丹奴（Baskin Robbins）工作的孩子可害怕了。现在他躲在角落里哭呢。"
     },
     {
         "ID": 179,
         "joke": "So a Trabi owner pulls up to a gas station... ...and says to the attendant: \"Two windscreen wipers for my Trabi please.\" The attendant replies: \"That sounds like a good deal!\"",
-        "translation": "于是，一位Trabi车主开车来到了一个加油站……并对工作人员说：“请给我装两根刮水器，给我装在我的Trabi上。”工作人员回答说：“这听起来像是笔不错的交易！”"
+        "translation": "于是，一位Trabi车主开车来到一个加油站……并对服务员说：“请给我装两根Trabi雨刷器。”服务员回答说：“这听起来像是笔不错的交易！”"
     },
     {
         "ID": 180,
         "joke": "How many police officers does it take to change a light bulb? None, because they'll just beat the room for being black!",
-        "translation": "多少警察才能换一个灯泡？一个都不用，因为他们会把房间里的黑人打一顿！"
+        "translation": "换灯泡需要几个警察？不需要，因为他们只会因为你是黑人而破门而入！"
     },
     {
         "ID": 181,
@@ -912,131 +912,2041 @@
     {
         "ID": 182,
         "joke": "If you're not one of the first five boys in the yard, you almost never get a milkshake.",
-        "translation": "如果你不是 yard 里头前五名的男孩，你几乎 never 获取奶昔作为奖励。 为了更贴近中文表达习惯，可以调整为：如果你不是 yard 里头前五名的男孩，你几乎 never 能得到奶昔作为奖励。 或者更自然的表达：如果你不是 yard 里头前五名的男孩，你几乎 never 会得到奶昔作为奖励。"
+        "translation": "如果你不是院子前五名的男孩之一，你几乎 never 获取到奶昔。（注：这里的“never get a milkshake”在中文中可以用“获取到奶昔”来表达，但“never”表示几乎 never，可以翻译为“几乎不”或“很少会”。） 更自然的翻译可以是：如果你不是院子前五名的男孩之一，你几乎 never 会得到奶昔。如果你不是院子前五名的男孩之一，你几乎不会得到奶昔。"
     },
     {
         "ID": 183,
         "joke": "Every woman I've ever been with only saw me the way they wanted to see me... ...in their rearview mirror.",
-        "translation": "我曾经交往过的每一个女人，都只从后视镜里看到她们想看到的我。"
+        "translation": "我认识的每一个女人，只看到我她们想要看到的样子……就像在她们的后视镜里看到的那样。"
     },
     {
         "ID": 184,
         "joke": "How do you figure out which contestant in a Ms. America pageant is a prostitute? Look for the one with the sash that says \"I da ho\".",
-        "translation": "如何在美少女美国家选中找出那个妓女？看看哪个选手的绶带上写着“我是个妓女”（发音类似“我拿 ho”）。"
+        "translation": "如何在美少女美国家选中找出那个妓女？看看哪个选手的绶带上写着“我就是妓女”。"
     },
     {
         "ID": 185,
         "joke": "I love raccoons. Part cat. Part dog. Part rodent. Part bear. Little people hands. What's not to like?",
-        "translation": "我爱浣熊。像猫一样。像狗一样。像啮齿动物一样。像熊一样。小人的手。还有什么不喜欢的？"
+        "translation": "我爱浣熊。一半像猫。一半像狗。一半像啮齿动物。一半像熊。有小人的手。还有什么不喜欢的？"
     },
     {
         "ID": 186,
         "joke": "[Google search history] Moles How to kill moles How to make homemade bombs Rescue moles from cave-in Dealing with regret Mole stew",
-        "translation": "[搜索历史] 挖出田鼠的方法 制作简易炸弹 救援坍塌中的田鼠 处理后悔 莫雷炖肉"
+        "translation": "[搜索历史] 挖田鼠 如何杀死田鼠 制作自制炸弹 救援田鼠于坍塌之中 处理后悔 比特尔酱汤"
     },
     {
         "ID": 187,
         "joke": "Standing in the park, I was wondering why a Frisbee gets larger the closer it gets. And then it hit me.",
-        "translation": "站在公园里，我一直在想为什么飞盘越飞越近就越大。然后它就击中了我。"
+        "translation": "站在公园里，我一直在想为什么飞盘越飞越近就越大。就在这时，它“击中”了我。"
     },
     {
         "ID": 188,
         "joke": "When in doubt, just do the opposite of whatever the person wearing pajamas in public is doing.",
-        "translation": "公众场合有人穿睡衣时，你就 Doing 恰好相反的事情：如果对方坐着，你就站起来；如果对方站着，你就坐下。"
+        "translation": "当感到不确定时，就做与穿着睡衣在公共场合那个人完全相反的事情。"
     },
     {
         "ID": 189,
         "joke": "[Ouija board] Spirits are you there? U R C U T E D O Y O U H A V E K I K *flips board*",
-        "translation": "【奥比斯板】灵媒在吗？你们这些可爱的小东西，快出来玩儿吧！*翻动板子*"
+        "translation": "【奥卡贾板】灵媒在吗？你们好巧尼.have kik *板子翻了*"
     },
     {
         "ID": 190,
         "joke": "Not being able to read because your book ran out of batteries is a pretty hilarious first-world problem.",
-        "translation": "因为书没电了而导致读不了书，这真是一个挺有趣的“发达国家问题”。"
+        "translation": "因为书没电了导致读不了书，这真是一个挺滑稽的所谓“发达国家问题”。"
     },
     {
         "ID": 191,
         "joke": "My internet connection on my farm was be terrible until I moved the router in the horse barn. Now I have stable WiFi.",
-        "translation": "我在农场里的网络连接一直很糟糕，直到我把路由器搬到了马棚。现在我有了稳定的WiFi。"
+        "translation": "我在农场里的网络连接很差，直到我把路由器搬到了马厩里。现在我有了稳定的WiFi。"
     },
     {
         "ID": 192,
         "joke": "What does a sheep call a film it doesn't like? a baaahhhd movie. (   )",
-        "translation": "一只羊会叫一部它不喜欢的电影什么？糟糕的电影（baaahhhd movie）。 （巴啊哈德电影）"
+        "translation": "什么电影让羊不喜欢？难听死了的电影。（“baaahhhd movie”翻译为“难听死了的电影”，其中“baaahhhd”模拟了羊的叫声“baa”，同时暗示电影非常糟糕。）"
     },
     {
         "ID": 193,
         "joke": "Brexit There is a new slimming product in town. It is called Brexit. It'll help you lose a lot of pounds.",
-        "translation": "脱欧了！有一种新的减肥产品上市了，叫作“脱欧”。它能帮你减掉很多斤。"
+        "translation": "脱欧了！城里出现了一款新的减肥产品，叫作“脱欧”。用了它，能帮你减掉很多斤。"
     },
     {
         "ID": 194,
         "joke": "Orange Julius is the third best thing to happen to oranges behind mimosas and the \"orange you glad I didn't say banana\" knock knock joke",
-        "translation": "橙汁是橙子身后第三好的东西，排在鸡尾酒和“🍊你高兴我没说香蕉”这个笑话之后。"
+        "translation": "橙汁是橙子身后第三好的东西，排在模拟酒和“🍊你高兴我没说香蕉”笑话之后。"
     },
     {
         "ID": 195,
         "joke": "Why do golfers wear 2 pairs of pants? Incase he gets a hole in one",
-        "translation": "为什么高尔夫球手要穿两件裤子？因为万一他来个 Hole in One（既指一杆进洞，也指裤子破了一个洞）。"
+        "translation": "为什么高尔夫球手要穿两件裤子？因为万一他能一杆进洞（ Hole in one ），得做好准备哦（ Holy Moly ，这里双关“ holy moly ”和“ hole in one ”）。"
     },
     {
         "ID": 196,
         "joke": "How do you stop a baby from crawling in circles? Nail its other hand to the floor.",
-        "translation": "怎样才能阻止婴儿不停地绕圈爬行？把婴儿另一只手钉在地板上。"
+        "translation": "怎样才能阻止婴儿一直爬圈圈？把婴儿另一只手钉在地板上。"
     },
     {
         "ID": 197,
         "joke": "Two fish are in a tank... One is driving, and the other is manning the guns.",
-        "translation": "两条鱼在鱼缸里……一条在开车，另一条在操作炮台。"
+        "translation": "两条鱼在鱼缸里……一条在开，另一条在操纵炮塔。"
     },
     {
         "ID": 198,
         "joke": "Steve wrote home. 'I'm glad you named me  Steve' he said in the letter. 'Why?' asked his mother in her reply. 'Because that's what all the kids at camp call me' he wrote  back.",
-        "translation": "史蒂夫给家里写了封信：“我很高兴你给我取名史蒂夫。”他在信中这样写道。母亲在回信中问道：“为什么呢？”史蒂夫回信说：“因为夏令营里的孩子们都叫我史蒂夫。”"
+        "translation": "史蒂夫给家里写了封信。他在信中写道：“我很高兴你给我取名史蒂夫。”他妈妈在回信中问道：“为什么呢？”史蒂夫回信说：“因为夏令营里的孩子们都叫我史蒂夫。”"
     },
     {
         "ID": 199,
         "joke": "Whilst at college I did experiment with marijuana. I did it in snow, I did it in sleet, but I did not in hail. ^-- ^Ed ^Byrne",
-        "translation": "我在上大学的时候曾经尝试过大麻。我在雪地里试过，我在冻雨里试过，但没在冰雹里试过。^-- ^埃德^伯恩"
+        "translation": "我在上大学的时候曾经尝试过大麻。我在雪中试过，我在冻雨中试过，但没在冰雹中试过。^-- ^埃德^伯恩"
     },
     {
         "ID": 200,
         "joke": "I paid 10.50 for a movie ticket to watch Tom Cruise die continuously for 2 hours. I would have paid a hundred dollars to watch that.",
-        "translation": "我花了10.5元买票去看汤姆·克鲁斯连续两个小时死掉。我愿意付一百美元看他死个不停。"
+        "translation": "我花10.5元买票看汤姆·克鲁斯连续两个小时死掉。我愿意付一百美元来看他死个不停。"
     },
     {
         "ID": 201,
         "joke": "A Spanish magician announced that for his final trick, he would vanish into thin air. He counted down: uno, dos, then POOF! He was gone, without a tres.",
-        "translation": "一位西班牙魔术师宣布他的最后一个魔术是消失在空气中。他数数倒计时：uno、dos，然后POOF！他消失了，连“tres”都没有。"
+        "translation": "一位西班牙魔术师宣布他的最后一个魔术是消失在空气中。他数到倒数：uno、dos，然后POOF！他直接消失不见了，连“tres”都没有说完。"
     },
     {
         "ID": 202,
         "joke": "Is that mine? I was walking down the street when I saw black guy with a laptop. Is that mine? I thought. It looks exactly like mine... but that can't be... Mine should be at home cleaning my shoes.",
-        "translation": "那个是我的吗？我正在街上走着，突然看到一个黑人拿着一台笔记本电脑。那个是我的吗？我想，它看起来和我的一模一样……但这不可能……我的应该在家里帮我擦鞋呢。"
+        "translation": "那是我的吗？我正在街上走着，看到一个黑人拿着一台笔记本电脑。那是我的吗？我想，它看起来和我的一模一样……但这不可能……我的应该是在家里帮我擦鞋的。"
     },
     {
         "ID": 203,
         "joke": "A Bug's Mind What's the last thing that goes through a bug's mind when he crashes into a windshield? His asshole.",
-        "translation": "一只虫子的最后思考当它撞上挡风玻璃的时候，它最后一 thoughts 是什么？ 就是它的“屁股”。（注：此段子的双关意义在中文中很难直接体现，直译会失去原有的幽默效果。）"
+        "translation": "一只虫子的最后想法当它撞到挡风玻璃上的时候会是什么呢？是它的“屁屁”。"
     },
     {
         "ID": 204,
         "joke": "My mom recently bought a Jesus shaped flashlight When I asked her why she said: So whenever someone says \"I can't see\" I can be like \"here, let Jesus light the path\"",
-        "translation": "我妈妈最近买了一个耶稣形状的 flashlight。当我问她为什么买的时候，她说：每当有人抱怨看不清的时候，就可以拿耶稣来照亮他们的路。"
+        "translation": "我妈妈最近买了一个耶稣形状的 flashlight。当我问她为什么买的时候，她说：每当有人抱怨看不见的时候，我就可以把耶稣拿出来照亮他们的路。"
     },
     {
         "ID": 205,
         "joke": "Why is my Chinese girlfriend so bitchy? Well it's true, you are what you eat.",
-        "translation": "为什么我的中国女朋友那么泼辣？这是因为你吃的东西就是你成为的样子。"
+        "translation": "为什么我的中国女朋友那么泼辣？嗯，这也是真的，你吃的东西就是你变成的样子。"
     },
     {
         "ID": 206,
         "joke": "The hotel we stayed in for our holiday offered bed and board but it was impossible to say which was the bed and which was the board.",
-        "translation": "我们住的酒店在假期里提供床和板，但很难分清什么是床，什么是板。"
+        "translation": "我们住的那家酒店提供的床和板子让人难以区分是床还是板子。"
     },
     {
         "ID": 207,
         "joke": "My new cooking show, \"Will Sasso Cooks With His Exposed Dick Really Close to the Food\" premieres tonight (8/7 Central) in my mind. Be there!",
-        "translation": "我的新烹饪秀《Will Sasso 用暴露的鸡巴近距离接触食物》今晚（中部时间8/7）就要首播了，这都是在我脑子里。你们来了没？"
+        "translation": "我的新烹饪秀《威尔·萨索用他的暴露的鸡巴近距离接触食物Really Close to the Food》今晚（中部时间8/7）就要首播了（在脑海中）。来了来了！"
+    },
+    {
+        "ID": 208,
+        "joke": "*nose hairs growing out of control *buys tiny scissors *jam them in the eyes of whoever I catch staring at my nose hairs",
+        "translation": "*鼻毛疯长*买了一把小剪刀*逮到谁看我的鼻毛就给谁眼睛里夹一根"
+    },
+    {
+        "ID": 209,
+        "joke": "I'm trying to write a poem for my girlfriend, does anyone know what rhymes with threesome?",
+        "translation": "我正在写一首诗给我的女朋友，有人知道“三人行”和什么押韵吗？"
+    },
+    {
+        "ID": 210,
+        "joke": "Pro tip: If a woman asks you how she looks, the correct answer is not \"like Dan Aykroyd.\"",
+        "translation": "提示：如果一个女人问你她长得怎么样，正确的回答可不是“像丹·艾克罗伊德”。"
+    },
+    {
+        "ID": 211,
+        "joke": "I complained to my wife that I was short staffed at work She responded \"yeah, and you have the same problem at home\"",
+        "translation": "我向我妻子抱怨说我在工作上人手不足。她回答说：“是啊，而且你在家里的状况也一样。”"
+    },
+    {
+        "ID": 212,
+        "joke": "I overheard two female coworkers say there was a creepy dude listening to their conversation.",
+        "translation": "我听到两个女同事说有一个 creep 坑人 在偷听她们的谈话。"
+    },
+    {
+        "ID": 213,
+        "joke": "What's black and white and red all over and can't get through a revolving door? A nun with a spear through her head.",
+        "translation": "什么是黑白色满身还穿着红缨枪过不了旋转门的？是一个头顶插着长矛的修女。"
+    },
+    {
+        "ID": 214,
+        "joke": "What did the Marine Biologist say when he saw two eels making love? \"It's a Moray.\"",
+        "translation": "海洋生物学家看到两条鳗鱼在做爱时，他说了什么？“这就是一种Moray（更多的gay）。”"
+    },
+    {
+        "ID": 215,
+        "joke": "I submitted 10 of my best puns to a Joke competition expecting at least 1 to win, but... No pun in ten did..",
+        "translation": "我提交了我最好的10个双关笑话参加了一个笑话比赛，本以为至少能让一个捧个奖杯回来，但……十個雙關語一個獎也没捞到。"
+    },
+    {
+        "ID": 216,
+        "joke": "Shoutout to people who don't know what the opposite of in is. I'll give you some time for this one.",
+        "translation": "来给那些不知道“在”相反词的人一个掌声。你们有时间思考一下这个。Note: The provided English joke is somewhat abstract and relies on wordplay that may not translate directly. The translation provided aims to capture the spirit of the joke while making it understandable in Chinese. A more literal translation might be:喊出来吧，那些不知道“在”的反义词是什么的人。给你们一点时间思考这个。"
+    },
+    {
+        "ID": 217,
+        "joke": "ME: all the King's horses and men couldn't put u back together HUMPTY DUMPTY: what now M: [opening package of bacon] I'll think of something",
+        "translation": "我：所有的王宫马夫和卫士都无法把你拼回去。Humpty Dumpty：现在该怎么办？我：（打开一包培根）我再想想。"
+    },
+    {
+        "ID": 218,
+        "joke": "How many Alzheimer's patients does it take to screw on a light bulb? TO GET TO THE OTHER SIDE!",
+        "translation": "多少患有阿尔茨海默病的人才能拧上一个灯泡？是为了“去到另一边”！"
+    },
+    {
+        "ID": 219,
+        "joke": "If chopsticks were really better than a fork... ...wouldn't we be digging ditches with pool cues?",
+        "translation": "如果筷子真的比叉子好用……我们挖沟的时候不就用Pool Cue（Pool Cue外形类似长筷）来挖了吗？"
+    },
+    {
+        "ID": 220,
+        "joke": "First woman on the moon W: Houston, we have a problem H: What is it? W: Nevermind its nothing H: What is the problem? W: Nothing... H: Tell us what the problem is! W: NO!",
+        "translation": "第一位登月的女性：休斯敦，我们遇到一个问题了。休斯敦：什么问题？第一位登月的女性：别管它，没什么。休斯敦：到底什么问题？第一位登月的女性：没什么……休斯敦：你必须告诉我们到底什么问题！第一位登月的女性：不！（NO!）"
+    },
+    {
+        "ID": 221,
+        "joke": "Thank god I have the newest, fastest iPhone so I can mindlessly check the same three apps 500 times a day.",
+        "translation": "感谢老天让我有最新最快的iPhone，这样我就可以一天不落地疯狂检查那同一个三款应用程序了。"
+    },
+    {
+        "ID": 222,
+        "joke": "Jared Fogle was guilty and got 16 years He was just grateful for anything under 18. Credit to SNL that joke might have converted me to watch.",
+        "translation": "杰拉德·福格被判有罪，判了16年，他都觉得自己已经很幸运了，只要不是18年他就满意了。得亏《周六夜现场》那个段子，可能让我改变了看法，决定去看一下这个节目了。"
+    },
+    {
+        "ID": 223,
+        "joke": "This hating of people who breast feed in public places has to stop! I'll raise my dog however I like.",
+        "translation": "公共场所里母乳喂养真的应该被接受了！我养狗完全随我自己的喜好！"
+    },
+    {
+        "ID": 224,
+        "joke": "A woman's JJ sized breasts saved her life in a car accident. Those same breasts were the cause of her husbands death in a motorboating accident.",
+        "translation": "这位女士的胸部在一次车祸中救了她一命，可是在另一次摩托艇事故中，她的胸部却导致了她丈夫的死亡。"
+    },
+    {
+        "ID": 225,
+        "joke": "Recent studies show that 1 out of 3 Americans weigh as much as the other 2 put together.",
+        "translation": "最近的研究显示，美国有三分之一的人口体重加起来和其他两个人口的体重是一样的。"
+    },
+    {
+        "ID": 226,
+        "joke": "[date gets back from the bathroom] those batman toys in the tub are so cute! How old are your kids? \"kids?\"",
+        "translation": "[约会对象从洗手间回来] 浴缸里的蝙蝠侠玩具好可爱啊！你家孩子多大了？“孩子们？”"
+    },
+    {
+        "ID": 227,
+        "joke": "I just Googled 'Nicolas Cage jokes' and it showed me a list of every film he's been in. Well played, Google.",
+        "translation": "我刚刚在谷歌上搜索“尼古拉斯·凯奇的笑话”，结果看到了他参演的每部电影列表。谷歌真是玩得漂亮。"
+    },
+    {
+        "ID": 228,
+        "joke": "I've been listening to the official workout station on Pandora for 3 months and I'm still fat, I'm calling bullshit.",
+        "translation": "我听了 Pandora 上的官方健身电台三个月了，还是那么胖，我算是服了。"
+    },
+    {
+        "ID": 229,
+        "joke": "I was going to break up a fight between two Rabbis... But they were just arguing semitics.",
+        "translation": "我本来要去劝架，结果发现那两个拉比争论的只是语系学。"
+    },
+    {
+        "ID": 230,
+        "joke": "Pavlov's doorbell One tuesday afternoon Ivan Pavlov is reading the paper, when his neighbour rings the doorbell. Ivan jumps up out of his chair, suddenly remembering: \"Shit, I need to feed the dogs!\"",
+        "translation": "帕罗夫的门铃 有一天下午， Ivan Pavlov 正在看报纸，这时他的邻居按了门铃。Ivan 突然从椅子上跳了起来，恍然大悟道：“该喂狗了！”"
+    },
+    {
+        "ID": 231,
+        "joke": "What did one tampon say to the other tampon? Nothing they were both stuck up cunts.",
+        "translation": "一个卫生棉条对另一个卫生棉条说了什么？它们俩都卡着呢，不用说了，都是该死的阴道塞子。"
+    },
+    {
+        "ID": 232,
+        "joke": "HER: You look so nervous. ME: *nervously* HA. I'm never nervous. HER: You're sweating. ME: *just freaking out* That's bravery moisture.",
+        "translation": "女生：你看起来好紧张啊。男生：（紧张地）哈，我从不紧张。女生：你都在冒汗了。男生：（更加紧张）咳，那叫勇敢的汗水。"
+    },
+    {
+        "ID": 233,
+        "joke": "When I was 8 years old, my dad got me with the worst dad joke ever. He said he was going to the store and would be back soon...",
+        "translation": "当我8岁的时候，我爸爸给我讲了有史以来最糟糕的dad joke。他说他要去商店，很快就回来……...然后我说：“爸爸，你去了商店之后还会回来吗？”......然后我说：“爸爸，去了商店之后你还回来吗？”"
+    },
+    {
+        "ID": 234,
+        "joke": "Do you hate yourself? Do you wish someone would trip you down stairs? Do you enjoy lacerations & and surprise vomit piles? *hands you a cat*",
+        "translation": "你恨自己吗？你想有人把你推下楼梯吗？你喜欢自残和惊喜的呕吐物吗？*递给你一只猫*"
+    },
+    {
+        "ID": 235,
+        "joke": "I found where my mom hid the scissors, so everyone in my house woke up with a new haircut this morning.",
+        "translation": "我找到了我妈妈藏剪刀的地方，所以家里所有人都早上醒来之后有了新发型。"
+    },
+    {
+        "ID": 236,
+        "joke": "What is the best thing about twenty six year olds? There are twenty of them",
+        "translation": "二十六岁的最佳之处是什么？他们一共有二十岁。"
+    },
+    {
+        "ID": 237,
+        "joke": "Why was there semen on the clean laundry? When Greg woke up, his mom had left a note reading, \"Please put a load in the washer\"",
+        "translation": "为什么干净的洗衣物上会有精液？当格雷格醒来时，他妈妈留了一张纸条给他，上面写着：“请把一-load-衣服放进洗衣机。”"
+    },
+    {
+        "ID": 238,
+        "joke": "I once was bored so I decided to eat a clock to *pass the time*. It was very *time consuming*. Yuk yuk yuk yuk yuk",
+        "translation": "我曾经无聊的时候决定吃一个钟表来打发时间，结果这非常耗时。咳咳咳咳咳。"
+    },
+    {
+        "ID": 239,
+        "joke": "Have you ever seen those \"Give a penny, take a penny\" things at convenience stores??? that makes no cents",
+        "translation": "你见过那些便利店里的“给一便士，拿一便士”的小摊吗??? 这一点都没有道理（makes no cents/pence）。"
+    },
+    {
+        "ID": 240,
+        "joke": "Me: .... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: .... Dog: ... Me: ... Dog: ... Me: ... Dog: have the shrooms kicked-in yet? Me: ..",
+        "translation": "我：……狗：……我：……狗：……我：……狗：……我：……狗：……我：你吃蘑菇吃够了没？警察进来踢门了你都听不见？"
+    },
+    {
+        "ID": 241,
+        "joke": "I bet if I were a MAN Apple wouldn't tell me my password ideas are weak.",
+        "translation": "我打赌如果我是男的，苹果就不会说我密码想法太弱了。"
+    },
+    {
+        "ID": 242,
+        "joke": "if people really didn't want to hear smartass responses they wouldn't keep asking questions like \"do you know why i pulled you over?\"",
+        "translation": "如果人们真的不想听到_smartass_回答，他们就不会不停地问“你知道我为什么把你拦下来吗？”"
+    },
+    {
+        "ID": 243,
+        "joke": "I have this fun drinking game where you take a drink every time you'd like one because you're an adult and you can make decisions yourself.",
+        "translation": "我有一个有趣的饮酒游戏，在这个游戏里，每当你想要喝一杯酒，是因为你已经成年了，可以自己做决定，所以你就干一杯。"
+    },
+    {
+        "ID": 244,
+        "joke": "I'm sorry, Black Lives Matter is actually a peaceful and forward thinking movement that our society needs... Now if you could all stop sending me death threats on twitter that would be great.",
+        "translation": "抱歉，黑人的命也是命其实是一个和平且前瞻的运动，是我们社会所需要的……所以，如果你们能停止在我Twitter上发死亡威胁就太好了。"
+    },
+    {
+        "ID": 245,
+        "joke": "My girlfriend left me after I broke her wheelchair..... Oh,, I think she'll come crawling back soon..",
+        "translation": "我的女朋友因为我在她轮椅上使了力而离开我了……哦，我想她很快就会“爬”着回来了。"
+    },
+    {
+        "ID": 246,
+        "joke": "Someone should invent a version of Twitter for people who spell things like rappers. They could call it \"twita\". Dat would b nize",
+        "translation": "有人应该发明一个类似于推特的平台，专门给那些像拼写rapper这样的名字时犯错的人用。他们可以叫它“twita”。这样挺有趣的。"
+    },
+    {
+        "ID": 247,
+        "joke": "NSFW Men are like a deck of cards... You need a heart to love him, a diamond to marry him, a club to smash his fucking face in and a spade to bury the bastard!",
+        "translation": "请注意，下面的翻译包含不适宜的内容。 NSFW 男人就像一整副牌……你需要一颗红心来爱他，一颗方片来嫁给他，一颗黑桃来砸碎他的狗屁脸，然后用一张*spade* 来埋掉这个王八蛋！"
+    },
+    {
+        "ID": 248,
+        "joke": "THE HORROR! *splat THE TRAGEDY! *splat IT'S AWFUL! *splat SO MUCH BLOOD! *splat WHY IS THIS HAPPENING?! *splat -It's raining men.",
+        "translation": "THE HORROR! *啪 THE TRAGEDY! *啪 IT'S AWFUL! *啪 SO MUCH BLOOD! *啪 为什么事情会这样?! *啪 ——竟然下起了男人雨。"
+    },
+    {
+        "ID": 249,
+        "joke": "Guy comes home with a flower bouquet... \"Guess I'll have to spread my legs now\", says the wife. \"Why? Don't you have a vase?\" the husband replies.",
+        "translation": "男人买了一束花回家……妻子说：“那我得把腿张开了。”丈夫问：“为什么？花不是应该插在花瓶里吗？”"
+    },
+    {
+        "ID": 250,
+        "joke": "Two rabbits were being chased by a pack of wild dogs... One says to the other \"should we stop and outnumber them?\" ... &amp;nbsp; \"keep running you fool we're brothers!!\"",
+        "translation": "两只兔子正被一群野狗追着……一只兔子对另一只兔子说：“我们应该停下来以数量优势和他们抗衡吗？”另一只兔子回答说：“别傻了，快跑，我们是兄弟！”"
+    },
+    {
+        "ID": 251,
+        "joke": "No one is more unnecessarily confident than a white person that just ordered Mexican food in a Spanish accent.",
+        "translation": "没有人像刚用西班牙语下单点墨西哥食物的白人那样自信满满，完全是多此一举。"
+    },
+    {
+        "ID": 252,
+        "joke": "What do you call it when two designers argue about what file type to export a graphic to? Getting into a bit of a .tiff!",
+        "translation": "两个设计师争论要把图形导出为什么种文件格式时，这叫发生了点 .tiff 的争执！"
+    },
+    {
+        "ID": 253,
+        "joke": "A doctor reaches into his pocket and finds his rectal thermometer He says \"Shit, some asshole took my pen!\"",
+        "translation": "医生伸手进兜里，摸出了一个直肠温度计，然后他说：“该死的，有人把我的钢笔拿走了！”"
+    },
+    {
+        "ID": 254,
+        "joke": "how many people does it take to save the world? zero (compliments to my SO who thinks she made this up)",
+        "translation": "拯救世界需要多少人？零（致敬我的SO，她认为这个笑话是自己想出来的）"
+    },
+    {
+        "ID": 255,
+        "joke": "Finally got around to shaving my crotch after a few years. Its nice to see my knees again.",
+        "translation": "终于有时间把那里的毛剃掉了，过了几年终于又看到了我的膝盖，感觉挺好的。"
+    },
+    {
+        "ID": 256,
+        "joke": "I'm ready for the cop-buddy film where they actually get along in the beginning but hate each other by the end.",
+        "translation": "我准备好要看那种警探 buddy 电影了，一开始他们还相处得不错，结果到后来却互相看不顺眼。"
+    },
+    {
+        "ID": 257,
+        "joke": "How many people does it take to change a light bulb in Brazil? A Brazillion!!! http://imgur.com/c4CJjUd",
+        "translation": "巴西换灯泡需要多少人？一打（ Brazillion ）人！！！[](http://imgur.com/c4CJjUd)"
+    },
+    {
+        "ID": 258,
+        "joke": "If two people had a race and one had sand in his shoe but the other did not, who would win? The one with sand in his shoe -- if it was quicksand.",
+        "translation": "如果两个人进行比赛，一个鞋子里有沙子，一个没有，谁会赢？鞋子里有沙子的那个人——如果那是流沙的话。"
+    },
+    {
+        "ID": 259,
+        "joke": "I know dream catchers don't work because I've never seen one in a car worth more than two thousand dollars.",
+        "translation": "我知道梦捕手根本不管用，因为从来没见过价值超过两 thousand 美元的车里装着梦捕手。"
+    },
+    {
+        "ID": 260,
+        "joke": "At my last checkup the doctor said he needed a urine sample, a semen sample and a stool sample ... ... I said \" Doc, I can speed this along - I'll just leave you my underwear !\"",
+        "translation": "在我上次的体检时，医生说他需要尿样、精液样和粪便样……我回答说：“医生，我可以加快这个过程——我直接把内裤留给你吧！”"
+    },
+    {
+        "ID": 261,
+        "joke": "[pulls out acoustic guitar at a funeral] alright everyone stop being all [finger quotes] sad this next 1 is dedicated to a very sexy widow.",
+        "translation": "[在葬礼上拉出一把 acoustic 吉他] 好了，大家停下来不要这么 [比划引号] 伤心了。接下来这个是我献给一位非常有魅力的寡妇的。"
+    },
+    {
+        "ID": 262,
+        "joke": "If there are three gay guys in a bath and a lump of cum floats to the surface, what do they say? Who farted?",
+        "translation": "如果有三个gay男的在洗澡，然后精液漂到了水面上，他们三个会说什么？放屁了啊？"
+    },
+    {
+        "ID": 263,
+        "joke": "Why the gills in the sea don't drink tea even though there is plenty of water That will make them all guill tea!",
+        "translation": "为什么海水里的鳃不喝水，尽管水多得是，那样它们都会变成“ Guill 茶”！"
+    },
+    {
+        "ID": 264,
+        "joke": "Taking calculus has made me want to become Prime Minister of a European country Then I can just throw money at problems instead of trying to integrate them.",
+        "translation": "学习微积分让我想成为某个欧洲国家的总理。这样我就可以把钱扔向问题，而不是试着把它们积分起来。"
+    },
+    {
+        "ID": 265,
+        "joke": "My friend used my todo list to roll a blunt He's high on my list of priorities",
+        "translation": "我的朋友用我的待办事项列表卷了一支烟他在我优先级列表上的位置很高（注：这里的“高”既指毒品使用后的状态，也指优先级高，制造了幽默感）"
+    },
+    {
+        "ID": 266,
+        "joke": "From now on when skinny girls say they're fat I'm just gonna be like, \"Yup\" & walk away.",
+        "translation": "从现在开始，当瘦女孩说她们胖的时候，我就只是回应“嗯哼”，然后走开。"
+    },
+    {
+        "ID": 267,
+        "joke": "What did the homeless person say to the gay job interviewer when asked for his address? No home-o.",
+        "translation": "面试官问无家可归的人要地址，他说：没有家-o。"
+    },
+    {
+        "ID": 268,
+        "joke": "How many people with dementia does it take to change a lightbulb? To get to the other side.",
+        "translation": "多少有认知障碍的人换一个灯泡？去到另一边。"
+    },
+    {
+        "ID": 269,
+        "joke": "butts are truly the final frontier. to think we know more about SPACE than we do about the human butt. two fleshy mounds of mystery & wonder",
+        "translation": "屁屁真是最后的处女地。想想看，我们对太空的了解比对人类屁屁的了解还要多。两坨神秘而奇妙的肉包"
+    },
+    {
+        "ID": 270,
+        "joke": "I keep getting the urge to purchase a big white bear from the artic... ...Doc says I might have \"Buy Polar\" disorder! EDIT: arctic*",
+        "translation": "我老是想买一只大白熊从北极……医生说这可能是“Buy Polar”障碍症！（注：Polar在中文中有北极和极地的意思，这里利用了双关）"
+    },
+    {
+        "ID": 271,
+        "joke": "How do you get a gay man to fuck a woman? Shit in her cunt.",
+        "translation": "很不恰当且带有歧视性的表达方式如下：怎么让一个同性恋男人去和女人发生性关系？把屎拉在她的阴道里。（请注意，这种说法极其不尊重，并且带有强烈的歧视性，建议避免使用此类语言。）"
+    },
+    {
+        "ID": 272,
+        "joke": "I want to start a coffee shop that only plays ambient/electronic music... and call it Brian Beano.",
+        "translation": "我想开一家咖啡馆，只播放环境电子音乐……而且叫“Brain Beano”。"
+    },
+    {
+        "ID": 273,
+        "joke": "I like my girlfriend's new glow-in-the-dark braces... ...her smile really lights up the room now.",
+        "translation": "我喜欢我女朋友的新荧光牙套……现在她的微笑真的能让整个房间亮起来。"
+    },
+    {
+        "ID": 274,
+        "joke": "Mom writes to her son in Poland's army: \"Dear Son, I am writing this letter ever so slowly..... ....because I know you cannot read fast\"",
+        "translation": "妈妈写信给在波兰军队服役的儿子：“亲爱的 son，我正在慢慢地写这封信……因为我知道你不能快读。”"
+    },
+    {
+        "ID": 275,
+        "joke": "Did you hear about the calendar thief? He got 12 months; they say his days are numbered!",
+        "translation": "据说那个日历小偷的日子也所剩不多了！但他实际上得到了12个月的刑期！"
+    },
+    {
+        "ID": 276,
+        "joke": "I hate how the losers of every election maintain such a high view of themselves... They're conceded",
+        "translation": "我讨厌每场选举失败者对自己的高估……他们就是认输了。"
+    },
+    {
+        "ID": 277,
+        "joke": "I didn't see mommy kiss Santa, but my sister saw her kiss the mailman, which explains why I'm the only one with brown eyes in the family",
+        "translation": "我没有看到妈妈亲圣诞老人，但我妹妹看到妈妈亲了邮差，这就解释了为什么我们家只有我的眼睛是棕色的。"
+    },
+    {
+        "ID": 278,
+        "joke": "Why did the vampire attack the clown? He wanted the circus to be in his blood.",
+        "translation": "为什么吸血鬼要攻击小丑？因为他想让马戏团成为他的血液的一部分。"
+    },
+    {
+        "ID": 279,
+        "joke": "How do I know when your sister's on her period..... Your dad's dick taste like blood",
+        "translation": "你知道你妹妹来月经了是怎么知道的……你爸爸的丁丁尝起来像血一样。"
+    },
+    {
+        "ID": 280,
+        "joke": "What do you call going Doctor to Doctor... What do you call going Doctor to Doctor to figure out what your inflammatory bowel disease is called? A Game of Crohn's.",
+        "translation": "你叫医生医生的，是在诊断炎症性肠病之前还是之后？你叫医生医生的，是为了搞清楚你的炎症性肠病叫什么名字？这就叫《权力的游戏·克罗恩篇》。"
+    },
+    {
+        "ID": 281,
+        "joke": "What's the difference between a pizza and a black man? The pizza can feed a family of 4.",
+        "translation": "这种类型的笑话是不恰当且带有种族偏见的，将其翻译过来不仅不能改变其性质，还会继续传播负面和有害的观点。一个不恰当的翻译版本可以是：比萨和黑人有什么区别？比萨可以养活4口之家。但请注意，这样的翻译仍然保留了原笑话中的种族刻板印象和不恰当之处。最好的做法是避免翻译和传播这类带有偏见的笑话。"
+    },
+    {
+        "ID": 282,
+        "joke": "If you hear the words \"oh yeah, suck it\" coming from my bedroom, it's probably just me vacuuming.",
+        "translation": "如果你听到“哦yeah，吸它（suck it）”的声音来自我的卧室，那很可能只是我在吸尘。"
+    },
+    {
+        "ID": 283,
+        "joke": "A photon walks into a hotel The bell boy walks up and asks, \"Do you have any luggage?\". \"No,\" says the photon, \"I'm traveling light.\"",
+        "translation": "一个光子走进了旅馆，门童走过来问：“你有行李吗？”光子回答说：“没有，我是在轻量化出行。”"
+    },
+    {
+        "ID": 284,
+        "joke": "People always complain that I'm \"out there.\" [On the phone. To the cops. While I'm sitting in their birdbath.]",
+        "translation": "人们总是抱怨我说得“太多了”。[在打电话。去找警察。而我正坐在他们的浴鸟器里。]"
+    },
+    {
+        "ID": 285,
+        "joke": "*job interview* Why do you want to be a psychiatrist? *pictures clients acting like chickens after I click my fingers* I want to help people",
+        "translation": "*求职面试* 你为什么想成为一名精神科医生？*我在拍手指之后，看到客户们像鸡一样扑腾* 我想帮助人们。"
+    },
+    {
+        "ID": 286,
+        "joke": "\"911, what's your emergency?\" Me: A cute guy at the laundromat walked past me while I was folding my period underwear.",
+        "translation": "“911，你这是遇到什么紧急情况了？”我：“我在洗衣房叠我换洗的内裤，结果旁边有个帅小伙从我旁边走过。”"
+    },
+    {
+        "ID": 287,
+        "joke": "Dog's Facebook status: Tried to save the master from the vacuum cleaner today... He just yelled at me.",
+        "translation": "狗的Facebook状态：今天尝试救主人免受吸尘器的伤害……主人却冲我大喊大叫。"
+    },
+    {
+        "ID": 288,
+        "joke": "What is the term for a group of Canadians? Is it \"an apology\"? \"Oh look, there goes an apology of Canadians\"",
+        "translation": "什么是加拿大的一群叫什么？是一群“道歉”吗？“看，那儿走来一群道歉的加拿大人。”"
+    },
+    {
+        "ID": 289,
+        "joke": "Trump wants to appoint Ben Carson to the Department of Education, but I think he would do better in the FDA He can feed everyone with all of the grain in those pyramids.",
+        "translation": "特朗普想让本·卡森担任教育部部长，但我认为他更适合FDA。他可以利用那些金字塔里的谷物喂饱所有人。"
+    },
+    {
+        "ID": 290,
+        "joke": "Putting a woman on a $10 makes sense . . . . . . no one really wants a 1 or a 5. (As heard on Wait, Wait, Don't Tell Me)",
+        "translation": "把女性放在10美元上很有道理……没有人真的想要1美元或者5美元。（来自《等等，别告诉我》）"
+    },
+    {
+        "ID": 291,
+        "joke": "I always check my smoke alarms to make sure they're working. I call it \"cooking\"",
+        "translation": "我总是检查烟雾报警器确保它们正常工作。我这就叫“烹饪”。"
+    },
+    {
+        "ID": 292,
+        "joke": "[wife looking at pictures of my dead body with police] \"why isn't he wearing a shirt\" we believe he removed it when he challenged the coyote",
+        "translation": "[警察指着我死掉的照片给我妻子看] \"他为什么没穿衬衫？\" 我们认为他在挑战 Coyote 时把它脱掉了。"
+    },
+    {
+        "ID": 293,
+        "joke": "I just found out I am a hipster Because I started using #NotMyPresident 8 years ago.",
+        "translation": "我发现自己是个潮人，因为我早在8年前就开始使用#NotMyPresident这个标签了。"
+    },
+    {
+        "ID": 294,
+        "joke": "What's the difference between a computer and a woman? A computer only has to have information punched into it once.",
+        "translation": "计算机和女人有什么区别？计算机只需要把信息输入一次。"
+    },
+    {
+        "ID": 295,
+        "joke": "How to meet a girl: 1) Walk into a bar. 2) Shout \"Heroes in a half shell.\" 3) When a girl yells back \"Turtle Power,\" marry her.",
+        "translation": "如何遇到女孩：1）走进一家酒吧。2）大喊一声“半壳英雄。”3）当有女孩回应“乌龟力量”，就娶了她。"
+    },
+    {
+        "ID": 296,
+        "joke": "What's the sharpest thing in the word? A fart. It goes right through your pants and doesn't leave a hole.",
+        "translation": "世界上什么是最锋利的东西？是一股风。它能穿过你的裤子，却不会留下洞。"
+    },
+    {
+        "ID": 297,
+        "joke": "*calls into work* \"yo boss i'm real sick\" \"you don't sound sick...\" \"ya, just got a new tribal tat & heelys\" \"wow u do sound hella sick\"",
+        "translation": "*给老板打电话请假*：\"嘿，老板，我 really 很不舒服。\" \"你听起来不像是生病了...\" \"是的，刚纹了个新的部落纹身，还有heelies（轮滑鞋）呢。\" \"wow，你的状况真的好严重啊。\""
+    },
+    {
+        "ID": 298,
+        "joke": "I'm not saying that girl's a slut... But she has touched more wieners than Heinz ketchup.",
+        "translation": "我不是说那个女孩是个荡妇……但是她摸过的香肠比Heinz的番茄酱还要多。"
+    },
+    {
+        "ID": 299,
+        "joke": "how are a silver medalist and a priest alike They both came in a little behind",
+        "translation": "银牌得主和牧师有什么相似之处？他们都在金牌得主之后略落后了一点。"
+    },
+    {
+        "ID": 300,
+        "joke": "Saw a homeless guy babbling about conspiracy theories that doesn't really make sense... You could say it was a vague rant.",
+        "translation": "看到一个无家可归的人在念叨一些毫无意义的阴谋理论……你可以称之为一团模糊的胡言乱语。"
+    },
+    {
+        "ID": 301,
+        "joke": "Blessed are those who are cracked, for they are the ones who let in the light!",
+        "translation": "blessed are those who are cracked, for they are the ones who let in the light!翻译成中文可为：那些裂开了的人是有福的，因为他们是让光线照进来的人！"
+    },
+    {
+        "ID": 302,
+        "joke": "Remember before Amazon reviews when you could just buy a toothbrush without 6 hours of research?",
+        "translation": "记得那个没有亚马逊评价的时代，你买牙刷根本不用花上6个小时来做研究？"
+    },
+    {
+        "ID": 303,
+        "joke": "Don't judge me because I like 80's music. Judge me because I had a late term abortion because a baby would ruin my holiday plans.",
+        "translation": "不要因为我喜欢八十年代的音乐就批评我。批评我因为我在怀孕晚期做了人工流产，因为我以为孩子会破坏我的假期计划。"
+    },
+    {
+        "ID": 304,
+        "joke": "When someone uses the bathroom and asks about the wine cork floating in the toilet is why I don't invite people to my house.",
+        "translation": "当有人使用洗手间然后问我马桶里为什么漂着一个酒塞时，这就是我为什么不去请人来家里做客的原因。"
+    },
+    {
+        "ID": 305,
+        "joke": "An infectious disease enters a bar... the bartender says,\"we dont serve your kind here\". The disease replies, \"well you're not a very good host!\"",
+        "translation": "一个传染性疾病走进了一家酒吧……酒馆老板说：“这里不招待像你这样的客人。” 疾病回答说：“那你也不怎么样的主人！”"
+    },
+    {
+        "ID": 306,
+        "joke": "If four out of five people suffer from radiation poisoning... Does that mean the fifth one enjoys it?",
+        "translation": "如果五个人中有四个人遭受辐射中毒……那么第五个人是不是喜欢这样？"
+    },
+    {
+        "ID": 307,
+        "joke": "Having the option to erase and re-record after having to leave a voicemail is one of my favorite things about life.",
+        "translation": "能够在留语音邮件时有机会重录而不是直接删除，这是我生活中最喜欢的功能之一。"
+    },
+    {
+        "ID": 308,
+        "joke": "Well it's like my dad always told me \"When life gives ya lemons\" Chances are you're in the fruit aisle.",
+        "translation": "就像我爸爸总是告诉我的，“生活给你柠檬的时候” 意思是你大概在水果区。"
+    },
+    {
+        "ID": 309,
+        "joke": "I just saw the Assassins Creed Movie Trailer... I did not expect The Spanish Inquisition.",
+        "translation": "我刚刚看了《刺客信条》的预告片……我没想到会来个西班牙宗教裁判所。"
+    },
+    {
+        "ID": 310,
+        "joke": "Why do Canadians do it doggy style? So they can both watch the hockey game.",
+        "translation": "为什么加拿大人喜欢狗儿式？这样他们既能观看冰球比赛。"
+    },
+    {
+        "ID": 311,
+        "joke": "Dad and son A son asks his father \"Why does my bum hurt\" while the father replies \"Because I love you son\"",
+        "translation": "爸爸和儿子  儿子问爸爸：\"为什么我的屁股疼？\"  爸爸回答说：\"因为儿子我爱着你。\""
+    },
+    {
+        "ID": 312,
+        "joke": "A programmer began to cuss Because getting to sleep was a fuss. When laying in her bed Looping round in her head Was: while (!asleep()): sheep++;",
+        "translation": "程序员开始爆粗  因为入睡对她来说很费劲  躺在床上的时候  脑海里不断循环的是  ```while (!asleep()): sheep++;```"
+    },
+    {
+        "ID": 313,
+        "joke": "I see you've got your bill for using the Internet Yes and my dad's really going to get the hump!",
+        "translation": "我看到你的网络费用账单了，你爸爸肯定会生气！"
+    },
+    {
+        "ID": 314,
+        "joke": "When do you kick a midget in the balls? When he's standing next to your girlfriend saying her hair smells nice",
+        "translation": "什么时候你可以踢侏儒的球球？当他在你女朋友旁边说她头发闻起来不错的时候。请注意，这个笑话包含不恰当和侮辱性的内容，其中涉及到对侏儒和性的不尊重。在翻译和使用时，请务必考虑到文化差异和敏感性。"
+    },
+    {
+        "ID": 315,
+        "joke": "Why don't you want your nose to be 12 inches long? because then it would be a foot!",
+        "translation": "为什么你不希望你的鼻子有12英寸长？因为那样它就成了一只脚！"
+    },
+    {
+        "ID": 316,
+        "joke": "Keep in mind that \"The Cat in the Hat\" is a lesson to your kids on how to throw a house party when you're gone...",
+        "translation": "记住，《猫和帽》其实是在教你的孩子如何在你不在的时候举办一场家庭聚会……"
+    },
+    {
+        "ID": 317,
+        "joke": "When someone tells you to \"get a Life,\" just take theirs. They'll be happy you took their advice, and you'll be happy they're dead.",
+        "translation": "当有人告诉你“去活出个样来”，你就把他们的生命给“活”出来吧。他们会觉得接受了你的建议而很高兴，而你会因为他们死了而感到高兴。"
+    },
+    {
+        "ID": 318,
+        "joke": "Day One, living in one of those tiny houses: \"Well, isn't this quaint?\" Day Two: Murder",
+        "translation": "第一天住在那种迷你房子里：“哎呀，这多有情调啊？”第二天：杀人了。"
+    },
+    {
+        "ID": 319,
+        "joke": "How to get a job... Interviewer: \"What's your biggest weakness?\" Interviewee: \"I never learn from my mistakes\" Interviewer: \"Oh, why's that?\" Interviewee: \"I never make any\"",
+        "translation": "面试技巧……面试官：你最大的弱点是什么？应聘者：我从不从错误中吸取教训。面试官：哦，为什么呢？应聘者：因为我压根不犯错误。"
+    },
+    {
+        "ID": 320,
+        "joke": "I showed my son a floppy disk today... ...he said: 'oh cool, you 3D-printed a save icon'",
+        "translation": "我今天给我儿子看一个软盘…………他说：“哦，酷，你用3D打印了一个保存图标。”"
+    },
+    {
+        "ID": 321,
+        "joke": "Difference between priest and acne? What is the difference between a Catholic priest and acne? Acne waits until puberty to come on a kid's face.",
+        "translation": "神父和青春痘的区别是什么？神父和青春痘的区别在于，青春痘是在孩子进入青春期时才出现在脸上。"
+    },
+    {
+        "ID": 322,
+        "joke": "Them: If you were stranded on a desert island with any two people, living or dead, who would they be? Me: Can they both be dead?",
+        "translation": "他们：如果你被困在荒岛上，可以选两个活着或已故的人和你在一起，你会选谁？我：他们俩都能是已故的吗？"
+    },
+    {
+        "ID": 323,
+        "joke": "T Rex isnt so scary if you imagine a bunch of baby T Rexes watching Barney just giggling and rolling around on the ground playing with keys.",
+        "translation": "如果你想象一下，一窝baby T-Rex在看着 Barney，只是咯咯笑着在地上拿着钥匙玩耍，T-Rex就没那么可怕了。"
+    },
+    {
+        "ID": 324,
+        "joke": "Since Michael Jackson's death hundreds of children have gathered at the gates of Neverland. Police have said that they will let them out once they find a locksmith. - http://ww.key-n-lock.com",
+        "translation": "自迈克尔·杰克逊去世以来，成百上千的孩子们聚集在“neverland”庄园的大门前。警方表示，只有找到锁匠才能让他们进去。——http://ww.key-n-lock.com"
+    },
+    {
+        "ID": 325,
+        "joke": "Why do gay men always have candles near their asses? So the gerbils can find their way out.",
+        "translation": "为什么同性恋男人身边总是放蜡烛？因为这样仓鼠都能找到他们的出口了。"
+    },
+    {
+        "ID": 326,
+        "joke": "What do Jesus and your mom have in common? They both got nailed all night.",
+        "translation": "耶稣和你妈妈有什么共同点？他们俩整晚都被钉住了。（这里的“被钉住”在耶稣身上指的是被钉十字架，在你妈妈身上则是一种粗俗的双关，指的是性行为）"
+    },
+    {
+        "ID": 327,
+        "joke": "How does J.G. Wentworth tell you that he's hungry? \"It's my tummy, and I feed it NOW!\"",
+        "translation": "J.G. Wentworth 怎么说他饿了？“是我的肚子，我现在就给它填饱！”"
+    },
+    {
+        "ID": 328,
+        "joke": "I can see you're upset. Maybe you should post more about it on Facebook. That should eliminate any more drama.",
+        "translation": "你看你好像很伤心。要不你就在Facebook上多发一些相关内容吧，这样就能杜绝所有 drama 了。"
+    },
+    {
+        "ID": 329,
+        "joke": "I want a girlfriend with OCD, that way whenever I want to go home I can just say \"Are you sure you checked the stove before we left?\"",
+        "translation": "我想找一个有强迫症的女朋友，这样每次我想回家就可以说“你确定我们在离开前检查过炉子没有？”"
+    },
+    {
+        "ID": 330,
+        "joke": "woke up just in time to push my cat off the bed before he threw up. today is going to be magical.",
+        "translation": "我刚醒来，及时把猫从床上推下来，以免它呕吐。今天注定是要变得神奇的。"
+    },
+    {
+        "ID": 331,
+        "joke": "Just stirred my coffee with a fork if any of you guys are looking for a new bad boy to join your crew.",
+        "translation": "如果你们在寻找一个新的“坏 boy”加入你们的团伙，刚刚用叉子搅拌了咖啡哦。"
+    },
+    {
+        "ID": 332,
+        "joke": "I was licking this girl all over her face right up until she explained to me what doggy style was.",
+        "translation": "我一直在给她整个面部接吻，直到她告诉我什么是“狗式”为止。"
+    },
+    {
+        "ID": 333,
+        "joke": "If your tweet gets stolen and posted on Facebook... It's your own fault for not making it offensive enough!",
+        "translation": "如果你的推文被偷走然后发在了Facebook上……那都是因为你自己的推文不够 offensive！"
+    },
+    {
+        "ID": 334,
+        "joke": "To all the girls that say Gentlemen don't exist anymore: They do exist but Gentlemen are attracted to Ladies. Not s?uts.  Sorry.",
+        "translation": "对所有认为绅士已经不存在的女孩们：绅士是存在的，只是绅士会被女士吸引。不是……西装。抱歉。"
+    },
+    {
+        "ID": 335,
+        "joke": "\"Sugar\" is the only word in the English language where \"su-\" makes a \"sh\" sound. At least, I'm pretty sure...",
+        "translation": "“糖”是英语中唯一一个“su-”发音为“sh”音的单词，至少我确信是这样……"
+    },
+    {
+        "ID": 336,
+        "joke": "A horse walks into the bar Several people left because they realised the possible dangers of that situation.",
+        "translation": "一匹马走进酒吧，好几个人因为意识到那种情况可能带来的危险而离开了。"
+    },
+    {
+        "ID": 337,
+        "joke": "I've decided to make an all-natural shampoo made from roots found in Africa. I'll call it Ethnic Cleansing.",
+        "translation": "我决定做一款纯天然洗发水，原料来自非洲的根茎。我就叫它“种族清洗”吧。"
+    },
+    {
+        "ID": 338,
+        "joke": "A Midget Walked Past Me On The Sidewalk Today Wearing A Shirt That Said \"I Hate Black People\" ...I thought to myself \"Well damn- thats a little racist.",
+        "translation": "今天我在人行道上看到一个侏儒穿着一件写着“我不喜欢黑人”的T恤……我心想，“天啊，这有点种族主义。”"
+    },
+    {
+        "ID": 339,
+        "joke": "Nsfw Whats the difference between a Catholic priest and a zit? The zit waits untill you're 12 to come onto your face.",
+        "translation": "这个笑话不适合大多数观众，因为它涉及贬低术语和敏感话题的下流比较。以下是该笑话的中文翻译：不适合提及 Whats 的区别 between 一个天主教神父和一个粉刺？ 粉刺会等到你12岁才出现在你的脸上。"
+    },
+    {
+        "ID": 340,
+        "joke": "True: If you don't eat a whole basket of tortilla chips before your entree arrives in a Mexican restaurant it means you don't love your mom.",
+        "translation": "真正的测试：如果你在主菜上桌之前还没吃掉一整篮玉米片，那就说明你对你妈妈不够爱。"
+    },
+    {
+        "ID": 341,
+        "joke": "A clown at the circus got tomato thrown at him from the audience, he turns and says HAY, THATS NOT FUNNY",
+        "translation": "马戏团里的小丑被观众扔了一个西红柿，他转过身说：“嘿，这不好笑！”"
+    },
+    {
+        "ID": 342,
+        "joke": "Doctors have confirmed that masturbation is life threatening Many men have died after having a stroke",
+        "translation": "医生已经证实自慰是致命的。许多男性在中风后丧生。"
+    },
+    {
+        "ID": 343,
+        "joke": "The Presidential Debate We don't know if Hillary is telling the truth, and we're hoping Trump isn't",
+        "translation": "总统辩论 我们不知道希拉里是否在说真话，但希望特朗普不是在说谎。"
+    },
+    {
+        "ID": 344,
+        "joke": "Q. How did the blonde die  ice-fishing? A. She was run over by the zambonis machine.",
+        "translation": "Q. 黄头发女士在冰钓时是怎么死的？A. 她被冰球场上的除冰车撞到了。"
+    },
+    {
+        "ID": 345,
+        "joke": "I really like those Black and White movies where no one speaks Inter racial porn.",
+        "translation": "我真的喜欢那种无声的老电影，还有 interracial porn。"
+    },
+    {
+        "ID": 346,
+        "joke": "hey girl are you my ceiling fan because i'm pretty hot but also too lazy to get up and turn you on",
+        "translation": "嘿，姑娘，你是我的天花板风扇吗？因为我有点热，但也懒得起来给你调一下。"
+    },
+    {
+        "ID": 347,
+        "joke": "Alien 1: What are the Humans doing? Alien 2: Celebrating the existence of their mothers. Alien 1: I ate my mother. Alien 2: As did I.",
+        "translation": "外星人1：人类在干什么？  外星人2：在庆祝她们母亲的存在。  外星人1：我把我的母亲吃了。  外星人2：我也吃了。"
+    },
+    {
+        "ID": 348,
+        "joke": "What Did the Upvote whore say to the Redditor? I'll suck yo dick for a Upvote",
+        "translation": "这段笑话的中文翻译会保留其原始含义，但请注意，这种内容非常不恰当和冒犯，仅供了解之用： redditor面前，这个求赞的妓女说了什么？你的帖子我可以给个赞，但得先给我搞一个。请记住，这种类型的笑话充满了贬低和不尊重，应该避免使用。"
+    },
+    {
+        "ID": 349,
+        "joke": "I'm never more ruthless than when deciding who to wish a happy birthday to on Facebook and who to ignore.",
+        "translation": "我从不比在决定给谁发生日祝福和给谁忽略这个问题上更无情，尤其是在Facebook上。"
+    },
+    {
+        "ID": 350,
+        "joke": "\"I'll be a dentist. Then they'll love me.\" \"We're terrified of dentists.\" \"I'll kill a lion!\" \"It was a beloved lion with a name.\" \"Dammit.\"",
+        "translation": "“我成为一名牙医。那样他们就会爱我了。”“人们害怕牙医。”“我来杀一头狮子！”“那是一头有名字的受人喜爱的狮子。”“该死的！”"
+    },
+    {
+        "ID": 351,
+        "joke": "Just because I'm Irish doesn't mean I am always drunk. It means I always want to be.",
+        "translation": "只是因为我是个爱尔兰人，并不意味着我总是醉酒。这意思是说，我总是希望保持这样的状态。"
+    },
+    {
+        "ID": 352,
+        "joke": "Just once I'd like to wake up as eager to start the day as my p*nis is.",
+        "translation": "我只是希望有一天能早上醒来像早晨的勃起一样充满干劲。"
+    },
+    {
+        "ID": 353,
+        "joke": "My friend asked me... My friend asked me if there was a colored printer in the library I said wtf man it's 2016 you can use whatever printer you want",
+        "translation": "我的朋友问我……我的朋友问我图书馆里有没有彩色打印机，我说喂喂，现在已经2016年了，你想用什么打印机就可以用什么打印机。"
+    },
+    {
+        "ID": 354,
+        "joke": "Subway's Jared got famous for fitting into smaller pants... ...now he is known for hoping to get into really small pants.",
+        "translation": "Subway的杰拉德因为穿上更小的裤子而出名……现在他以希望穿上非常小的裤子而闻名。"
+    },
+    {
+        "ID": 355,
+        "joke": "Kissing a sleeping woman in an animated Disney movie, romantic.....but do it on a bus and the judge doesn't agree.",
+        "translation": "在动画迪士尼电影里亲一个睡着的女性，浪漫……但在公交车上这么做，连法官都不认同。"
+    },
+    {
+        "ID": 356,
+        "joke": "What did Asian Jesus say before he was crucified? (OC) YORO (You only resurrect once)",
+        "translation": "耶稣基督在被钉十字架前会对他说了一句什么话？（OC）你只需要复活一次（YORO）。"
+    },
+    {
+        "ID": 357,
+        "joke": "You can consider yourself lucky in life, if the cognac you drink is older than the woman that you're sleeping with.",
+        "translation": "你可以觉得自己很幸运，如果你喝的 cognac 比你睡的女人还要 age 久。"
+    },
+    {
+        "ID": 358,
+        "joke": "What's the difference between a dirty bus stop and a voluptuous lobster? One's a crusty bus station and the other's a busty crustacean. :D edit: funnier when said aloud",
+        "translation": "什么是脏 bus站 和 丰满的龙虾之间的区别？一个是破旧的公交站，另一个是丰满的龙虾。：D 修改：大声说出来更有趣"
+    },
+    {
+        "ID": 359,
+        "joke": "I just got a job helping a one arm typist do capital letters... Its shift work.",
+        "translation": "我找到了一份工作，帮助一位单臂打字的人打大写字母……这是换岗工作。"
+    },
+    {
+        "ID": 360,
+        "joke": "What do you call a group of chickens dressed up like crows? A murder most fowl. (I'll see myself out...)",
+        "translation": "你叫一群穿 crow 衣服的鸡是什么？一伙最土的 fowl。（我自己出去了……）"
+    },
+    {
+        "ID": 361,
+        "joke": "Italians and Spaniards are so used to Catholic child abuse... ... That they call the Pope daddy",
+        "translation": "意大利人和西班牙人对天主教虐待儿童已经习以为常……以至于他们叫教皇“爸爸”。"
+    },
+    {
+        "ID": 362,
+        "joke": "How many software engineers does it take to change a light bulb? None. It's a hardware problem.",
+        "translation": "多少软件工程师才能换一个灯泡？不需要，那是硬件问题。"
+    },
+    {
+        "ID": 363,
+        "joke": "I love how fresh & clean my bathroom smells after I've killed a spider with a full bottle of windex",
+        "translation": "我爱我的浴室在用一整瓶威猛先生清洁剂弄死一只蜘蛛之后闻起来是多么清新和干净。"
+    },
+    {
+        "ID": 364,
+        "joke": "Guest: Why did you offer me a piece of candy? Hotel Clerk: You said you wanted the best suite in the hotel.",
+        "translation": "客人：你为什么给我一块糖？酒店前台：因为你让我给你最好的套房。"
+    },
+    {
+        "ID": 365,
+        "joke": "Daughter: Daddy, why do I have to go to bed so early? Me: Because we have had enough of you for today",
+        "translation": "女儿：爸爸，我为什么这么早就要睡觉呢？  爸爸：因为今天你已经让我们受够了。"
+    },
+    {
+        "ID": 366,
+        "joke": "Everyone in my class is arguing about science, And I'm just sitting here, maths debating.",
+        "translation": "我班上的 everyone 都在争论科学，而我在这里，不知不觉就 involved 在“ matters 讨论”中。"
+    },
+    {
+        "ID": 367,
+        "joke": "A policeman sees two boys, one with batteries, the other with fireworks He charges the first boy and lets the other off.",
+        "translation": "警察看到两个男孩，一个拿着电池，另一个拿着烟花。他把拿着电池的男孩抓走了，放走了拿着烟花的男孩。（意为：拿着电池的男孩被电到了，而拿着烟花的男孩没被逮捕）"
+    },
+    {
+        "ID": 368,
+        "joke": "My daughter asked me how much longer until she can be a grown up and I said, \"no.\"",
+        "translation": "我的女儿问我还有多久她才能算是大人，我说“不行。”"
+    },
+    {
+        "ID": 369,
+        "joke": "I saw a sausage fly by my window I must be going insane it was actually a bird. I think I've taken a Tern for the Wurst",
+        "translation": "我看见一只香肠飞过我的窗户，我可能是疯了，那其实是一只鸟。我可能是对香肠动了“鸟”心了。"
+    },
+    {
+        "ID": 370,
+        "joke": "If Kevin Bacon never said \"want some bacon with your eggs\" to a lonely chick in a bar, life just doesn't make sense anymore.",
+        "translation": "如果凯文·巴acon never 对酒吧里的一位寂寞女郎说“要来点培根配鸡蛋吗？”， life 就变得毫无意义了。"
+    },
+    {
+        "ID": 371,
+        "joke": "\"Hey, wanna hangout?\" \"Later.\" \"Now?\" \"No, later\" \"How about now?\" \"Jesus christ.\" -if Adobe Updater was your friend",
+        "translation": "嘿，想一起挂个机吗？ \"稍后。\" \"现在？\" \"不了，稍后。\" \"那现在怎么样？\" “耶稣基督。”（意思是：如果安德罗德更新器是你的好友）"
+    },
+    {
+        "ID": 372,
+        "joke": "Follow your dreams. Unless you're a narcoleptic who wants to be a limo driver. That's dangerous, dude.",
+        "translation": "追梦吧。除非你是有narcolepsy（嗜睡症）还想当出租车司机的家伙。那可危险了，伙计。"
+    },
+    {
+        "ID": 373,
+        "joke": "Republicans help the poor during the holidays by sending 50 one buck at a time to panhandlers on the  street.",
+        "translation": "共和党人在节假日里通过一次给街头乞丐一美元的方式一次一美元地帮助穷人。"
+    },
+    {
+        "ID": 374,
+        "joke": "I can't tell if Michael Cera is actually an actor, or just an awkward guy who keeps wandering onto film sets and does his best to fit in.",
+        "translation": "我分不清迈克尔·塞拉到底是演员还是 just 一个不小心闯进拍摄现场的尴尬boy，还尽力融入其中。"
+    },
+    {
+        "ID": 375,
+        "joke": "Learning to love yourself is important. Just don't let your wife catch you doing it.",
+        "translation": "学会爱自己很重要。就是别让你老婆逮到你这么做。"
+    },
+    {
+        "ID": 376,
+        "joke": "Me: My weight is up. I really hate winter. Him: Don't be discouraged. You'll bounce back in spring once you shave your legs.",
+        "translation": "我：我的体重增加了，我真的讨厌冬天。  他：别灰心。等春天来了你腿毛剃掉了自然就弹回来了。"
+    },
+    {
+        "ID": 377,
+        "joke": "Me texting friend: Hey! What's up? Buddy: *sends picture of ceiling* Me: I am so glad I didn't ask \"how's it hanging\"",
+        "translation": "我给朋友发信息：嘿！干嘛呢？朋友：*发来一张天花板的照片* 我：还好我没问“挂得怎么样”。"
+    },
+    {
+        "ID": 378,
+        "joke": "I cheated a guy in poker so he burnt down my house. I guess you could say it was a conflagration",
+        "translation": "我在扑克牌局里骗了一个人，所以他把我的房子烧了。你可以说，那是一场“大火”。"
+    },
+    {
+        "ID": 379,
+        "joke": "Two blonds are having a conversation. Two blonds are having a conversation when one says to the other \"I had sex with a brazilian last night\" The other blond replies \"WOW that's a lot of men\"",
+        "translation": "两个金发女郎在聊天。其中一个对另一个说：“我昨晚和一个巴西人发生关系了。”另一个金发女郎回应说：“哇，好多个男人啊。”"
+    },
+    {
+        "ID": 380,
+        "joke": "The nintendo 64 turned 18 last month Which means you can now legally blow the cartridges",
+        "translation": "上个月任天堂64也满18岁了，这意味着现在你可以合法地给 cartridges 吹灰尘了。"
+    },
+    {
+        "ID": 381,
+        "joke": "Son: Are you eating pie for breakfast? Me (eating pie): No. Fruit casserole. Want some? Son: NO. I hate casserole. Me (whispers): I know...",
+        "translation": "儿子：你早餐吃派吗？  我（吃着派）：不，是水果馅饼。想要尝尝吗？  儿子：不，我不吃。我讨厌馅饼。  我（小声说）：我知道……"
+    },
+    {
+        "ID": 382,
+        "joke": "Before I lose my phone, end up naked, high, drunk and/or possibly arrested, I would like to wish you all a Happy Friday.",
+        "translation": "在我把手机弄丢、赤裸裸地出现、嗨翻天、喝醉了，或者可能被抓起来之前，我想要祝大家一个愉快的周五。"
+    },
+    {
+        "ID": 383,
+        "joke": "My friend's a scientist and accidentally chilled his lab rat to absolute zero... At first the rat was just frozen, but he's 0K now.",
+        "translation": "我朋友是个科学家，不小心把实验鼠冷冻到了绝对零度……一开始只是冻住了，但现在他真的是“0K”了。"
+    },
+    {
+        "ID": 384,
+        "joke": "A mushroom walks into a bar The bartender says: \"Get out of here! We don't serve your kind here.\" The mushroom says: \"Why not man? I really am a FunGi.\"",
+        "translation": "一朵蘑菇走进了一家酒吧，酒吧老板说：\"快滚出去！我们这里不招待你们这种东西。\" 蘑菇说：\"喂，凭什么？我真的是一个FunGi啊。\""
+    },
+    {
+        "ID": 385,
+        "joke": "Anyone got a 10 year old daughter I could introduce as mine? Stuck in an elaborate lie after putting my music on shuffle at a party.",
+        "translation": "有没有什么办法能让我把这个10岁的女儿介绍成我的女儿？都怪我在派对上把音乐设成了随机播放，现在这个谎言都快撑不下去了。"
+    },
+    {
+        "ID": 386,
+        "joke": "They say love is worth more than money. But I'm pretty sure my landlord is gona want more than a hug.",
+        "translation": "人们常说爱胜过金钱。但我觉得我的房东肯定不会只满足于一个拥抱。"
+    },
+    {
+        "ID": 387,
+        "joke": "I heard that Being the one to circumcise elephants doesn't pay too well But the tips are huge!!",
+        "translation": "听说给大象做那种手术报酬不高，但小费可多了，耳朵可大了！"
+    },
+    {
+        "ID": 388,
+        "joke": "A Frenchman walks into a library and asks for a book on warfare. The librarian tells him he'll only lose it.",
+        "translation": "一个法国人走进图书馆，请求借一本关于战争的书。图书管理员告诉他，他只会把书弄丢。（双关意在于“弄丢”既可以指物理上丢失这本书，也可以指因为这本书，法国人可能会在实际的战斗中失败。）"
+    },
+    {
+        "ID": 389,
+        "joke": "I held up a fist for a CW to bump and she kissed my ring. I am now drunk on power and no one is allowed to make eye contact.",
+        "translation": "我伸出了拳头准备和某个“伙计”击掌，结果她亲了我的戒指。我现在充满了权力，没有人被允许和我眼神交流。"
+    },
+    {
+        "ID": 390,
+        "joke": "you knew the backstreet boys were actually friends because when the one boy asks if hes \"sexual\" the rest of the boys all agree that he is",
+        "translation": "你都知道巴克街男孩其实都是好朋友，因为当其中一个男孩问自己是不是“性灵”（sexual）的时候，其他男孩们都纷纷表示他就是。"
+    },
+    {
+        "ID": 391,
+        "joke": "A sadist and a masochist meet The masochist starts pleading, \"Hit me! Please hit me!\" The sadist looks at him, smiles, and calmly replies, \"No.\"",
+        "translation": "施虐者和受虐者碰面了。受虐者开始哀求：“打我！请打我！”施虐者看着他，笑了笑，平静地回答：“不打。”"
+    },
+    {
+        "ID": 392,
+        "joke": "Got disoriented and walked into the wrong classroom. Didn't want to look stupid so I just went ahead and switched majors.",
+        "translation": "迷路了走进了 wrong 课室。不想显得很傻，干脆就直接换专业了。"
+    },
+    {
+        "ID": 393,
+        "joke": "My wife urged me to be more experimental in the bedroom, but I guess she wasn't expecting I'd be dissecting so many white mice.",
+        "translation": "我的妻子鼓励我在卧室里更加大胆尝试，但我想她也没想到我会 dissecting 如此多的白鼠。"
+    },
+    {
+        "ID": 394,
+        "joke": "ME: Is this Babies R Us CASHIER: Yes ME: No babies work here C: I know ME: It should be called Babies Were US C: ... ME: Get me your manager",
+        "translation": "店员：这是婴儿用品店顾客：是的顾客：不是说这里没有婴儿在工作吗？店员：我知道顾客：那它应该叫“婴儿曾经在这里存在过”店员：……顾客：给我经理联系方式"
+    },
+    {
+        "ID": 395,
+        "joke": "A girl grabbed my cock and said, \"Wow! Your dick wouldn't make a very good clock.\" \"Why?\" I asked, intrigued. \"Because I'd struggle to get a second hand on it,\" she replied.",
+        "translation": "一个女孩摸了摸我的阳痿，说：“哇！你的阳痿做不了个很好的钟。”“为什么？”我好奇地问。“因为我要费劲才能在上面加上一个分针。”她回答说。"
+    },
+    {
+        "ID": 396,
+        "joke": "A man goes to the vet about his dog's fleas. The vet says: 'I'm sorry, I'll have to put this dog down.' The man is incredulous and asks why. The vet says: 'Because he's far too heavy.'",
+        "translation": "一个人带他的狗来看兽医，是因为狗身上有很多跳蚤。兽医说：“我很抱歉，我不得不安乐死这只狗了。”那人不敢相信地问为什么。兽医说：“因为它太重了。”"
+    },
+    {
+        "ID": 397,
+        "joke": "listen, officer - t h e o r e t i c a l l y - would I still get a carpool lane ticket if I have a body in the trunk",
+        "translation": "警官，理论上——如果我车后座有一具尸体，我还会因为违规使用专用车道被罚吗？"
+    },
+    {
+        "ID": 398,
+        "joke": "Why do seagulls live by the sea? If they lived by the bay they'd be bagels.",
+        "translation": "为什么海鸥住在海边？如果它们住在湾里，那就是 bagel（百吉饼）了。"
+    },
+    {
+        "ID": 399,
+        "joke": "When I lived on a houseboat I was seeing the girl next door, but eventually we drifted apart.",
+        "translation": "当我住在一艘屋船上时，我正在和隔壁的女孩交往，但最终我们因为船的方向不同而分道扬镳。"
+    },
+    {
+        "ID": 400,
+        "joke": "My grandma got her bathroom redone with this sparkly gold-specked tile and she just called it her \"golden shower\" so goodnight.",
+        "translation": "我的奶奶把浴室重新装修了一下，用了这种带有金色斑点的闪闪发光的瓷砖，她自己还美其名曰“金色喷泉”，所以晚安。"
+    },
+    {
+        "ID": 401,
+        "joke": "Why does it take pirates so long to learn the alphabet? Because they could spend years at C.",
+        "translation": "为什么海盗学习字母表要花那么长时间？因为对他们来说，字母“C”意味着在海上度过好几年的时间。"
+    },
+    {
+        "ID": 402,
+        "joke": "There's a 100% chance the Republicans will discuss Starbucks cups in a debate tonight, so remember that when they ask how they lost in 2016.",
+        "translation": "今晚共和党会在辩论中讨论星冰乐杯100%没问题，所以记住，当他们问2016年是怎么输掉的时候，他们会把原因归咎于星冰乐杯。"
+    },
+    {
+        "ID": 403,
+        "joke": "A man purchases a kitten, which he's having trouble house breaking. What does his friend say when he comes to visit? Your house is quite the cat-ass-trophy.",
+        "translation": "这个男人买了一只小猫，但对训练它上厕所很头疼。当他的朋友来拜访时，会对他说些什么？你的房子真是个“猫摊子”（cat-ass-trophy）。"
+    },
+    {
+        "ID": 404,
+        "joke": "There are two types of people in life... Those who think there are two types of people in life and the rest.",
+        "translation": "人生中有两种人……一种是认为人生中有两种人的那种人，另一种是除了这两种人之外的其他人。"
+    },
+    {
+        "ID": 405,
+        "joke": "My best friend and I were comparing our penises... for who has the biggest. It ended in a tie.",
+        "translation": "我和我最好的朋友在比较我们的“那个”……看谁的大。结果是平局。"
+    },
+    {
+        "ID": 406,
+        "joke": "If Trump wins, I'm leaving the country, if Clinton wins I'm leaving the country Not a political post, I just love to travel",
+        "translation": "如果特朗普赢了，我就出国，如果希拉里赢了，我就出国。这可不是政治表态，我只是个爱旅行的人。"
+    },
+    {
+        "ID": 407,
+        "joke": "Why did the Storm Trooper decide to buy an Iphone? Because he couldn't find the Droid he was looking for.",
+        "translation": "为什么那个暴徒决定买一部iPhone？因为他找不到自己要找的Droid。"
+    },
+    {
+        "ID": 408,
+        "joke": "What is the difference between a drug dealer and a hooker? A hooker can wash her crack and sell it again.",
+        "translation": "妓女和毒品贩子有什么区别？妓女可以清洗她的货色再卖一次。"
+    },
+    {
+        "ID": 409,
+        "joke": "When I say I'm gonna take a nap, it means I'm gonna go on my computer for three hours.",
+        "translation": "当我我说我要打个盹的时候，我其实是打算花三个小时在电脑上。"
+    },
+    {
+        "ID": 410,
+        "joke": "I love watching two girls meet each other. It's easily the most fake thing I have ever seen.",
+        "translation": "我最喜欢看两个女孩见面了。这可能是我见过的最假的东西了。"
+    },
+    {
+        "ID": 411,
+        "joke": "Pokemon Go has really improved my life... I used to always get in trouble for playing with my balls outside.",
+        "translation": "Pokemon Go 真的让我的生活变好了……以前我经常因为“在外面玩那个”而惹麻烦。"
+    },
+    {
+        "ID": 412,
+        "joke": "I showed up at Disney headquarters uninvited I said I was there for a Rogue One cameo That's how I learned the security guards have Tasers",
+        "translation": "我未经邀请就到了迪士尼总部，我说我是来《星球大战：原力觉醒》里来客串的。就这样我才知道，这里的安保人员竟然有电击枪，真是出乎意料。"
+    },
+    {
+        "ID": 413,
+        "joke": "Why did the Canadian cross the road? Because that's the direction his car was sliding.",
+        "translation": "为什么这个加拿大人要过马路？因为他的车滑过去了那个方向。"
+    },
+    {
+        "ID": 414,
+        "joke": "What do you do when you find Michael J. Fox in your hot tub? .....Add your laundry.",
+        "translation": "你发现迈克尔·J·福克斯在你的热水盆里泡着，你应该怎么办？……放你的脏衣服。"
+    },
+    {
+        "ID": 415,
+        "joke": "Today I learned two things: 1. Build-A-Bear Workshop only lets you stuff fake animals 2. Mall security guards get to use real handcuffs",
+        "translation": "今天我学到了两件事：1. 在建一熊工作坊里，你们只能填充假熊熊 2. 购物中心的保安可以使用真的手铐"
+    },
+    {
+        "ID": 416,
+        "joke": "Why do elephants have 4 feet? Because in the animal kingdom 6 inches just wont do",
+        "translation": "为什么大象有四条腿？因为在动物王国里，六英寸真的不够用。"
+    },
+    {
+        "ID": 417,
+        "joke": "A blind guy walks into a bar... ...then a table, then a chair, then another chair...",
+        "translation": "一个盲人走进了一家酒吧……然后是桌子，然后是椅子，然后又是另一把椅子……"
+    },
+    {
+        "ID": 418,
+        "joke": "I bought a muzzle for my pet duck. Nothing flashy, but it fits the bill.",
+        "translation": "我给我的宠物鸭子买了一个嘴套。没什么花哨的，但正好派上了用场。（解释：这里的“正好派上了用场”是对英文中“fits the bill”的中文表达，意指刚好合适。同时，也保留了鸭子不会说话，不需要嘴套的笑点。）"
+    },
+    {
+        "ID": 419,
+        "joke": "There are plenty of fish in the sea. Sometimes you just need a really big fishing rod.",
+        "translation": "海里有的是鱼。有时候你 just 需要一根 really 大的鱼竿。"
+    },
+    {
+        "ID": 420,
+        "joke": "If I had a penny for every Donald Trump joke, I would have a small loan of one million dollars",
+        "translation": "如果我每说一个关于唐纳德·特朗普的笑话就能赚一个便士，我现在就有一百万美元的小额贷款了。"
+    },
+    {
+        "ID": 421,
+        "joke": "Retweet if you're naughty! Star if you love Jesus! Reply if you'd like to meet him!",
+        "translation": "转发如果你不乖！点赞如果你爱耶稣！回复如果你希望见到他！"
+    },
+    {
+        "ID": 422,
+        "joke": "Woke up this morning with a pillow over my face, hearing someone muttering \"...it would be so easy...\"",
+        "translation": "早上醒来，发现自己脸上压着一个枕头，还能听到里面传来低语：“真是太容易了……”结果发现原来是枕头里藏着个 speakers 在搞恶作剧。"
+    },
+    {
+        "ID": 423,
+        "joke": "When are they going to drug test the audience of \"The Price Is Right.\"? No one should be that happy.",
+        "translation": "什么时候对《价格战》（The Price Is Right）的观众进行药物检测？没有人应该那么开心。"
+    },
+    {
+        "ID": 424,
+        "joke": "Why don't they have a WHITE history month?? Why don't they have NON-handicapped parking spaces? Why's there no cemetery for ALIVE people??",
+        "translation": "为什么他们没有设立白人历史月?? 为什么没有给非残疾人的停车位？为什么没有墓地是给活人用的??"
+    },
+    {
+        "ID": 425,
+        "joke": "The Lord said unto John, \"Come forth and be awarded eternal life\" John came fifth and was awarded a toaster",
+        "translation": "上帝对约翰说：“出来领取永恒的生命吧。”约翰得了第五名，结果得到的是一台烤面包机。"
+    },
+    {
+        "ID": 426,
+        "joke": "Why does Anna's mom encourage her daughter to experiment with sexuality? Because she lives bicuriously through others .",
+        "translation": "为什么安娜的妈妈鼓励她女儿探索性取向？因为她通过别人 bicuriously 活着。"
+    },
+    {
+        "ID": 427,
+        "joke": "*at a pizza buffet in the Midwest* Me: excuse me, can you please make a vegetarian pizza? Him: Sure! What kind of meat do you want on that?",
+        "translation": "（在中西部的一个披萨自助餐上）我：打扰一下，你能帮我做一个纯素食披萨吗？他：当然可以！那你想要加点什么肉在上面？"
+    },
+    {
+        "ID": 428,
+        "joke": "What is it called when you are on the edge of WiFi signal range? Router Limits!",
+        "translation": "当你WiFi信号快到范围边缘时，这叫什么？路由器极限！"
+    },
+    {
+        "ID": 429,
+        "joke": "Year 2142: Meat eaters have died out. Vegans survive. 2143: Everyone is dead b/c the vegans couldn't tell anyone else that they were vegan.",
+        "translation": "2142年：肉食者灭绝，素食者生存。2143年：所有人都死了，因为素食者无法告诉别人他们其实是素食者。"
+    },
+    {
+        "ID": 430,
+        "joke": "My new years resolution is to have more sex! I Haven't told my cellmate yet though",
+        "translation": "我的新年决心是多做一些事情！不过我还没告诉我那个室友呢（暗示是牢房室友）。"
+    },
+    {
+        "ID": 431,
+        "joke": "Why do lawyer's suits never have pants pockets? Because their hands are always in someone else's!",
+        "translation": "为什么律师的西装从来不做口袋？因为他们的手总是插在别人裤兜里！"
+    },
+    {
+        "ID": 432,
+        "joke": "Go to racist joke, what's yours? Two unemployed Irishmen walk past a police notice board with \"two black men wanted for rape\" first one says \"fucking niggers get all the best jobs\"",
+        "translation": "去歧视笑话，你的呢？两个失业的爱尔兰人经过一块警局告示牌，上面写着“悬赏通缉两名黑人强奸犯”，一个就说：“该死的黑鬼们连最好的活儿都抢走了。”"
+    },
+    {
+        "ID": 433,
+        "joke": "If you believe the home alarm commercials, the first thing burglars do when they break into your home is smash your family pictures.",
+        "translation": "如果你相信家居报警器的广告，当小偷闯入你的家时，他们做的第一件事就是砸碎你的家庭照片。"
+    },
+    {
+        "ID": 434,
+        "joke": "It's just sad how often I see zookeepers breaking their own 'Dont Feed the Animals' rule.",
+        "translation": "动物园员工竟然经常违反自己制定的“不要喂动物”规则，这未免也太讽刺了。"
+    },
+    {
+        "ID": 435,
+        "joke": "Why were there only 49 contestants in the National Ebonics Beauty Pageant? Nobody wanted to wear the sash that says \"Idaho\".",
+        "translation": "为什么全国鄂波南斯 Beauty 选美比赛只有49位参赛者？因为没有人愿意佩戴印有“爱达荷（Idaho）”字样的绶带。"
+    },
+    {
+        "ID": 436,
+        "joke": "Scientists remain baffled as to why the people on the internet really like pictures of cats and cats doing things.",
+        "translation": "科学家们仍然不明白为什么互联网上的人们如此喜欢猫的照片以及猫的各种萌照。"
+    },
+    {
+        "ID": 437,
+        "joke": "What do you do with old cannon balls ? Give them to elephants to use as marbles !",
+        "translation": "老炮弹怎么处理？把它们给大象用来当弹珠玩吧！"
+    },
+    {
+        "ID": 438,
+        "joke": "Why is Saturn like your balls?? Because it is in between jupeter an your anus.",
+        "translation": "为什么土星像你的睾丸？因为它在木星和你肛门之间。"
+    },
+    {
+        "ID": 439,
+        "joke": "I like Tuesday simply because it is literally the furthest from next Monday I can possibly be.",
+        "translation": "我喜欢周二，仅仅是因为它是我可能到达的离下一个周一最远的一天。"
+    },
+    {
+        "ID": 440,
+        "joke": "I tried googling Wiz Khalifa ... But all I found was MIa Khalifa peeing .",
+        "translation": "我试着googled 吴兹卡法…… 但找到的全是MIa卡法在尿尿的图片。"
+    },
+    {
+        "ID": 441,
+        "joke": "I am an expert at making balloon animals. May I interest you in a hyphen or a pickle?",
+        "translation": "我会吹气球动物，算是个专家了。要不我给你吹一个破折号或者一个泡菜怎么样？"
+    },
+    {
+        "ID": 442,
+        "joke": "What happened when the girl dressed as a spoon left the Halloween party ? No one moved. They couldn't stir without her.",
+        "translation": "这个女孩打扮成一把勺子离开万圣节派对之后发生了什么？没有人动了。没有她的允许， nobody 不能 \"搅拌\"（意为移动）。"
+    },
+    {
+        "ID": 443,
+        "joke": "What's the difference between wild Iranian Ossetra caviar and my penis? One is a delicacy (Deh-Lih-Cuh-See) and the other is a delicady (Deh-Lih-Cuh-Dee) Edit: The D",
+        "translation": "伊朗奥斯特拉野生鱼子酱和我的 penis 有什么区别？一个是美味佳肴（De-Lih-Kuh-See），另一个是美味佳achinery（De-Lih-Kuh-Dee）编辑：D"
+    },
+    {
+        "ID": 444,
+        "joke": "Who are the 3 most famous black women? 1. Oprah 2. Aunt Jamima 3. Motha Fucka",
+        "translation": "谁是三位最著名的黑人女性？1. 奥普拉 2. 娘妈 3. � 刺客（注：此处\"Motha Fucka\"翻译为了网络用语“刺客”，但请注意，这仍然是一个不恰当的翻译，因为原词组带有强烈的侮辱性和粗俗意味。）"
+    },
+    {
+        "ID": 445,
+        "joke": "Why does Darkwing Duck wear a mask? You are a duck. No one could identify you without describing every other duck on earth.",
+        "translation": "为什么戴夫尼鸭要戴面具？因为你是一只鸭子啊，如果不描述地球上每一只鸭子的特点，谁也认不出你来。"
+    },
+    {
+        "ID": 446,
+        "joke": "A bird pooped on my head today...Am I gonna die? I mean, I'm kinda worried about getting sick from it but mostly I hope this made someone's day.",
+        "translation": "今天有一只鸟把我头给💩了……我会死吗？我是有点担心会因此生病，但更多的是希望这件事让某人开心了。"
+    },
+    {
+        "ID": 447,
+        "joke": "What do you call a man with no arms and no legs, lying in a ditch? Phil",
+        "translation": "什么叫一个没有胳膊没有腿的人躺在沟里？菲尔（听起来像 flat，意为平坦的人）"
+    },
+    {
+        "ID": 448,
+        "joke": "Get a big metal box, label it \"TIME CAPSULE\" and take a big dump in it so people know what 2011 was like.",
+        "translation": "准备一个大号金属盒子，标上“时间胶囊”的字样，然后在里面拉一次粪便，这样未来的人们就能知道2011年是什么样的了。"
+    },
+    {
+        "ID": 449,
+        "joke": "Well, I had to break up with the baker i've been dating She was just too kneady",
+        "translation": "好吧，我不得不和那个面包师男友分手了，她太需要被揉了（这里“too kneady”玩了单词游戏，既表达了“太依赖”的意思，也有“太想被揉”的意思）。"
+    },
+    {
+        "ID": 450,
+        "joke": "You can't keep eating people's lunches from the break room & blaming the Taliban. A lot of what you've been stealing is pork for one thing.",
+        "translation": "你不能一直偷办公室的午餐还怪罪塔利班。你偷的东西里有不少其实是猪肉呢。"
+    },
+    {
+        "ID": 451,
+        "joke": "My wife says she's leaving me because of my obsession with karaoke. I said \"Fine, go on now go, walk out the door, just turn around now, because your not welcome anymore....\"",
+        "translation": "我的妻子说她要离开我，因为我在沉迷卡拉OK。我说：“行了，去吧，你现在可以走了，回头吧，因为你已经不受欢迎了……”"
+    },
+    {
+        "ID": 452,
+        "joke": "Q. What does a woman's asshole do when she is having an orgasm? A. He is usually home with the kids!",
+        "translation": "Q. 女人的肛门在高潮的时候在干嘛？  A. 通常在家里带孩子呢！"
+    },
+    {
+        "ID": 453,
+        "joke": "What did the farmer say when the police found the gate from the public footpath in his barn and accused him of stealing? That's not my stile.",
+        "translation": "农夫的脚步被警察发现了，警察指控他偷了通往公共人行道的门，这时农夫怎么说的？那不是我的步态。"
+    },
+    {
+        "ID": 454,
+        "joke": "Now marriage can be between any two people who are misguided enough to start a life together in New Jersey.",
+        "translation": "现在，结婚可以是任何两个足够迷茫，选择一起在新泽西开始新生活的家伙。"
+    },
+    {
+        "ID": 455,
+        "joke": "A guy walks into a bar and says, \"I'm going to shoot whoever slept with my wife\"! A man shouts from the back, \"You don't got enough bullets, bud\"!",
+        "translation": "这个男人走进酒吧说：“我要把睡我老婆的人干掉！”有人从后面喊道：“你的子弹不够啊，伙计！”"
+    },
+    {
+        "ID": 456,
+        "joke": "Sometimes I'm depressed and then a girl stars one of my tweets and it's like YAAAAYYYY NEW GIRLFRIEND!!!!!",
+        "translation": "有时候我会抑郁，但是一条女生给我星星评论，就会感觉像中奖了一样，简直就像耶！新女朋友！！！！"
+    },
+    {
+        "ID": 457,
+        "joke": "The road to recovery from my addiction to sexual innuendos has been a long and hard one. But the end is in sight... I can see it coming.",
+        "translation": "从我对性双关语的上瘾中恢复的道路漫长而艰难。但终点就在眼前……我看得见那个迹象。"
+    },
+    {
+        "ID": 458,
+        "joke": "Why is my Tetris highscore like my wife? I beat both of them for fun.",
+        "translation": "为什么我的 Tetris 高分和妻子一样，都是我时不时想要超越的东西？"
+    },
+    {
+        "ID": 459,
+        "joke": "\"Kids, grandma just had hip surgery so I need to warn you, she's not herself.\" *grandma struts in wearing skinny jeans and smoking an E-cig*",
+        "translation": "“孩子们，奶奶刚刚做了髋关节手术，所以我得警告你们，她现在不是自己了。”*然后奶奶 strut 着进来了，穿着紧腿牛仔裤，还抽着电子烟*"
+    },
+    {
+        "ID": 460,
+        "joke": "What do you call a motorcycle gang made up of ancient bisexual Norse monarchs? The bikings.",
+        "translation": "什么叫做由古代双性恋 Norse  monarchs 组成的摩托车帮派？叫 bikings（骑行为）。"
+    },
+    {
+        "ID": 461,
+        "joke": "They called their son Honest Abe, because he was honest. They called their daughter Bloody Mary...",
+        "translation": "他们给儿子起名叫老 Honest Abe（诚实行 Abe），因为他是诚实的。而给女儿起名叫玛丽亚· Bloody Mary……（因为 vase 的英文发音和 Bloody Mary 的 Mary 类似，所以这里用打破花瓶作为笑话的结尾，来对应 Bloody Mary 的典故。）因为他们打破了花瓶。"
+    },
+    {
+        "ID": 462,
+        "joke": "Has this one ever been used? Why didn't the chicken cross the road? Because he was chicken. Alright.",
+        "translation": "这个梗用过没用过？为什么这只鸡不过马路？因为它太胆小了（注：这里的“胆小”发音和“鸡”相同，属于谐音梗）。行吧。"
+    },
+    {
+        "ID": 463,
+        "joke": "Don't ask me for childcare advice unless you want nuggets of wisdom like \"always punch holes in the box so they can breathe.\"",
+        "translation": "除非你想要聽一些奇招怪招，比如「在盒子上戳幾個洞讓他們能透透气」，否则别来问我育儿建议。"
+    },
+    {
+        "ID": 464,
+        "joke": "Why didn't the principal of the school for the blind allow his students to go duck-hunting? He knew that some of them wouldn't miss the blind ...",
+        "translation": "为什么这所盲校的校长不允许学生们去鸭猎？因为他知道有些学生可能会错过目标……或者说，错过盲人这个目标。"
+    },
+    {
+        "ID": 465,
+        "joke": "new iPhone 7 son: Daddy, buy me the new iPhone 7 Dad: What is the magic word? son: Natasha Dad: who is Natasha son: your lover Dad: do you need also a case?",
+        "translation": "新iPhone 7儿子：爸爸，给我买新的iPhone 7吧。爸爸：什么魔法单词？儿子：娜塔莎。爸爸：娜塔莎是谁？儿子：你的女朋友。爸爸：那你也需要给娜塔莎买个保护壳吧？"
+    },
+    {
+        "ID": 466,
+        "joke": "Q: How many Honor Guards does it take to screw in a light bulb? A: 22 one to screw it in 21 to shoot the bulb.",
+        "translation": "Q: 螺丝口的灯泡需要多少名仪仗队成员来安装？A: 22名，一个来安装灯泡，另外21个负责安装之后射灯泡。"
+    },
+    {
+        "ID": 467,
+        "joke": "Cute girl: omg I love this bread [At the next table] Jesus: [loudly, holding up a slice of bread] so this is my body",
+        "translation": "Cute girl：天啊，我好喜欢这块面包！[在旁边的一张桌子旁] 耶稣：（夸张地举起一片面包）所以，这就是我的身体！"
+    },
+    {
+        "ID": 468,
+        "joke": "Did you hear about the Coldplay concert in China last weekend? It was all yellow.",
+        "translation": "上周在中国举行的Coldplay演唱会听说了吗？全场都是黄色的。"
+    },
+    {
+        "ID": 469,
+        "joke": "A hawk snatched my gf's chihuahua today.. ..it got rid of that annoying bitch for me in one fowl swoop.",
+        "translation": "今天那只鹰把女朋友的吉娃娃给叼走了……它一击毙命，帮我解决了那个烦人的臭婆娘。"
+    },
+    {
+        "ID": 470,
+        "joke": "The people in this ad look 'indie' & remind me of myself. As a consumer this makes me feel good. Now I will purchase all their products",
+        "translation": "这个广告里的人看起来很有“独立特色”，让我想起了自己。作为一名消费者，这种感觉让我很舒服。现在我会购买他们所有的产品。  （转折）没想到这些人其实是一家大公司的面孔，这让我觉得有点被骗了。"
+    },
+    {
+        "ID": 471,
+        "joke": "The first rule of procrastination club is: Google some weird shit then take a nap.",
+        "translation": "拖延俱乐部的第一条规则是：搜索一些奇怪的东西然后小睡一会儿。"
+    },
+    {
+        "ID": 472,
+        "joke": "Sorry I pissed on the walls of your bathroom, but the flowery wall paper made me think I was outside.. Also you're out of Valium",
+        "translation": "抱歉，我用尿尿弄湿了你们洗手间的墙壁，但是那些有花图案的墙纸让我以为自己是在外面……另外，你们的安定也用完了。"
+    },
+    {
+        "ID": 473,
+        "joke": "me: can i have a coke waiter: is Pepsi ok? me: ya pepsi's fine pepsi: i have a boyfriend",
+        "translation": "顾客：我能来杯可乐吗？服务员：要百事可乐可以吗？顾客：行，百事可乐也行。百事可乐：我已经有男朋友了。"
+    },
+    {
+        "ID": 474,
+        "joke": "What do you call a black man who dies of heat exhaustion and a white guy that dies of a brain aneurysm? Different Strokes",
+        "translation": "你叫一个因为中暑去世的黑人和一个因为脑动脉瘤去世的白人是什么？《不同的打击》（Different Strokes）。"
+    },
+    {
+        "ID": 475,
+        "joke": "There is a new Barbie doll on the market - Funeral Home Barbie ...complete with hearse coffin and kicky little shroud",
+        "translation": "市场上出现了一个新的芭比娃娃——葬礼芭比……配备有灵车、棺材和那套时髦的小丧服。"
+    },
+    {
+        "ID": 476,
+        "joke": "Girlfriend: Did you fix the dishwasher? Me: Yup *girlfriend opens dishwasher revealing a monkey covered in bubbles, holding a scrub brush*",
+        "translation": "女友：你修好洗碗机了吗？我：修好了呢。*（女友打开洗碗机，里面竟然出现了一只泡满了泡沫的猴子，还拿着一把刷子）"
+    },
+    {
+        "ID": 477,
+        "joke": "Some days I want to leave everything and just run away with him. Other days I want to own 3 baby dragons and be fireproof and naked.",
+        "translation": "有些日子，我只想和他一起抛下一切逃走。有些日子，我只想养三只baby dragon，拥有防火的本领，然后赤裸裸地活着。"
+    },
+    {
+        "ID": 478,
+        "joke": "What to toilet paper and the starship enterprise have in common? They both circle Uranus looking for Klingons",
+        "translation": "卫生纸和企业号星舰有什么共同点？它们都在绕着海王星找克林贡人。"
+    },
+    {
+        "ID": 479,
+        "joke": "The soul weighs 21 grams. We know this because the Jurassic World film reels are 21 grams lighter than Jurassic Park",
+        "translation": "灵魂的重量是21克。我们知道这一点是因为侏罗纪世界电影胶卷比侏罗纪公园轻了21克。"
+    },
+    {
+        "ID": 480,
+        "joke": "If the lever on your toaster breaks off and your bread starts burning, can you pry it out with a butter knife? The answer may shock you.",
+        "translation": "如果烤面包机上的杠杆坏了，你的面包开始烤焦了，你能用黄油刀把它夹出来吗？这个答案可能会让你大吃一惊。"
+    },
+    {
+        "ID": 481,
+        "joke": "[commercial] [man comes home after long day, opens front door and is attacked by 8 cats] MAN: There has to be a better way! Narrator: DOGS",
+        "translation": "[商业广告] [男人经历了一天的劳累后回到家，打开前门，突然被8只猫攻击]男人：一定有更好的办法！Narrator：狗狗！"
+    },
+    {
+        "ID": 482,
+        "joke": "There are few things more awkward on a blind date than looking up from your phone to realise she's left. She obviously wasn't blind at all.",
+        "translation": "比在盲约中看到她离开（而你正低头看手机）更尴尬的事情几乎没有了。显然，她根本就不是盲人。"
+    },
+    {
+        "ID": 483,
+        "joke": "I don't know what disturbs me more about my attraction towards my girlfriends mother. The fact that she's 51 or the fact that she's also my mother.",
+        "translation": "我不知道是更让我困扰的，我对女友妈妈的这种好感是来自哪里——是她51岁这个事实，还是她同时也是我的妈妈这个事实。"
+    },
+    {
+        "ID": 484,
+        "joke": "Today is National Pasta Day I have a friend that would have loved today, but sadly she's pastaway",
+        "translation": "今天是意大利面日，我有一个朋友会很喜欢这一天，但不幸的是，她已经pastaway了。"
+    },
+    {
+        "ID": 485,
+        "joke": "Difference Between Good Girls And Bad Girls Good Girls Open Few Buttons In Hot Atmosphere, But Bad Girls Open All Buttons To Make The Atmosphere Hot.",
+        "translation": "好女孩和坏女孩的区别就在于好女孩在热辣的氛围中只解开几颗纽扣，而坏女孩则是解开所有纽扣让氛围变得热辣。"
+    },
+    {
+        "ID": 486,
+        "joke": "I ate the last piece of flan that my wife and I have been fighting over I won the custardy battle.",
+        "translation": "我和妻子为了最后一块布丁争来争去，我赢了布丁之战。"
+    },
+    {
+        "ID": 487,
+        "joke": "My entire day will be spent laughing at my children because they have to go back to school tomorrow..",
+        "translation": "我的一整天都會被孩子们气得哈哈大笑，因为他们明天得回去上学了。"
+    },
+    {
+        "ID": 488,
+        "joke": "I think my wife has a habit of walking in her sleep Every morning I find her sleeping in someone else's bed.",
+        "translation": "我想我妻子有夜行症，每天早上我发现她都睡在别人床上。"
+    },
+    {
+        "ID": 489,
+        "joke": "What is worse than biting through an apple, and finding a worm inside? ~~Rape~~ The picky fuckers on this website.",
+        "translation": "什么比咬到苹果里头有虫子还要糟糕？~~强奸~~ 这网站上挑刺的王八蛋们。"
+    },
+    {
+        "ID": 490,
+        "joke": "I couldn't afford to take my kids to Sea World. So I took them to our local fish market, saying, \"Shhhh... they're all asleep.\"",
+        "translation": "我负担不起带孩子们去海世界，所以我就带他们去了我们当地的鱼市，然后说：“嘘……它们都睡着了。”"
+    },
+    {
+        "ID": 491,
+        "joke": "[first date] Me: *don't let him know you're the Mona Lisa* Him: You look nice tonight Me: *smiles ambiguously*",
+        "translation": "【第一次约会】我：*别让他知道你就是蒙娜丽莎* 他：你今晚看起来很好看 我：*神秘一笑*"
+    },
+    {
+        "ID": 492,
+        "joke": "Dear Lord, Thank you for these noodles I'm about to eat and the good deal I got buying them in bulk at Costco. RA-MEN!",
+        "translation": "亲爱的主，感谢你这些即将食用的面条，还有我在Costco买它们时得到的好价钱。RA-MEN！"
+    },
+    {
+        "ID": 493,
+        "joke": "What did the tampon say to the other tampon? Nothing, they were both stuck up bitches.",
+        "translation": "月经贴的双关 Offensive双关 refers to a play on words that is considered offensive. Here is the translation of the joke into Chinese, keeping the crude and offensive nature:月经贴对另一个月经贴说了什么？ nothing, 她们两个都是高高在上的 bitch 。"
+    },
+    {
+        "ID": 494,
+        "joke": "Did you hear the one about the perfume store? I heard their manufacturing was in an ol' factory.",
+        "translation": "这家香水店你听说没？我听说他们的生产是在一个老工厂进行的。"
+    },
+    {
+        "ID": 495,
+        "joke": "I was going to major in cosmetology.. ..but then they shut down the space program.. idiots.",
+        "translation": "我本打算主修美容学…………但他们关闭了太空计划……白痴。"
+    },
+    {
+        "ID": 496,
+        "joke": "I cant get on Tumblr anymore... My doctor told me to cut down on Trans-Fats",
+        "translation": "我不能再上Tumblr了……医生告诉我得减少反式脂肪的摄入。"
+    },
+    {
+        "ID": 497,
+        "joke": "What does Mr. Miyagi do when he gets home from a date? He wax off",
+        "translation": "what does Mr. Miyagi 做完一次约会回家后？他会给车打蜡。"
+    },
+    {
+        "ID": 498,
+        "joke": "So I asked this swiss dude to tell me something good about living in Switzerland. \"Well\" he said \"the flag is a big plus!\"",
+        "translation": "所以我问一个瑞士人住在瑞士有什么好处。他回答说：“嗯，国旗可是个很大的加分项！”"
+    },
+    {
+        "ID": 499,
+        "joke": "Simon: I wrote a song Garfunkel: *reads lyrics* Garfunkel: \"I am a rock. I am an island\" dude I'm like right here. I thought we were friends",
+        "translation": "西蒙：我写了一首歌。加芬克尔：*念歌词*加芬克尔：我是一块岩石。我是一座孤岛。西蒙：我旁边不是写着呢嘛。我觉得我们是朋友。"
+    },
+    {
+        "ID": 500,
+        "joke": "This year for Christmas.. This year for Christmas I got a new shirt and piece of ass from my wife. Figures, they were both too big!!",
+        "translation": "今年圣诞节……今年圣诞节我收到了一件新衬衫，还有我妻子的一块屁股。真是的，两样东西都太大了！"
+    },
+    {
+        "ID": 501,
+        "joke": "reckon the clouds look down and say, ''look! that one is shaped like an idiot?''",
+        "translation": "想想天空中的云会不会评论一下：“看！有一朵云的形状像个傻子？”"
+    },
+    {
+        "ID": 502,
+        "joke": "The best part of the birthday notifier on Facebook is, I meet people that I didn't even know were on my friends list.",
+        "translation": "Facebook 生日提醒器最好的地方在于，我遇到了一些我自己都不知道加在好友列表里的人。"
+    },
+    {
+        "ID": 503,
+        "joke": "Why did the little Dutch boy have to register as a sex offender? He kept on sticking his finger in a tyke.",
+        "translation": "为什么这个小荷兰男孩需要登记为性犯罪者？他总是把手指塞进了一个小孩儿的洞里。"
+    },
+    {
+        "ID": 504,
+        "joke": "After my surgery, the doctor told me I have to pee sitting down. He told me not to lift anything that weighs more than 10 pounds.",
+        "translation": "手术后，医生告诉我小便时必须坐着。他还嘱咐我不要提超过10磅的东西。"
+    },
+    {
+        "ID": 505,
+        "joke": "My condolences for you and your family through this difficult transition is why my wife won't let me send back wedding RSVP cards.",
+        "translation": "我的 condolences 是因为你和你的家人正经历这段艰难的转变，这也是我妻子不让我回婚礼 RSVP 卡的原因。"
+    },
+    {
+        "ID": 506,
+        "joke": "\"Only a good guy with a forest fire can prevent forest fires\" - Smokey the NRA Bear",
+        "translation": "“只有好人拿着森林大火才能扑灭森林火灾”——斯莫基 NRA 熊"
+    },
+    {
+        "ID": 507,
+        "joke": "A man walks into a bar... He asks the barman \"do you serve women here?\" The barman replies \"no, sorry, you'll have to bring your own.\"",
+        "translation": "男人走进一家酒吧……他问酒吧老板：“你们这里提供女性服务吗？”老板回答说：“不了，抱歉，你需要自己带。”"
+    },
+    {
+        "ID": 508,
+        "joke": "I said to my dyslexic mate, \"Guess which band has split up?\" He said, \"Erm...\"",
+        "translation": "我说给我有阅读障碍的朋友猜，哪个乐队解散了？他回答说，“呃...”"
+    },
+    {
+        "ID": 509,
+        "joke": "Cleaning out the garage, I found some things I didn't even realize I had. Like a tent, a new printer, and a fourth kid.",
+        "translation": "清理车库时，我发现了一些自己都不知道自己有的东西。比如一个帐篷、一台新打印机，还多出一个孩子。"
+    },
+    {
+        "ID": 510,
+        "joke": "My penis is so polite..... .....it stands up to give ladies a place to sit down.",
+        "translation": "我的 penis 太有礼貌了......它站起来是为了让女士们有个地方可以坐下来。"
+    },
+    {
+        "ID": 511,
+        "joke": "Strip club[OC] So I'm at the strip club and this huge breasted woman comes up to me and slaps me silly with her left titty. Guy sitting next to me says,\"bet that's gonna leave a lasting mammary.\"",
+        "translation": "所以我去了一个 strip club，然后这个胸部特别大的女士走到我身边，用她左边的胸拍了我好几下。旁边的一个 guy 说：“看你得多记住这段经历，肯定会长期有印象（lasting mammary）的。”"
+    },
+    {
+        "ID": 512,
+        "joke": "Did you hear the one about the dyslexic agnostic insomniac? He stays up all night wondering if dog exists.",
+        "translation": "听到关于那个阅读障碍又agnostic又失眠的人的笑话没？他整晚醒着都在怀疑“dog”这个单词是否存在。"
+    },
+    {
+        "ID": 513,
+        "joke": "Don't cut out part of your day to throw out clocks! It's a waste of time!",
+        "translation": "不要把你日子的一部分拿去调整时钟！这本身就是一种时间浪费！"
+    },
+    {
+        "ID": 514,
+        "joke": "I witnessed a murder today.. then I realized it was just a group of crows.",
+        "translation": "我今天目睹了一起谋杀案……然后我发现那只是乌鸦群在活动。（注：中文中“乌鸦群”是直接表达，与英文中的 \"murder\" 相对应）"
+    },
+    {
+        "ID": 515,
+        "joke": "BUSINESS IDEA: CinnaBon-Iver. Delicious pastries filled with scarf scraps and broken pieces of wind chimes.",
+        "translation": "BUSINESS IDEA： CinnaBon-Iver。美味的糕点填充了围巾残片和破旧风铃的碎片。"
+    },
+    {
+        "ID": 516,
+        "joke": "My girlfriend told me that having a good sense of humour is really important I told her to message the mods at /r/Jokes",
+        "translation": "我的女朋友告诉我，有好的幽默感真的很重要。我说让她去给/r/Jokes的版主发消息。"
+    },
+    {
+        "ID": 517,
+        "joke": "My life would be a lot easier if when shopping online there was a \"Sort by least ugly\" option.",
+        "translation": "如果在网上购物的时候有一个“按最难看排序”的选项，我的生活会容易很多。"
+    },
+    {
+        "ID": 518,
+        "joke": "My girlfriend called me a pedophile. I said, \"Wow, that's a pretty big word for a eight year old.\"",
+        "translation": "我女朋友叫我恋童癖，我说：“哇，八岁的小朋友竟然用这个词，好厉害啊。”"
+    },
+    {
+        "ID": 519,
+        "joke": "Confession: I'm the one who's been posting all those idiotic comments on youtube using millions of anonymous accounts.",
+        "translation": "忏悔：我一直都在用成千上万个匿名账号在YouTube上发布那些愚蠢的评论，现在坦白了。"
+    },
+    {
+        "ID": 520,
+        "joke": "[mouse plane] mouse pilot: hello folks, this is your captain squeaking- *mouse passengers squeal with delight*",
+        "translation": "[老鼠飞机] 老鼠机长：各位乘客，我是您的机长吱吱—— *老鼠乘客们高兴地尖叫起来*"
+    },
+    {
+        "ID": 521,
+        "joke": "If a white person eats a dessert and no one is around to Instagram it, did it even happen?",
+        "translation": "如果一个白人吃了甜点，但没有人在那里给他拍照发Instagram，那这个甜点真的吃了吗？"
+    },
+    {
+        "ID": 522,
+        "joke": "Why does Michael J. Fox make the best milkshakes? Because he uses the finest ingredients, *asshole*.",
+        "translation": "为什么迈克尔·道格拉斯做的奶昔最好？因为他的原料最棒，*居然如此无礼*。"
+    },
+    {
+        "ID": 523,
+        "joke": "HOT SINGLES NEAR YOU BURNING SINGLES NEAR YOU 1ST DEGREE BURNED SINGLES NEAR YOU DEAD SINGLES NEAR YOU WHY DIDN'T YOU HELP",
+        "translation": "附近的单身狗在燃烧 即将燃烧的单身狗在燃烧 一度烧伤的单身狗在燃烧 死亡的单身狗在燃烧 你为什么不帮忙？"
+    },
+    {
+        "ID": 524,
+        "joke": "Waiter is there soup on the menu ? No madam I wiped it off !",
+        "translation": "服务员，菜单上有汤吗？没有女士，我把它擦掉了！"
+    },
+    {
+        "ID": 525,
+        "joke": "Please don't put a coin on my mouth when I die; I plan to wander the shores of the River Styx for 100 years & finally get that bikini body.",
+        "translation": "请别在我死后把硬币放在我的嘴里；我打算在冥河（塞特克斯河）边徘徊100年， finally get that bikini body.（最后得到一个比基尼身材。）"
+    },
+    {
+        "ID": 526,
+        "joke": "You know you're too drunk to drive when... The tree you swerved for is actually the air-freshener.",
+        "translation": "你知道自己喝得足够醉，不能再开车了，是因为……你绕开的树其实是空气清新剂。"
+    },
+    {
+        "ID": 527,
+        "joke": "Why are the labia on Japanese women oriented sideways instead of vertically? Goes better with their eyes.",
+        "translation": "为什么日本女性的阴唇是横向的而不是纵向的？因为这样和她们的眼睛更搭。"
+    },
+    {
+        "ID": 528,
+        "joke": "When your 3yo spits a chewed up wad of cheese into your hand and you're like \"where did you find this, I didn't give you any cheese today?\"",
+        "translation": "当你的3岁孩子把一团嚼过的奶酪吐在你手上，你问道：“你在哪里找到的？我今天可没有给你吃奶酪。”孩子却回答说：“我从你口袋里找到的！”"
+    },
+    {
+        "ID": 529,
+        "joke": "I See your 7 year old jokes and I raise my own, What do you get when you cross the ocean with a Train Station? A Whale Way",
+        "translation": "我看到你拿出了七岁孩子的笑话，那我可不逊色，你要问的是， train station 跟海洋 crossed 会有什么？答案是：Whale Way！（Whale Way 听起来像 Whale 和 Way 的组合，Whale 指的是鲸鱼，Way 指的是路线或方法，所以这是一个双关笑话，利用了发音相似的特点。）"
+    },
+    {
+        "ID": 530,
+        "joke": "Why was the band late to their gig? Because the drummer locked himself in the car with the keys.",
+        "translation": "为什么乐队晚到了演出场地？因为鼓手把车门锁上了，还带走了车钥匙。"
+    },
+    {
+        "ID": 531,
+        "joke": "After a dream I had last night, credits rolled. I had no idea so many people worked on those things.",
+        "translation": "昨晚我做了一个梦，梦里出现了滚动的字幕。我没想到那些东西背后有这么多的人在工作。"
+    },
+    {
+        "ID": 532,
+        "joke": "Cop: \"Can you describe the person who robbed you?\" Me: \"He had on a black shirt and hat with a green apron and charged me $6 for coffee\"",
+        "translation": "警察：“你能描述一下抢劫你的人长什么样吗？”我：“他穿着黑色的衬衫和帽子，身上还围着绿色的工作围裙，还给我卖了6块的咖啡。”"
+    },
+    {
+        "ID": 533,
+        "joke": "A guy walked up to my bar. He said, \"Can I have a stiff drink?\" \"Of course,\" I replied, cracking some Viagra pills into his whiskey.",
+        "translation": "一个男人走进了我的酒吧，他说：“给我来一杯提神的酒。”我说：“当然可以了。”然后我把一些伟哥药丸倒进了他的威士忌里。"
+    },
+    {
+        "ID": 534,
+        "joke": "The new fun way to tell if a celebrity is crazy is by how many times they delete and reactivate their Twitter account.",
+        "translation": "一个新的有趣方法来判断 Celebrity 是否疯了，就是看他们删号和重新激活 Twitter 账号的频率。"
+    },
+    {
+        "ID": 535,
+        "joke": "remember: knives and alcohol don't mix. knives are solid they don't mix with anything. why where you trying to drink a knife anyways idiot",
+        "translation": "记得：刀和酒精不能混。刀是固体，不能和任何东西混。你干吗要喝刀啊，傻瓜？"
+    },
+    {
+        "ID": 536,
+        "joke": "Tourist in America I was going to take my wife to visit all the sites where they protested the police shooting of innocent black men. But i've only got 6 months...plus community service.",
+        "translation": "美国旅游游客本来打算带我老婆去参观所有抗议警察无故射杀无辜黑人的现场。可是我只有6个月……外加社区服务。 妻子原来是个白人。"
+    },
+    {
+        "ID": 537,
+        "joke": "Q: Why couldn't the blonde write the number ELEVEN? A: Because she didn't know which one came first!",
+        "translation": "Q: 为什么金发美女不会写数字“十一”？  A：因为她不知道是哪个字母先出现！"
+    },
+    {
+        "ID": 538,
+        "joke": "We could hit every terrorist on the Most Wanted List tomorrow, if we turned it over to Google's ad department.",
+        "translation": "如果我们把这份通缉名单交给谷歌的广告部门，他们明天就能把名单上的每一个恐怖分子都“搞定”。"
+    },
+    {
+        "ID": 539,
+        "joke": "A Jewish girl.. ..asks her father, \"Dad? Can I have 50 dollars?\" he says, \"40 dollars? What do you need 30 dollars for?\"",
+        "translation": "一个犹太女孩……向她爸爸问道：“爸爸，我能要50美元吗？”爸爸说：“40美元？你干嘛要30美元？”"
+    },
+    {
+        "ID": 540,
+        "joke": "We're all born with scars. from the moment we open our eyes and look at the world we are wounded, we all share that same mark... Bellybuttons.",
+        "translation": "我们一出生就有疤痕。从我们睁开眼睛看这个世界开始，我们就受了伤，我们都带着同样的印记……肚脐眼。"
+    },
+    {
+        "ID": 541,
+        "joke": "How many hipsters does it take to change a lightbulb... It's quite an obscure number you probably would not have heard of it.",
+        "translation": "多少hipster才能换一个灯泡……这个数字相当冷门，你可能都没听说过。"
+    },
+    {
+        "ID": 542,
+        "joke": "The world is becoming too politically correct You can't even say black paint anymore, instead you have to say \"Lamar can you please paint the fence\".",
+        "translation": "世界变得太政治正确了，你都不能说黑颜色的油漆了，而是让你说“拉马，你能把篱笆刷一下吗”。"
+    },
+    {
+        "ID": 543,
+        "joke": "*pulls out earbud* What? \"We need to talk.\" *pulls out earbud* \"You've been spending too much time at Chernobyl.\" *pulls out earbud* No way",
+        "translation": "*拉出耳塞*什么？“我们得谈谈。”*拉出耳塞*“你一直在切尔诺贝利待着呢。”*拉出耳塞*不可能吧。"
+    },
+    {
+        "ID": 544,
+        "joke": "Barbie comes with GI Joe She only fakes it with Ken. Saw plenty of pregnant Barbie jokes in this sub-reddit, but not this one.",
+        "translation": "芭比配有GI Joe，她只有在和肯一起的时候才假装怀孕。我在这个子版块看到了很多关于怀孕芭比的笑话，但还没有看到这个版本的。芭比和Ken在一起的时候才有假孕，和GI Joe玩的时候可不会装。"
+    },
+    {
+        "ID": 545,
+        "joke": "The economy is doing really bad... Its so bad that when Bill and Hillary Clinton travel, they have to share a room.",
+        "translation": "经济状况真的非常不好……糟糕到这种程度，以至于比尔和希拉里·克林顿出行时连酒店房间都得合住一个。"
+    },
+    {
+        "ID": 546,
+        "joke": "Why don't north Koreans listen to funk? Cos they've got no Seoul! Thank you very much.",
+        "translation": "为什么北韩人不听放克音乐？因为他们没有首尔！谢谢大家。"
+    },
+    {
+        "ID": 547,
+        "joke": "*LIGHTHOUSE* BATMAN - You call? L/HOUSE KEEPER - Shit, not again man. I am so sorry. BATMAN - Dead seagull on the light? LK -*Nods*",
+        "translation": "**灯塔**：蝙蝠侠，你打来电话了？  灯塔管理员：妈的，又来了，真对不起。  蝙蝠侠：灯塔上面有一只死海鸥？  灯塔管理员：——点头"
+    },
+    {
+        "ID": 548,
+        "joke": "I don't care if you don't like space puns. I like space puns. Comet me bro.",
+        "translation": "我不在乎你喜不喜欢太空双关，我喜欢太空双关。Comet me 哥。"
+    },
+    {
+        "ID": 549,
+        "joke": "What did one deer say to the other after leaving the bar? I can't believe you just blew 50 bucks in there",
+        "translation": "what did one鹿对另一只鹿说，它刚在酒吧花了50美元出来？我真不敢相信你刚才把50美元都吹到里面去了。"
+    },
+    {
+        "ID": 550,
+        "joke": "My necrophiliac girlfriend told me I was dead to her. That is the nicest thing anyone has ever said to me.",
+        "translation": "我的 necrophiliac 女朋友告诉我她已经跟我断绝来往了。这是有人对我说过最好听的一句话。"
+    },
+    {
+        "ID": 551,
+        "joke": "How many egoists does it take to change a lightbulb? One. They simply hold the bulb and wait for the world to revolve around them.",
+        "translation": "多少自我主义者才能换一只灯泡？一个就够了。他们 simply 拿着灯泡，然后等着世界围着他们转。"
+    },
+    {
+        "ID": 552,
+        "joke": "I'm Winston Wolf, I fix problems. So I hear you're having a bad hair day.",
+        "translation": "我叫温斯顿·狼，我解决麻烦问题。听说你今天头发不好？"
+    },
+    {
+        "ID": 553,
+        "joke": "What's the difference between a lentil and a chickpea? [NSFW] I wouldn't pay five hundred dollars to have a lentil on my face.",
+        "translation": "黄豆和鹰嘴豆有什么区别？[不适合所有人群] 我不会花五百美元在我的脸上弄个黄豆豆。"
+    },
+    {
+        "ID": 554,
+        "joke": "Monday Morning......Rolling out of bed is easy. Getting up off  the floor is another story.",
+        "translation": "星期一早上……从床上醒来是容易的。而从地上爬起来又是另一回事。"
+    },
+    {
+        "ID": 555,
+        "joke": "What the hell is Minecraft? Hitler's lesser known, second, book about his love of knitting.",
+        "translation": "什么是《我的世界》？这是希特勒一本不太出名的第二本书，书中讲述了他热爱钩织的故事。"
+    },
+    {
+        "ID": 556,
+        "joke": "My girlfriend is half my size but takes up three quarters of the bed. If my math is correct, she's a bitch",
+        "translation": "我的女朋友是我一半的高度，但占了床上三分之二的空间。如果我的数学没有出错，她真是个爱抱怨的女人。"
+    },
+    {
+        "ID": 557,
+        "joke": "I like my women like I like my microwaves... Cold on the outside, warm on the inside, and willing and able to kill any baby I put inside them.",
+        "translation": "我喜欢我的女人就像我喜欢微波炉一样……外面冷里面热，而且愿意并且能够孕育我放进她们身体里的任何宝宝。"
+    },
+    {
+        "ID": 558,
+        "joke": "What did Kurt Kobain have such a terrible time in 7th grade? He was having a mid-life crisis.",
+        "translation": "科特·柯本在七年级时为什么过得如此糟糕？他正处于中年危机中。"
+    },
+    {
+        "ID": 559,
+        "joke": "8: Daddy can we go to a haunted house tonight? Me: You spent the night at Grandmas last week. 8: What? Me: Nothing. 8: I'm telling mom.",
+        "translation": "8: 爸爸我们今晚能去鬼屋吗？  爸爸：你上周不是在奶奶家过夜了吗？  8: 什么？  爸爸：没什么。  8: 我告诉妈妈去。"
+    },
+    {
+        "ID": 560,
+        "joke": "What has two eyes but can't see, two wings but can't fly, and two legs but can't walk? A dead bird.",
+        "translation": "什么有两个眼睛却看不见，两个翅膀却飞不起来，两条腿却走不动？一只死鸟。"
+    },
+    {
+        "ID": 561,
+        "joke": "Oh, you want me to watch everything you have in less than the one-month free trial period? Challenge accepted, Netflix.",
+        "translation": "哦，你想要我在不到一个月的免费试用期内看完你所有的东西？NETFLIX，我接受了。"
+    },
+    {
+        "ID": 562,
+        "joke": "I think my professor might not know my name. He keeps on correcting it with the word \"Late\" on all my papers.",
+        "translation": "我想我的教授可能不知道我的名字，他在我的所有论文里都把我名字写成了“ Late”。"
+    },
+    {
+        "ID": 563,
+        "joke": "Cutest thing I saw today was the dad angrily slamming the sliding door of his minivan but it slowed down by itself and latched silently",
+        "translation": "今天最萌的一幕是，爸爸生气地拍了一下他的迷你货车的滑动门，但那门自己慢了下来，然后安静地关上了。"
+    },
+    {
+        "ID": 564,
+        "joke": "I don't have a gf, but I do know a woman who in the car often asks where this is going so I show her the GPS & she gets mad for some reason.",
+        "translation": "我没有女朋友，但我知道一个女人，经常在车上问我这是要去哪儿，所以我把GPS给她看，但她莫名其妙地生起气来。"
+    },
+    {
+        "ID": 565,
+        "joke": "it is hard to b scared of a angry person once u realize that they just wanted to tie a knot but insted of using string they used their arms",
+        "translation": "让你害怕一个生气的人很难，尤其是当你意识到他们其实只是想打个结，但却误用了手臂而不是绳子。"
+    },
+    {
+        "ID": 566,
+        "joke": "What sound does a Chinese roller coaster make as it goes up an incline? chink chink chink chink",
+        "translation": "过山车爬坡时，中国过山车会发出什么声音？叮叮叮叮。"
+    },
+    {
+        "ID": 567,
+        "joke": "A teacher walks into a bar Guy: can I buy you a drink? Teacher: I don't know, CAN you?",
+        "translation": "一个老师走进了一家酒吧。 guy：我能请你喝一杯吗？老师：我不确定，你“CAN”吗？"
+    },
+    {
+        "ID": 568,
+        "joke": "When a cop pulls you over for a DUI at 2am on Friday night & tells you to walk the line-it's never good to start singing Johnny Cash songs.",
+        "translation": "当警察在周五深夜两点钟把你拦下来检查酒驾，并让你走个直线时，你最好别开始唱约翰尼·卡什的歌。"
+    },
+    {
+        "ID": 569,
+        "joke": "A Latino shot an unarmed black man today, and everyone is in an uproar Especially the police, saying \"They took our jobs!\"",
+        "translation": "今天一个拉丁美洲人射杀了一个 unarmed 黑人，现在大家哗然了，尤其是警察，他们说：“他们抢走了我们的工作！”"
+    },
+    {
+        "ID": 570,
+        "joke": "[interview] Your resume says you have a \"take no prisoners attitude\". You know you are applying to be a corrections officer, right?",
+        "translation": "[面试] 你的简历上写着你有“不讲慈悲的态度”。你知道你正在申请成为一名狱警，对吧？"
+    },
+    {
+        "ID": 571,
+        "joke": "Spider: Why don't you like us? Most us are harmless and we kill all the bugs in your house? We just want to help Humans: EW EW EW EW OMG",
+        "translation": "蜘蛛：你为什么不喜欢我们？我们大多数都不有毒，还帮你消灭家里所有的虫子？我们只是想帮忙。人类：EW EW EW EW OMG"
+    },
+    {
+        "ID": 572,
+        "joke": "Let's make fake tan orange people an official race so we can discriminate against them properly.",
+        "translation": "让我们把假晒成橘色的人列为一个正式的种族，这样我们就可以合理地歧视他们了。"
+    },
+    {
+        "ID": 573,
+        "joke": "Why is there an eject button on the DVD remote? I still have to get up and take the disc out. It's like having a remote to open the fridge.",
+        "translation": "为什么DVD遥控器上有一个弹出按钮？我还是要站起来把碟片取出来。这就像是有一个开门冰箱的遥控器一样。"
+    },
+    {
+        "ID": 574,
+        "joke": "If I win this lottery I'd give half to charity She treated me well at the strip club",
+        "translation": "如果我中了彩票，我会把一半的钱捐给慈善机构，她在我夜店里的时候对我很好。"
+    },
+    {
+        "ID": 575,
+        "joke": "I invented a SJW alarm clock. It not only tells you the time, it reminds you what year it is, too.",
+        "translation": "我发明了一个SJW型闹钟。它不仅能告诉你时间，还能提醒你现在的年份。"
+    },
+    {
+        "ID": 576,
+        "joke": "A Zach Galifinakis-style \"impression\" joke. The character I'm working on is: MOMENTARILY CONFUSED BATMAN &lt;husky voice&gt;: Alfred... &lt;regular voice&gt;: Ahem... I mean hey Alfred",
+        "translation": "一种以扎克·加利凡纳基斯风格呈现的角色“模仿”笑话。我的角色是：迷茫了一下蝙蝠侠＜沙哑的声音＞：阿弗雷德……＜正常的声音＞：咳……我是说嘿，阿弗雷德"
+    },
+    {
+        "ID": 577,
+        "joke": "What's the difference between acetone and Hitler? One is used to remove the polish, and the other is used to remove the Polish.",
+        "translation": "acetone 和希特勒有什么区别？一个用来去除鞋油，另一个用来去除波兰人。"
+    },
+    {
+        "ID": 578,
+        "joke": "If two pharaohs farted at the same time They would have a toot in common",
+        "translation": "如果两个法老同时放了个屁，他们就有一“屁”相通。"
+    },
+    {
+        "ID": 579,
+        "joke": "How did the sad clown smile and laugh again? They told him his wife died recently.",
+        "translation": "这个悲伤的丑角又是如何重新笑起来的？他们告诉他，他的妻子最近去世了。"
+    },
+    {
+        "ID": 580,
+        "joke": "Two cookies were walking across the road... ... one gets hit by a car, the other one says \"ah crumbs...\"",
+        "translation": "两块饼干正在过马路…………一辆车撞到了一块饼干，另一块饼干说：“哎呀，碎屑！”"
+    },
+    {
+        "ID": 581,
+        "joke": "A woman in her seventies overhearing that I was a tattoo artist asked if I wanted to see her \"rat\" tattoo. I said sure. She revealed a bare hip and said \"Oh, I guess my pussy must have ate it\"",
+        "translation": "一个七十多岁的女人听我是一名纹身师后，问我是否想看看她的“老鼠”纹身。我说当然可以。她露出一条裸露的髋部，然后说：“哦，我想大概是我的‘私处’把它吃掉了。”"
+    },
+    {
+        "ID": 582,
+        "joke": "That one. \"that one.\" says a booy. \"what do you mean?\" says another boy. \"oh, i was just answering your question.\" \"what question?\" \"i already told you.\"",
+        "translation": "那一个。“那一个？”一个男孩说。“你的意思是？”另一个男孩问。“哦，我只是回答了你的问题。”“什么问题？”“我已经告诉你了。”"
+    },
+    {
+        "ID": 583,
+        "joke": "Need jokes with the same punchline as this. Help! What do you call a boomerang that doesn't come back? A stick.",
+        "translation": "需要这样的笑料吗？求帮忙！一个不会回来的回力标叫什么？一根木棍。"
+    },
+    {
+        "ID": 584,
+        "joke": "A grasshopper sits at the bar... ...and the bartender says, \"Hey, we have a drink named after you!\" The grasshopper says, \"You have a drink named Steve?\"",
+        "translation": "一只蚱蜢坐在吧台前…………调酒师说，“嘿，我们有一种以你的名字命名的鸡尾酒！”蚱蜢说，“你们有一种以史蒂夫命名的鸡尾酒？”"
+    },
+    {
+        "ID": 585,
+        "joke": "Found out the difference between onions and men. I don't cry when I'm chopping up men.",
+        "translation": "发现洋葱和男人的区别了。切洋葱的时候我从来不哭，男人也从来不哭。"
+    },
+    {
+        "ID": 586,
+        "joke": "You wanna hear a dirty joke A horse fell in the mud. And then some crazy lesbian who hates horses put on a strap on and fucked it till it died.",
+        "translation": "你想要听一个黄色笑话吗？一匹马掉进了泥里。然后有一个变态的女同性恋，她讨厌马，戴上了一个 strapon 插到了马身上，直到把它插死。"
+    },
+    {
+        "ID": 587,
+        "joke": "I went to a fancy dress party as a calendar A guy came up to me and said \"Your days are numbered\"",
+        "translation": "我去参加了一个化装舞会，化成了一个日历。一个 guy 走过来对我说：“你的日子屈指可数了。”"
+    },
+    {
+        "ID": 588,
+        "joke": "The Unabomber What do the Unabomber and a girl from Alabama have in common? They were both fingered by their brother.",
+        "translation": "连环杀手与阿拉巴马州的女孩有什么共同点？他们都是被自己兄弟指认出来的。"
+    },
+    {
+        "ID": 589,
+        "joke": "Customer care: Your call is important to us, please hold on. Customer: *completes graduation* *gets a job* *gets married* *gets old* *dies*",
+        "translation": "客服：您的来电对我们很重要，请稍候。  客户：*完成了毕业* *找到了工作* *结了婚* *变老了* *去世了*"
     }
 ]
