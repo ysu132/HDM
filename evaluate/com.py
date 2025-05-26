@@ -2,9 +2,13 @@ from comet import download_model, load_from_checkpoint
 import json
 from tqdm import tqdm
 
-input_humour = '/data/home/ysu132/HTDM/qwen/humour_consistency.json'
+input_humour = '/data/home/ysu132/HTDM/baseline/qwen14b/base.json'
 with open(input_humour, 'r', encoding='utf-8') as csvhumour:
     filtered_humour = json.load(csvhumour)
+    
+maps = "/data/home/ysu132/HTDM/qwen14b/humour_consistency.json"
+with open(maps, 'r', encoding='utf-8') as csvmaps:
+    filtered_csvmaps = json.load(csvmaps)
 
 
 # 下载并加载 COMET-QE 预训练模型
@@ -16,7 +20,7 @@ data = []
 for i in tqdm(range(len(filtered_humour))):
     humour_temp = {
             "src": filtered_humour[i]["joke"],
-            "mt": filtered_humour[i]["translation"]
+            "mt": filtered_csvmaps[i]["translation"]
         }
     data.append(humour_temp)
 

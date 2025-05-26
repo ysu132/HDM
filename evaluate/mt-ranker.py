@@ -3,9 +3,11 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, MT5E
 from transformers import PretrainedConfig, PreTrainedModel
 import json
 from tqdm import tqdm
-
-input_trnalsation1 = '/home/ysu132/HTDM/qwen/humour_consistency.json'
-input_translation2 = '/home/ysu132/HTDM/qwen/humour_llmfilter.json'
+import os
+import torch.nn as nn
+# os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
+input_trnalsation1 = '/data/home/ysu132/HTDM/qwen14b/humour_consistency.json'
+input_translation2 = '/data/home/ysu132/Github/MAPS/MAPS-mt/model/alpaca/maps_kw.json'
 
 with open(input_trnalsation1, 'r', encoding='utf-8') as csvtopic:
     filtered_translation1 = json.load(csvtopic)
@@ -40,18 +42,24 @@ class MTRanker(PreTrainedModel):
 
 tokenizer = AutoTokenizer.from_pretrained('ibraheemmoosa/mt-ranker-xxl')
 model = MTRanker.from_pretrained('ibraheemmoosa/mt-ranker-xxl')
+model = nn.DataParallel(model)
+model = model.cuda()
 
-total = torch.tensor([[0.00,0.00]])
-for i in tqdm(range(len(filtered_translation1))):
+total = torch.tensor([[0.00,0.00]]).cuda()
+l1, l2 = 0.0, 0.0
+for i in tqdm(range(len(filtered_translation2))):
     text = "Source: "+filtered_translation1[i]["joke"]+" Translation 0: "+filtered_translation1[i]["translation"]+". Translation 1: "+filtered_translation2[i]["translation"]+"."
 
     tokenized = tokenizer(text, return_tensors="pt")
 
-    input_ids = tokenized.input_ids
-    attn_mask = tokenized.attention_mask
+    input_ids = tokenized.input_ids.cuda()
+    attn_mask = tokenized.attention_mask.cuda()
     generated_ids = model(input_ids, attn_mask)
+    new = generated_ids.tolist()
+    print(new)
+    l1 += new[0][0]
+    l2 += new[0][1]
+    # total += generated_ids
+    # # print(generated_ids)
 
-    total += generated_ids
-    # print(generated_ids)
-
-print(total)
+print(l1,l2)

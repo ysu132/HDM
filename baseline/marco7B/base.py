@@ -6,13 +6,13 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import csv
 import json
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 # model_name_or_path = "wxjiao/alpaca-7b"
-model_name_or_path = "Qwen/Qwen2.5-7B-Instruct"
+model_name_or_path = "AIDC-AI/Marco-o1"
 # input_file = '/data/home/ysu132/HTDM/data/filtered_jokes.json'
 input_file = '/data/home/ysu132/Github/DUAL/Dual-Reflect/output/baseline_dual_reflect_qwen_4lp.jsonl'
-output_file = '/data/home/ysu132/HTDM/baseline/qwen2.5/base.json'
+output_file = '/data/home/ysu132/HTDM/baseline/marco7B/base.json'
 
 # with open(input_file, 'r', encoding='utf-8') as csvfile:
 #     filtered_joke = json.load(csvfile)
@@ -54,7 +54,7 @@ for i in tqdm(range(len(filtered_joke))):
     #                     f"Input: {jokes[i]}\n" + "Description:"
     joke = filtered_joke[i]["src_text"]
     messages = [
-            {"role": "system", "content": "Please translate the following joke from English into Chinese."},
+            {"role": "system", "content": "Please translate the following joke from English into Chinese. (Please only output the translation)"},
             {"role": "user", "content": f"Input: {joke}\n" + "Description:"}
         ]
     text = tokenizer.apply_chat_template(

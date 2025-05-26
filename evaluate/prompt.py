@@ -105,6 +105,10 @@ prompts = {
         "validate_answer": lambda x: validate_number(x),
         "use_ref": True},
 
+    "GEMBA-SQM-xx": {
+        "prompt": 'Score the following sentence on a continuous scale from 0 to 100 that starts on "No humour", goes through "Some humour", then "Humour", up to "Most humour".\n\n{source_lang} source: "{source_seg}"\n{target_lang} translation: "{target_seg}"\nScore (0-100): ',
+        "validate_answer": lambda x: validate_number(x),
+        "use_ref": False},
     "GEMBA-SQM": {
         "prompt": 'Score the following sentence on a continuous scale from 0 to 100 that starts on "No humour", goes through "Some humour", then "Humour", up to "Most humour".\n\nSentence: "{sentence}"\nScore (0-100): ',
         "validate_answer": lambda x: validate_number(x),

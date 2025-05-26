@@ -45,7 +45,7 @@ for each in Chinese_data[:]:
     seed=40,
     temperature=0.1,
     messages=[
-        {"role": "system", "content": "Please translate the analysis from Englsih into Spanish:"},
+        {"role": "system", "content": "Please translate the analysis from Englsih into Chinese:"},
         {"role": "user", "content": explain}
     ]
     )    
@@ -58,7 +58,7 @@ for each in Chinese_data[:]:
     seed=40,
     temperature=0.1,
     messages=[
-        {"role": "system", "content": "Please generate a Spanish joke based on the analysis (only output the joke): "},
+        {"role": "system", "content": "Please generate a Chinese joke based on the analysis (only output the joke): "},
         {"role": "user", "content": translate}
     ]
     )    
