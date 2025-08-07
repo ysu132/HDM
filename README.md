@@ -1,3 +1,3 @@
 # HTDM
 
-Humour Theory Decomposition Mechanism (HTDM) for human translation
+Humour Decomposition Mechanism (HDM) for human translation
